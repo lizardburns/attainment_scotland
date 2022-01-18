@@ -204,7 +204,12 @@ dist_plot <- function(data) {
     ggplot2::geom_col(position = ggplot2::position_dodge()) +
     ggplot2::scale_fill_manual(values = cols_sqa) +
     ggplot2::theme_bw() +
-    ggplot2::theme(plot.title.position = "plot") +
+    ggplot2::theme(plot.title.position = "plot",
+                   axis.text = ggplot2::element_text(size = 14),
+                   axis.title = ggplot2::element_text(size = 15),
+                   legend.text = ggplot2::element_text(size = 14),
+                   legend.title = ggplot2::element_text(size = 15),
+                   plot.title = ggplot2::element_text(size = 18)) +
     ggplot2::scale_y_continuous(
       expand = ggplot2::expansion(mult = c(0,.05)),
       labels = ~scales::percent(., accuracy = 1)
