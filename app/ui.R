@@ -3,12 +3,19 @@ ui <- shiny::fluidPage(
   # includeCSS("www/custom.css"),
   
   # prep for ofqual logo in tabbar ----
-  list(tags$head(HTML('<link rel="icon", href="sqa.org.uk", type="image/jpg" />'))),
+  list(tags$head(HTML('<link rel="icon", href="sqa.jpg", type="image/jpg" />'))),
   div(style="padding: 1px 0px; width: '100%'", titlePanel(title="", windowTitle="Attainment")),
   
   navbarPage(
     # insert ofqual logo in tabbar ----
-    title = div(img(src="sqa.jpg", height = 40), strong("Summer attainment")),
+    title = div(
+      a(
+        img(src="2infectious.png", 
+            height = 30),
+        href = "https://github.com/lizardburns"
+        ), 
+      strong("National 5, Higher & Advanced higher results")
+      ),
     
     # Item tab ----
     tabPanel(
