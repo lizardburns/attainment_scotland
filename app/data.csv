@@ -1,9 +1,4 @@
 Qualification,Subject,Year,n,pc,Number of entries,Grade threshold
-Advanced highers (SCQF level 7),Accounting,2021,46,0.605,76,A
-Advanced highers (SCQF level 7),Accounting,2021,54,0.711,76,B & above
-Advanced highers (SCQF level 7),Accounting,2021,65,0.855,76,C & above
-Advanced highers (SCQF level 7),Accounting,2021,69,0.9079999999999999,76,D & above
-Advanced highers (SCQF level 7),Accounting,2021,7,0.092,76,U
 Advanced highers (SCQF level 7),Art and Design (Design),2021,297,0.46799999999999997,634,A
 Advanced highers (SCQF level 7),Art and Design (Design),2021,486,0.767,634,B & above
 Advanced highers (SCQF level 7),Art and Design (Design),2021,603,0.951,634,C & above
@@ -29,41 +24,16 @@ Advanced highers (SCQF level 7),Chemistry,2021,1856,0.6940000000000001,"2,675",B
 Advanced highers (SCQF level 7),Chemistry,2021,2306,0.862,"2,675",C & above
 Advanced highers (SCQF level 7),Chemistry,2021,2506,0.937,"2,675",D & above
 Advanced highers (SCQF level 7),Chemistry,2021,169,0.063,"2,675",U
-Advanced highers (SCQF level 7),Chinese Languages,2021,51,0.8640000000000001,59,A
-Advanced highers (SCQF level 7),Chinese Languages,2021,57,0.966,59,B & above
-Advanced highers (SCQF level 7),Chinese Languages,2021,59,1,59,C & above
-Advanced highers (SCQF level 7),Chinese Languages,2021,59,1,59,D & above
-Advanced highers (SCQF level 7),Chinese Languages,2021,0,0,59,U
-Advanced highers (SCQF level 7),Classical Studies,2021,25,0.6940000000000001,36,A
-Advanced highers (SCQF level 7),Classical Studies,2021,32,0.889,36,B & above
-Advanced highers (SCQF level 7),Classical Studies,2021,36,1,36,C & above
-Advanced highers (SCQF level 7),Classical Studies,2021,36,1,36,D & above
-Advanced highers (SCQF level 7),Classical Studies,2021,0,0,36,U
 Advanced highers (SCQF level 7),Computing Science,2021,265,0.469,565,A
 Advanced highers (SCQF level 7),Computing Science,2021,390,0.69,565,B & above
 Advanced highers (SCQF level 7),Computing Science,2021,501,0.887,565,C & above
 Advanced highers (SCQF level 7),Computing Science,2021,535,0.9470000000000001,565,D & above
 Advanced highers (SCQF level 7),Computing Science,2021,30,0.053,565,U
-Advanced highers (SCQF level 7),Design and Manufacture,2021,33,0.306,108,A
-Advanced highers (SCQF level 7),Design and Manufacture,2021,58,0.537,108,B & above
-Advanced highers (SCQF level 7),Design and Manufacture,2021,94,0.87,108,C & above
-Advanced highers (SCQF level 7),Design and Manufacture,2021,102,0.9440000000000001,108,D & above
-Advanced highers (SCQF level 7),Design and Manufacture,2021,6,0.055999999999999994,108,U
 Advanced highers (SCQF level 7),Drama,2021,281,0.495,568,A
 Advanced highers (SCQF level 7),Drama,2021,429,0.755,568,B & above
 Advanced highers (SCQF level 7),Drama,2021,514,0.905,568,C & above
 Advanced highers (SCQF level 7),Drama,2021,545,0.96,568,D & above
 Advanced highers (SCQF level 7),Drama,2021,23,0.04,568,U
-Advanced highers (SCQF level 7),Economics,2021,66,0.835,79,A
-Advanced highers (SCQF level 7),Economics,2021,76,0.9620000000000001,79,B & above
-Advanced highers (SCQF level 7),Economics,2021,79,1,79,C & above
-Advanced highers (SCQF level 7),Economics,2021,79,1,79,D & above
-Advanced highers (SCQF level 7),Economics,2021,0,0,79,U
-Advanced highers (SCQF level 7),Engineering Science,2021,29,0.326,89,A
-Advanced highers (SCQF level 7),Engineering Science,2021,56,0.629,89,B & above
-Advanced highers (SCQF level 7),Engineering Science,2021,77,0.865,89,C & above
-Advanced highers (SCQF level 7),Engineering Science,2021,86,0.966,89,D & above
-Advanced highers (SCQF level 7),Engineering Science,2021,3,0.034,89,U
 Advanced highers (SCQF level 7),English,2021,1299,0.45899999999999996,"2,830",A
 Advanced highers (SCQF level 7),English,2021,2054,0.726,"2,830",B & above
 Advanced highers (SCQF level 7),English,2021,2597,0.9179999999999999,"2,830",C & above
@@ -74,11 +44,6 @@ Advanced highers (SCQF level 7),French,2021,485,0.821,591,B & above
 Advanced highers (SCQF level 7),French,2021,559,0.946,591,C & above
 Advanced highers (SCQF level 7),French,2021,582,0.985,591,D & above
 Advanced highers (SCQF level 7),French,2021,9,0.015,591,U
-Advanced highers (SCQF level 7),Gàidhlig,2021,19,0.633,30,A
-Advanced highers (SCQF level 7),Gàidhlig,2021,25,0.833,30,B & above
-Advanced highers (SCQF level 7),Gàidhlig,2021,29,0.9670000000000001,30,C & above
-Advanced highers (SCQF level 7),Gàidhlig,2021,30,1,30,D & above
-Advanced highers (SCQF level 7),Gàidhlig,2021,0,0,30,U
 Advanced highers (SCQF level 7),Geography,2021,368,0.46299999999999997,794,A
 Advanced highers (SCQF level 7),Geography,2021,591,0.7440000000000001,794,B & above
 Advanced highers (SCQF level 7),Geography,2021,742,0.935,794,C & above
@@ -99,16 +64,6 @@ Advanced highers (SCQF level 7),History,2021,1085,0.7490000000000001,"1,449",B &
 Advanced highers (SCQF level 7),History,2021,1347,0.93,"1,449",C & above
 Advanced highers (SCQF level 7),History,2021,1419,0.9790000000000001,"1,449",D & above
 Advanced highers (SCQF level 7),History,2021,30,0.021,"1,449",U
-Advanced highers (SCQF level 7),Italian,2021,30,0.909,33,A
-Advanced highers (SCQF level 7),Italian,2021,32,0.97,33,B & above
-Advanced highers (SCQF level 7),Italian,2021,33,1,33,C & above
-Advanced highers (SCQF level 7),Italian,2021,33,1,33,D & above
-Advanced highers (SCQF level 7),Italian,2021,0,0,33,U
-Advanced highers (SCQF level 7),Latin,2021,27,0.73,37,A
-Advanced highers (SCQF level 7),Latin,2021,34,0.919,37,B & above
-Advanced highers (SCQF level 7),Latin,2021,36,0.973,37,C & above
-Advanced highers (SCQF level 7),Latin,2021,37,1,37,D & above
-Advanced highers (SCQF level 7),Latin,2021,0,0,37,U
 Advanced highers (SCQF level 7),Mathematics,2021,2188,0.578,"3,783",A
 Advanced highers (SCQF level 7),Mathematics,2021,2822,0.746,"3,783",B & above
 Advanced highers (SCQF level 7),Mathematics,2021,3291,0.87,"3,783",C & above
@@ -129,16 +84,6 @@ Advanced highers (SCQF level 7),Music,2021,1650,0.8859999999999999,"1,862",B & a
 Advanced highers (SCQF level 7),Music,2021,1821,0.978,"1,862",C & above
 Advanced highers (SCQF level 7),Music,2021,1847,0.992,"1,862",D & above
 Advanced highers (SCQF level 7),Music,2021,15,0.008,"1,862",U
-Advanced highers (SCQF level 7),Music Technology,2021,21,0.375,56,A
-Advanced highers (SCQF level 7),Music Technology,2021,33,0.589,56,B & above
-Advanced highers (SCQF level 7),Music Technology,2021,46,0.821,56,C & above
-Advanced highers (SCQF level 7),Music Technology,2021,48,0.857,56,D & above
-Advanced highers (SCQF level 7),Music Technology,2021,8,0.14300000000000002,56,U
-Advanced highers (SCQF level 7),Music: Portfolio,2021,12,0.75,16,A
-Advanced highers (SCQF level 7),Music: Portfolio,2021,15,0.938,16,B & above
-Advanced highers (SCQF level 7),Music: Portfolio,2021,16,1,16,C & above
-Advanced highers (SCQF level 7),Music: Portfolio,2021,16,1,16,D & above
-Advanced highers (SCQF level 7),Music: Portfolio,2021,0,0,16,U
 Advanced highers (SCQF level 7),Physical Education,2021,404,0.501,807,A
 Advanced highers (SCQF level 7),Physical Education,2021,624,0.773,807,B & above
 Advanced highers (SCQF level 7),Physical Education,2021,759,0.941,807,C & above
@@ -169,11 +114,6 @@ Advanced highers (SCQF level 7),All subjects,2021,19888,0.742,"26,795",B & above
 Advanced highers (SCQF level 7),All subjects,2021,24162,0.902,"26,795",C & above
 Advanced highers (SCQF level 7),All subjects,2021,25644,0.9570000000000001,"26,795",D & above
 Advanced highers (SCQF level 7),All subjects,2021,1151,0.043,"26,795",U
-Advanced highers (SCQF level 7),Accounting,2020,42,0.677,62,A
-Advanced highers (SCQF level 7),Accounting,2020,50,0.8059999999999999,62,B & above
-Advanced highers (SCQF level 7),Accounting,2020,60,0.968,62,C & above
-Advanced highers (SCQF level 7),Accounting,2020,60,0.968,62,D & above
-Advanced highers (SCQF level 7),Accounting,2020,2,0.032,62,U
 Advanced highers (SCQF level 7),Art and Design (Design),2020,241,0.447,539,A
 Advanced highers (SCQF level 7),Art and Design (Design),2020,429,0.7959999999999999,539,B & above
 Advanced highers (SCQF level 7),Art and Design (Design),2020,514,0.9540000000000001,539,C & above
@@ -199,41 +139,16 @@ Advanced highers (SCQF level 7),Chemistry,2020,1820,0.7120000000000001,"2,555",B
 Advanced highers (SCQF level 7),Chemistry,2020,2369,0.927,"2,555",C & above
 Advanced highers (SCQF level 7),Chemistry,2020,2505,0.98,"2,555",D & above
 Advanced highers (SCQF level 7),Chemistry,2020,50,0.02,"2,555",U
-Advanced highers (SCQF level 7),Chinese Languages,2020,55,0.902,61,A
-Advanced highers (SCQF level 7),Chinese Languages,2020,61,1,61,B & above
-Advanced highers (SCQF level 7),Chinese Languages,2020,61,1,61,C & above
-Advanced highers (SCQF level 7),Chinese Languages,2020,61,1,61,D & above
-Advanced highers (SCQF level 7),Chinese Languages,2020,0,0,61,U
-Advanced highers (SCQF level 7),Classical Studies,2020,17,0.5479999999999999,31,A
-Advanced highers (SCQF level 7),Classical Studies,2020,29,0.935,31,B & above
-Advanced highers (SCQF level 7),Classical Studies,2020,31,1,31,C & above
-Advanced highers (SCQF level 7),Classical Studies,2020,31,1,31,D & above
-Advanced highers (SCQF level 7),Classical Studies,2020,0,0,31,U
 Advanced highers (SCQF level 7),Computing Science,2020,218,0.44299999999999995,492,A
 Advanced highers (SCQF level 7),Computing Science,2020,375,0.762,492,B & above
 Advanced highers (SCQF level 7),Computing Science,2020,462,0.9390000000000001,492,C & above
 Advanced highers (SCQF level 7),Computing Science,2020,479,0.9740000000000001,492,D & above
 Advanced highers (SCQF level 7),Computing Science,2020,13,0.026000000000000002,492,U
-Advanced highers (SCQF level 7),Design and Manufacture,2020,14,0.298,47,A
-Advanced highers (SCQF level 7),Design and Manufacture,2020,33,0.7020000000000001,47,B & above
-Advanced highers (SCQF level 7),Design and Manufacture,2020,43,0.915,47,C & above
-Advanced highers (SCQF level 7),Design and Manufacture,2020,46,0.9790000000000001,47,D & above
-Advanced highers (SCQF level 7),Design and Manufacture,2020,1,0.021,47,U
 Advanced highers (SCQF level 7),Drama,2020,268,0.494,542,A
 Advanced highers (SCQF level 7),Drama,2020,438,0.8079999999999999,542,B & above
 Advanced highers (SCQF level 7),Drama,2020,530,0.978,542,C & above
 Advanced highers (SCQF level 7),Drama,2020,541,0.998,542,D & above
 Advanced highers (SCQF level 7),Drama,2020,1,0.002,542,U
-Advanced highers (SCQF level 7),Economics,2020,70,0.68,103,A
-Advanced highers (SCQF level 7),Economics,2020,91,0.883,103,B & above
-Advanced highers (SCQF level 7),Economics,2020,102,0.99,103,C & above
-Advanced highers (SCQF level 7),Economics,2020,103,1,103,D & above
-Advanced highers (SCQF level 7),Economics,2020,0,0,103,U
-Advanced highers (SCQF level 7),Engineering Science,2020,9,0.2,45,A
-Advanced highers (SCQF level 7),Engineering Science,2020,21,0.467,45,B & above
-Advanced highers (SCQF level 7),Engineering Science,2020,37,0.8220000000000001,45,C & above
-Advanced highers (SCQF level 7),Engineering Science,2020,42,0.9329999999999999,45,D & above
-Advanced highers (SCQF level 7),Engineering Science,2020,3,0.067,45,U
 Advanced highers (SCQF level 7),English,2020,835,0.373,"2,241",A
 Advanced highers (SCQF level 7),English,2020,1543,0.6890000000000001,"2,241",B & above
 Advanced highers (SCQF level 7),English,2020,2073,0.925,"2,241",C & above
@@ -244,11 +159,6 @@ Advanced highers (SCQF level 7),French,2020,492,0.857,574,B & above
 Advanced highers (SCQF level 7),French,2020,554,0.965,574,C & above
 Advanced highers (SCQF level 7),French,2020,572,0.997,574,D & above
 Advanced highers (SCQF level 7),French,2020,2,0.003,574,U
-Advanced highers (SCQF level 7),Gàidhlig,2020,27,0.628,43,A
-Advanced highers (SCQF level 7),Gàidhlig,2020,37,0.86,43,B & above
-Advanced highers (SCQF level 7),Gàidhlig,2020,42,0.977,43,C & above
-Advanced highers (SCQF level 7),Gàidhlig,2020,42,0.977,43,D & above
-Advanced highers (SCQF level 7),Gàidhlig,2020,1,0.023,43,U
 Advanced highers (SCQF level 7),Geography,2020,318,0.424,750,A
 Advanced highers (SCQF level 7),Geography,2020,564,0.752,750,B & above
 Advanced highers (SCQF level 7),Geography,2020,715,0.953,750,C & above
@@ -269,16 +179,6 @@ Advanced highers (SCQF level 7),History,2020,916,0.748,"1,224",B & above
 Advanced highers (SCQF level 7),History,2020,1147,0.937,"1,224",C & above
 Advanced highers (SCQF level 7),History,2020,1201,0.981,"1,224",D & above
 Advanced highers (SCQF level 7),History,2020,23,0.019,"1,224",U
-Advanced highers (SCQF level 7),Italian,2020,19,0.7040000000000001,27,A
-Advanced highers (SCQF level 7),Italian,2020,26,0.963,27,B & above
-Advanced highers (SCQF level 7),Italian,2020,27,1,27,C & above
-Advanced highers (SCQF level 7),Italian,2020,27,1,27,D & above
-Advanced highers (SCQF level 7),Italian,2020,0,0,27,U
-Advanced highers (SCQF level 7),Latin,2020,24,0.727,33,A
-Advanced highers (SCQF level 7),Latin,2020,32,0.97,33,B & above
-Advanced highers (SCQF level 7),Latin,2020,33,1,33,C & above
-Advanced highers (SCQF level 7),Latin,2020,33,1,33,D & above
-Advanced highers (SCQF level 7),Latin,2020,0,0,33,U
 Advanced highers (SCQF level 7),Mathematics,2020,1740,0.479,"3,635",A
 Advanced highers (SCQF level 7),Mathematics,2020,2543,0.7,"3,635",B & above
 Advanced highers (SCQF level 7),Mathematics,2020,3241,0.892,"3,635",C & above
@@ -299,16 +199,6 @@ Advanced highers (SCQF level 7),Music,2020,1449,0.879,"1,648",B & above
 Advanced highers (SCQF level 7),Music,2020,1616,0.981,"1,648",C & above
 Advanced highers (SCQF level 7),Music,2020,1638,0.9940000000000001,"1,648",D & above
 Advanced highers (SCQF level 7),Music,2020,10,0.006,"1,648",U
-Advanced highers (SCQF level 7),Music Technology,2020,19,0.594,32,A
-Advanced highers (SCQF level 7),Music Technology,2020,28,0.875,32,B & above
-Advanced highers (SCQF level 7),Music Technology,2020,32,1,32,C & above
-Advanced highers (SCQF level 7),Music Technology,2020,32,1,32,D & above
-Advanced highers (SCQF level 7),Music Technology,2020,0,0,32,U
-Advanced highers (SCQF level 7),Music: Portfolio,2020,18,0.72,25,A
-Advanced highers (SCQF level 7),Music: Portfolio,2020,25,1,25,B & above
-Advanced highers (SCQF level 7),Music: Portfolio,2020,25,1,25,C & above
-Advanced highers (SCQF level 7),Music: Portfolio,2020,25,1,25,D & above
-Advanced highers (SCQF level 7),Music: Portfolio,2020,0,0,25,U
 Advanced highers (SCQF level 7),Physical Education,2020,244,0.47600000000000003,513,A
 Advanced highers (SCQF level 7),Physical Education,2020,393,0.7659999999999999,513,B & above
 Advanced highers (SCQF level 7),Physical Education,2020,488,0.951,513,C & above
@@ -444,11 +334,6 @@ Highers (SCQF level 6),French,2021,2692,0.848,"3,175",B & above
 Highers (SCQF level 6),French,2021,3016,0.95,"3,175",C & above
 Highers (SCQF level 6),French,2021,3122,0.983,"3,175",D & above
 Highers (SCQF level 6),French,2021,53,0.017,"3,175",U
-Highers (SCQF level 6),Gaelic (Learners),2021,32,0.516,62,A
-Highers (SCQF level 6),Gaelic (Learners),2021,49,0.79,62,B & above
-Highers (SCQF level 6),Gaelic (Learners),2021,58,0.935,62,C & above
-Highers (SCQF level 6),Gaelic (Learners),2021,61,0.9840000000000001,62,D & above
-Highers (SCQF level 6),Gaelic (Learners),2021,1,0.016,62,U
 Highers (SCQF level 6),Gàidhlig,2021,63,0.534,118,A
 Highers (SCQF level 6),Gàidhlig,2021,96,0.8140000000000001,118,B & above
 Highers (SCQF level 6),Gàidhlig,2021,114,0.966,118,C & above
@@ -564,11 +449,6 @@ Highers (SCQF level 6),Spanish,2021,2510,0.833,"3,014",B & above
 Highers (SCQF level 6),Spanish,2021,2839,0.9420000000000001,"3,014",C & above
 Highers (SCQF level 6),Spanish,2021,2960,0.982,"3,014",D & above
 Highers (SCQF level 6),Spanish,2021,54,0.018000000000000002,"3,014",U
-Highers (SCQF level 6),Urdu,2021,86,0.905,95,A
-Highers (SCQF level 6),Urdu,2021,90,0.9470000000000001,95,B & above
-Highers (SCQF level 6),Urdu,2021,91,0.958,95,C & above
-Highers (SCQF level 6),Urdu,2021,93,0.9790000000000001,95,D & above
-Highers (SCQF level 6),Urdu,2021,2,0.021,95,U
 Highers (SCQF level 6),All subjects,2021,92753,0.47600000000000003,"194,661",A
 Highers (SCQF level 6),All subjects,2021,135866,0.698,"194,661",B & above
 Highers (SCQF level 6),All subjects,2021,169989,0.873,"194,661",C & above
@@ -679,11 +559,6 @@ Highers (SCQF level 6),French,2020,2726,0.861,"3,167",B & above
 Highers (SCQF level 6),French,2020,3067,0.968,"3,167",C & above
 Highers (SCQF level 6),French,2020,3137,0.991,"3,167",D & above
 Highers (SCQF level 6),French,2020,30,0.009000000000000001,"3,167",U
-Highers (SCQF level 6),Gaelic (Learners),2020,30,0.484,62,A
-Highers (SCQF level 6),Gaelic (Learners),2020,51,0.823,62,B & above
-Highers (SCQF level 6),Gaelic (Learners),2020,59,0.9520000000000001,62,C & above
-Highers (SCQF level 6),Gaelic (Learners),2020,62,1,62,D & above
-Highers (SCQF level 6),Gaelic (Learners),2020,0,0,62,U
 Highers (SCQF level 6),Gàidhlig,2020,69,0.531,130,A
 Highers (SCQF level 6),Gàidhlig,2020,114,0.877,130,B & above
 Highers (SCQF level 6),Gàidhlig,2020,128,0.985,130,C & above
@@ -799,11 +674,6 @@ Highers (SCQF level 6),Spanish,2020,2384,0.8220000000000001,"2,901",B & above
 Highers (SCQF level 6),Spanish,2020,2789,0.961,"2,901",C & above
 Highers (SCQF level 6),Spanish,2020,2874,0.991,"2,901",D & above
 Highers (SCQF level 6),Spanish,2020,27,0.009000000000000001,"2,901",U
-Highers (SCQF level 6),Urdu,2020,96,0.8140000000000001,118,A
-Highers (SCQF level 6),Urdu,2020,117,0.992,118,B & above
-Highers (SCQF level 6),Urdu,2020,117,0.992,118,C & above
-Highers (SCQF level 6),Urdu,2020,118,1,118,D & above
-Highers (SCQF level 6),Urdu,2020,0,0,118,U
 Highers (SCQF level 6),All subjects,2020,74478,0.4,"186,214",A
 Highers (SCQF level 6),All subjects,2020,124620,0.669,"186,214",B & above
 Highers (SCQF level 6),All subjects,2020,166208,0.893,"186,214",C & above
@@ -854,11 +724,6 @@ National 5 (SCQF level 5),Chinese Languages,2021,213,0.8690000000000001,245,B & 
 National 5 (SCQF level 5),Chinese Languages,2021,231,0.943,245,C & above
 National 5 (SCQF level 5),Chinese Languages,2021,242,0.988,245,D & above
 National 5 (SCQF level 5),Chinese Languages,2021,3,0.012,245,U
-National 5 (SCQF level 5),Classical Studies,2021,80,0.5589999999999999,143,A
-National 5 (SCQF level 5),Classical Studies,2021,104,0.727,143,B & above
-National 5 (SCQF level 5),Classical Studies,2021,129,0.902,143,C & above
-National 5 (SCQF level 5),Classical Studies,2021,142,0.993,143,D & above
-National 5 (SCQF level 5),Classical Studies,2021,1,0.006999999999999999,143,U
 National 5 (SCQF level 5),Computing Science,2021,2861,0.455,"6,288",A
 National 5 (SCQF level 5),Computing Science,2021,4201,0.6679999999999999,"6,288",B & above
 National 5 (SCQF level 5),Computing Science,2021,5426,0.863,"6,288",C & above
@@ -1044,11 +909,6 @@ National 5 (SCQF level 5),Spanish,2021,4181,0.7709999999999999,"5,424",B & above
 National 5 (SCQF level 5),Spanish,2021,4971,0.9159999999999999,"5,424",C & above
 National 5 (SCQF level 5),Spanish,2021,5295,0.976,"5,424",D & above
 National 5 (SCQF level 5),Spanish,2021,129,0.024,"5,424",U
-National 5 (SCQF level 5),Urdu,2021,52,0.7879999999999999,66,A
-National 5 (SCQF level 5),Urdu,2021,64,0.97,66,B & above
-National 5 (SCQF level 5),Urdu,2021,66,1,66,C & above
-National 5 (SCQF level 5),Urdu,2021,66,1,66,D & above
-National 5 (SCQF level 5),Urdu,2021,0,0,66,U
 National 5 (SCQF level 5),All subjects,2021,139133,0.467,"297,973",A
 National 5 (SCQF level 5),All subjects,2021,200837,0.674,"297,973",B & above
 National 5 (SCQF level 5),All subjects,2021,255517,0.858,"297,973",C & above
@@ -1099,11 +959,6 @@ National 5 (SCQF level 5),Chinese Languages,2020,231,0.895,258,B & above
 National 5 (SCQF level 5),Chinese Languages,2020,252,0.977,258,C & above
 National 5 (SCQF level 5),Chinese Languages,2020,257,0.996,258,D & above
 National 5 (SCQF level 5),Chinese Languages,2020,1,0.004,258,U
-National 5 (SCQF level 5),Classical Studies,2020,69,0.535,129,A
-National 5 (SCQF level 5),Classical Studies,2020,105,0.8140000000000001,129,B & above
-National 5 (SCQF level 5),Classical Studies,2020,122,0.946,129,C & above
-National 5 (SCQF level 5),Classical Studies,2020,127,0.9840000000000001,129,D & above
-National 5 (SCQF level 5),Classical Studies,2020,2,0.016,129,U
 National 5 (SCQF level 5),Computing Science,2020,2543,0.409,"6,216",A
 National 5 (SCQF level 5),Computing Science,2020,4133,0.665,"6,216",B & above
 National 5 (SCQF level 5),Computing Science,2020,5597,0.9,"6,216",C & above
@@ -1289,11 +1144,6 @@ National 5 (SCQF level 5),Spanish,2020,4538,0.7809999999999999,"5,813",B & above
 National 5 (SCQF level 5),Spanish,2020,5517,0.9490000000000001,"5,813",C & above
 National 5 (SCQF level 5),Spanish,2020,5752,0.99,"5,813",D & above
 National 5 (SCQF level 5),Spanish,2020,61,0.01,"5,813",U
-National 5 (SCQF level 5),Urdu,2020,78,0.897,87,A
-National 5 (SCQF level 5),Urdu,2020,85,0.977,87,B & above
-National 5 (SCQF level 5),Urdu,2020,87,1,87,C & above
-National 5 (SCQF level 5),Urdu,2020,87,1,87,D & above
-National 5 (SCQF level 5),Urdu,2020,0,0,87,U
 National 5 (SCQF level 5),All subjects,2020,127299,0.423,"300,639",A
 National 5 (SCQF level 5),All subjects,2020,201362,0.67,"300,639",B & above
 National 5 (SCQF level 5),All subjects,2020,267558,0.89,"300,639",C & above
@@ -1344,11 +1194,6 @@ National 5 (SCQF level 5),Chinese Languages,2019,158,0.8320000000000001,190,B & 
 National 5 (SCQF level 5),Chinese Languages,2019,183,0.963,190,C & above
 National 5 (SCQF level 5),Chinese Languages,2019,187,0.9840000000000001,190,D & above
 National 5 (SCQF level 5),Chinese Languages,2019,3,0.016,190,U
-National 5 (SCQF level 5),Classical Studies,2019,55,0.509,108,A
-National 5 (SCQF level 5),Classical Studies,2019,71,0.657,108,B & above
-National 5 (SCQF level 5),Classical Studies,2019,86,0.7959999999999999,108,C & above
-National 5 (SCQF level 5),Classical Studies,2019,99,0.917,108,D & above
-National 5 (SCQF level 5),Classical Studies,2019,9,0.083,108,U
 National 5 (SCQF level 5),Computing Science,2019,2000,0.315,"6,344",A
 National 5 (SCQF level 5),Computing Science,2019,3421,0.539,"6,344",B & above
 National 5 (SCQF level 5),Computing Science,2019,4740,0.747,"6,344",C & above
@@ -1534,11 +1379,6 @@ National 5 (SCQF level 5),Spanish,2019,3759,0.7340000000000001,"5,122",B & above
 National 5 (SCQF level 5),Spanish,2019,4486,0.8759999999999999,"5,122",C & above
 National 5 (SCQF level 5),Spanish,2019,4904,0.9570000000000001,"5,122",D & above
 National 5 (SCQF level 5),Spanish,2019,218,0.043,"5,122",U
-National 5 (SCQF level 5),Urdu,2019,64,0.865,74,A
-National 5 (SCQF level 5),Urdu,2019,72,0.973,74,B & above
-National 5 (SCQF level 5),Urdu,2019,73,0.986,74,C & above
-National 5 (SCQF level 5),Urdu,2019,74,1,74,D & above
-National 5 (SCQF level 5),Urdu,2019,0,0,74,U
 National 5 (SCQF level 5),All subjects,2019,101273,0.35100000000000003,"288,552",A
 National 5 (SCQF level 5),All subjects,2019,170060,0.589,"288,552",B & above
 National 5 (SCQF level 5),All subjects,2019,225594,0.782,"288,552",C & above
@@ -1589,11 +1429,6 @@ National 5 (SCQF level 5),Chinese Languages,2018,151,0.812,186,B & above
 National 5 (SCQF level 5),Chinese Languages,2018,165,0.887,186,C & above
 National 5 (SCQF level 5),Chinese Languages,2018,174,0.935,186,D & above
 National 5 (SCQF level 5),Chinese Languages,2018,12,0.065,186,U
-National 5 (SCQF level 5),Classical Studies,2018,35,0.449,78,A
-National 5 (SCQF level 5),Classical Studies,2018,49,0.628,78,B & above
-National 5 (SCQF level 5),Classical Studies,2018,65,0.833,78,C & above
-National 5 (SCQF level 5),Classical Studies,2018,71,0.91,78,D & above
-National 5 (SCQF level 5),Classical Studies,2018,7,0.09,78,U
 National 5 (SCQF level 5),Computing Science,2018,1884,0.292,"6,442",A
 National 5 (SCQF level 5),Computing Science,2018,3443,0.534,"6,442",B & above
 National 5 (SCQF level 5),Computing Science,2018,4814,0.747,"6,442",C & above
@@ -1779,11 +1614,6 @@ National 5 (SCQF level 5),Spanish,2018,3807,0.7709999999999999,"4,937",B & above
 National 5 (SCQF level 5),Spanish,2018,4442,0.9,"4,937",C & above
 National 5 (SCQF level 5),Spanish,2018,4808,0.9740000000000001,"4,937",D & above
 National 5 (SCQF level 5),Spanish,2018,129,0.026000000000000002,"4,937",U
-National 5 (SCQF level 5),Urdu,2018,35,0.778,45,A
-National 5 (SCQF level 5),Urdu,2018,39,0.867,45,B & above
-National 5 (SCQF level 5),Urdu,2018,44,0.978,45,C & above
-National 5 (SCQF level 5),Urdu,2018,45,1,45,D & above
-National 5 (SCQF level 5),Urdu,2018,0,0,45,U
 National 5 (SCQF level 5),All subjects,2018,98959,0.35100000000000003,"281,785",A
 National 5 (SCQF level 5),All subjects,2018,163936,0.5820000000000001,"281,785",B & above
 National 5 (SCQF level 5),All subjects,2018,218201,0.774,"281,785",C & above
@@ -1894,11 +1724,6 @@ Highers (SCQF level 6),French,2019,2415,0.7070000000000001,"3,417",B & above
 Highers (SCQF level 6),French,2019,2981,0.872,"3,417",C & above
 Highers (SCQF level 6),French,2019,3273,0.958,"3,417",D & above
 Highers (SCQF level 6),French,2019,144,0.042,"3,417",U
-Highers (SCQF level 6),Gaelic (Learners),2019,32,0.525,61,A
-Highers (SCQF level 6),Gaelic (Learners),2019,47,0.77,61,B & above
-Highers (SCQF level 6),Gaelic (Learners),2019,55,0.902,61,C & above
-Highers (SCQF level 6),Gaelic (Learners),2019,61,1,61,D & above
-Highers (SCQF level 6),Gaelic (Learners),2019,0,0,61,U
 Highers (SCQF level 6),Gàidhlig,2019,59,0.43700000000000006,135,A
 Highers (SCQF level 6),Gàidhlig,2019,96,0.711,135,B & above
 Highers (SCQF level 6),Gàidhlig,2019,123,0.9109999999999999,135,C & above
@@ -2014,11 +1839,6 @@ Highers (SCQF level 6),Spanish,2019,2029,0.664,"3,054",B & above
 Highers (SCQF level 6),Spanish,2019,2543,0.833,"3,054",C & above
 Highers (SCQF level 6),Spanish,2019,2864,0.938,"3,054",D & above
 Highers (SCQF level 6),Spanish,2019,190,0.062,"3,054",U
-Highers (SCQF level 6),Urdu,2019,75,0.815,92,A
-Highers (SCQF level 6),Urdu,2019,86,0.935,92,B & above
-Highers (SCQF level 6),Urdu,2019,90,0.978,92,C & above
-Highers (SCQF level 6),Urdu,2019,91,0.9890000000000001,92,D & above
-Highers (SCQF level 6),Urdu,2019,1,0.011000000000000001,92,U
 Highers (SCQF level 6),All subjects,2019,52564,0.28300000000000003,"185,914",A
 Highers (SCQF level 6),All subjects,2019,97303,0.523,"185,914",B & above
 Highers (SCQF level 6),All subjects,2019,138972,0.748,"185,914",C & above
@@ -2129,11 +1949,6 @@ Highers (SCQF level 6),French,2018,2552,0.675,"3,780",B & above
 Highers (SCQF level 6),French,2018,3301,0.873,"3,780",C & above
 Highers (SCQF level 6),French,2018,3535,0.935,"3,780",D & above
 Highers (SCQF level 6),French,2018,245,0.065,"3,780",U
-Highers (SCQF level 6),Gaelic (Learners),2018,31,0.413,75,A
-Highers (SCQF level 6),Gaelic (Learners),2018,48,0.64,75,B & above
-Highers (SCQF level 6),Gaelic (Learners),2018,62,0.8270000000000001,75,C & above
-Highers (SCQF level 6),Gaelic (Learners),2018,65,0.867,75,D & above
-Highers (SCQF level 6),Gaelic (Learners),2018,10,0.133,75,U
 Highers (SCQF level 6),Gàidhlig,2018,61,0.469,130,A
 Highers (SCQF level 6),Gàidhlig,2018,99,0.762,130,B & above
 Highers (SCQF level 6),Gàidhlig,2018,118,0.9079999999999999,130,C & above
@@ -2249,21 +2064,11 @@ Highers (SCQF level 6),Spanish,2018,1878,0.672,"2,795",B & above
 Highers (SCQF level 6),Spanish,2018,2338,0.836,"2,795",C & above
 Highers (SCQF level 6),Spanish,2018,2519,0.9009999999999999,"2,795",D & above
 Highers (SCQF level 6),Spanish,2018,276,0.099,"2,795",U
-Highers (SCQF level 6),Urdu,2018,83,0.8059999999999999,103,A
-Highers (SCQF level 6),Urdu,2018,93,0.903,103,B & above
-Highers (SCQF level 6),Urdu,2018,99,0.961,103,C & above
-Highers (SCQF level 6),Urdu,2018,101,0.981,103,D & above
-Highers (SCQF level 6),Urdu,2018,2,0.019,103,U
 Highers (SCQF level 6),All subjects,2018,54576,0.284,"191,951",A
 Highers (SCQF level 6),All subjects,2018,103193,0.5379999999999999,"191,951",B & above
 Highers (SCQF level 6),All subjects,2018,147419,0.768,"191,951",C & above
 Highers (SCQF level 6),All subjects,2018,164244,0.856,"191,951",D & above
 Highers (SCQF level 6),All subjects,2018,27707,0.14400000000000002,"191,951",U
-Advanced highers (SCQF level 7),Accounting,2019,25,0.391,64,A
-Advanced highers (SCQF level 7),Accounting,2019,40,0.625,64,B & above
-Advanced highers (SCQF level 7),Accounting,2019,56,0.875,64,C & above
-Advanced highers (SCQF level 7),Accounting,2019,62,0.9690000000000001,64,D & above
-Advanced highers (SCQF level 7),Accounting,2019,2,0.031,64,U
 Advanced highers (SCQF level 7),Art and Design (Design),2019,186,0.36700000000000005,507,A
 Advanced highers (SCQF level 7),Art and Design (Design),2019,327,0.645,507,B & above
 Advanced highers (SCQF level 7),Art and Design (Design),2019,464,0.915,507,C & above
@@ -2289,41 +2094,16 @@ Advanced highers (SCQF level 7),Chemistry,2019,1472,0.6,"2,452",B & above
 Advanced highers (SCQF level 7),Chemistry,2019,2016,0.8220000000000001,"2,452",C & above
 Advanced highers (SCQF level 7),Chemistry,2019,2196,0.8959999999999999,"2,452",D & above
 Advanced highers (SCQF level 7),Chemistry,2019,256,0.10400000000000001,"2,452",U
-Advanced highers (SCQF level 7),Chinese Languages,2019,51,0.836,61,A
-Advanced highers (SCQF level 7),Chinese Languages,2019,57,0.934,61,B & above
-Advanced highers (SCQF level 7),Chinese Languages,2019,61,1,61,C & above
-Advanced highers (SCQF level 7),Chinese Languages,2019,61,1,61,D & above
-Advanced highers (SCQF level 7),Chinese Languages,2019,0,0,61,U
-Advanced highers (SCQF level 7),Classical Studies,2019,14,0.368,38,A
-Advanced highers (SCQF level 7),Classical Studies,2019,31,0.816,38,B & above
-Advanced highers (SCQF level 7),Classical Studies,2019,38,1,38,C & above
-Advanced highers (SCQF level 7),Classical Studies,2019,38,1,38,D & above
-Advanced highers (SCQF level 7),Classical Studies,2019,0,0,38,U
 Advanced highers (SCQF level 7),Computing Science,2019,148,0.24100000000000002,614,A
 Advanced highers (SCQF level 7),Computing Science,2019,275,0.44799999999999995,614,B & above
 Advanced highers (SCQF level 7),Computing Science,2019,402,0.655,614,C & above
 Advanced highers (SCQF level 7),Computing Science,2019,463,0.754,614,D & above
 Advanced highers (SCQF level 7),Computing Science,2019,151,0.24600000000000002,614,U
-Advanced highers (SCQF level 7),Design and Manufacture,2019,6,0.076,79,A
-Advanced highers (SCQF level 7),Design and Manufacture,2019,26,0.32899999999999996,79,B & above
-Advanced highers (SCQF level 7),Design and Manufacture,2019,51,0.6459999999999999,79,C & above
-Advanced highers (SCQF level 7),Design and Manufacture,2019,62,0.785,79,D & above
-Advanced highers (SCQF level 7),Design and Manufacture,2019,17,0.215,79,U
 Advanced highers (SCQF level 7),Drama,2019,125,0.221,566,A
 Advanced highers (SCQF level 7),Drama,2019,296,0.523,566,B & above
 Advanced highers (SCQF level 7),Drama,2019,461,0.8140000000000001,566,C & above
 Advanced highers (SCQF level 7),Drama,2019,511,0.903,566,D & above
 Advanced highers (SCQF level 7),Drama,2019,55,0.09699999999999999,566,U
-Advanced highers (SCQF level 7),Economics,2019,58,0.542,107,A
-Advanced highers (SCQF level 7),Economics,2019,81,0.757,107,B & above
-Advanced highers (SCQF level 7),Economics,2019,100,0.935,107,C & above
-Advanced highers (SCQF level 7),Economics,2019,103,0.963,107,D & above
-Advanced highers (SCQF level 7),Economics,2019,4,0.037000000000000005,107,U
-Advanced highers (SCQF level 7),Engineering Science,2019,9,0.25,36,A
-Advanced highers (SCQF level 7),Engineering Science,2019,16,0.444,36,B & above
-Advanced highers (SCQF level 7),Engineering Science,2019,30,0.833,36,C & above
-Advanced highers (SCQF level 7),Engineering Science,2019,34,0.9440000000000001,36,D & above
-Advanced highers (SCQF level 7),Engineering Science,2019,2,0.055999999999999994,36,U
 Advanced highers (SCQF level 7),English,2019,485,0.207,"2,347",A
 Advanced highers (SCQF level 7),English,2019,1114,0.475,"2,347",B & above
 Advanced highers (SCQF level 7),English,2019,1841,0.784,"2,347",C & above
@@ -2334,16 +2114,6 @@ Advanced highers (SCQF level 7),French,2019,348,0.5770000000000001,603,B & above
 Advanced highers (SCQF level 7),French,2019,467,0.774,603,C & above
 Advanced highers (SCQF level 7),French,2019,502,0.833,603,D & above
 Advanced highers (SCQF level 7),French,2019,101,0.16699999999999998,603,U
-Advanced highers (SCQF level 7),Gaelic (Learners),2019,5,0.25,20,A
-Advanced highers (SCQF level 7),Gaelic (Learners),2019,13,0.65,20,B & above
-Advanced highers (SCQF level 7),Gaelic (Learners),2019,17,0.85,20,C & above
-Advanced highers (SCQF level 7),Gaelic (Learners),2019,19,0.95,20,D & above
-Advanced highers (SCQF level 7),Gaelic (Learners),2019,1,0.05,20,U
-Advanced highers (SCQF level 7),Gàidhlig,2019,13,0.44799999999999995,29,A
-Advanced highers (SCQF level 7),Gàidhlig,2019,21,0.7240000000000001,29,B & above
-Advanced highers (SCQF level 7),Gàidhlig,2019,27,0.9309999999999999,29,C & above
-Advanced highers (SCQF level 7),Gàidhlig,2019,29,1,29,D & above
-Advanced highers (SCQF level 7),Gàidhlig,2019,0,0,29,U
 Advanced highers (SCQF level 7),Geography,2019,186,0.263,708,A
 Advanced highers (SCQF level 7),Geography,2019,422,0.596,708,B & above
 Advanced highers (SCQF level 7),Geography,2019,605,0.855,708,C & above
@@ -2359,26 +2129,11 @@ Advanced highers (SCQF level 7),Graphic Communication,2019,178,0.352000000000000
 Advanced highers (SCQF level 7),Graphic Communication,2019,319,0.63,506,C & above
 Advanced highers (SCQF level 7),Graphic Communication,2019,377,0.745,506,D & above
 Advanced highers (SCQF level 7),Graphic Communication,2019,129,0.255,506,U
-Advanced highers (SCQF level 7),Health and Food Technology,2019,1,0.045,22,A
-Advanced highers (SCQF level 7),Health and Food Technology,2019,5,0.22699999999999998,22,B & above
-Advanced highers (SCQF level 7),Health and Food Technology,2019,17,0.773,22,C & above
-Advanced highers (SCQF level 7),Health and Food Technology,2019,18,0.818,22,D & above
-Advanced highers (SCQF level 7),Health and Food Technology,2019,4,0.182,22,U
 Advanced highers (SCQF level 7),History,2019,361,0.284,"1,273",A
 Advanced highers (SCQF level 7),History,2019,710,0.5579999999999999,"1,273",B & above
 Advanced highers (SCQF level 7),History,2019,1013,0.7959999999999999,"1,273",C & above
 Advanced highers (SCQF level 7),History,2019,1124,0.883,"1,273",D & above
 Advanced highers (SCQF level 7),History,2019,149,0.11699999999999999,"1,273",U
-Advanced highers (SCQF level 7),Italian,2019,17,0.63,27,A
-Advanced highers (SCQF level 7),Italian,2019,21,0.778,27,B & above
-Advanced highers (SCQF level 7),Italian,2019,23,0.852,27,C & above
-Advanced highers (SCQF level 7),Italian,2019,25,0.9259999999999999,27,D & above
-Advanced highers (SCQF level 7),Italian,2019,2,0.07400000000000001,27,U
-Advanced highers (SCQF level 7),Latin,2019,20,0.33899999999999997,59,A
-Advanced highers (SCQF level 7),Latin,2019,30,0.508,59,B & above
-Advanced highers (SCQF level 7),Latin,2019,44,0.746,59,C & above
-Advanced highers (SCQF level 7),Latin,2019,47,0.797,59,D & above
-Advanced highers (SCQF level 7),Latin,2019,12,0.203,59,U
 Advanced highers (SCQF level 7),Mathematics,2019,1379,0.37200000000000005,"3,706",A
 Advanced highers (SCQF level 7),Mathematics,2019,2151,0.58,"3,706",B & above
 Advanced highers (SCQF level 7),Mathematics,2019,2795,0.754,"3,706",C & above
@@ -2399,11 +2154,6 @@ Advanced highers (SCQF level 7),Music,2019,1327,0.782,"1,698",B & above
 Advanced highers (SCQF level 7),Music,2019,1563,0.92,"1,698",C & above
 Advanced highers (SCQF level 7),Music,2019,1625,0.9570000000000001,"1,698",D & above
 Advanced highers (SCQF level 7),Music,2019,73,0.043,"1,698",U
-Advanced highers (SCQF level 7),Music: Portfolio,2019,4,0.444,9,A
-Advanced highers (SCQF level 7),Music: Portfolio,2019,5,0.556,9,B & above
-Advanced highers (SCQF level 7),Music: Portfolio,2019,6,0.667,9,C & above
-Advanced highers (SCQF level 7),Music: Portfolio,2019,8,0.889,9,D & above
-Advanced highers (SCQF level 7),Music: Portfolio,2019,1,0.111,9,U
 Advanced highers (SCQF level 7),Physical Education,2019,117,0.23399999999999999,499,A
 Advanced highers (SCQF level 7),Physical Education,2019,246,0.493,499,B & above
 Advanced highers (SCQF level 7),Physical Education,2019,382,0.7659999999999999,499,C & above
@@ -2434,11 +2184,6 @@ Advanced highers (SCQF level 7),All subjects,2019,13303,0.5670000000000001,"23,4
 Advanced highers (SCQF level 7),All subjects,2019,18627,0.794,"23,460",C & above
 Advanced highers (SCQF level 7),All subjects,2019,20593,0.878,"23,460",D & above
 Advanced highers (SCQF level 7),All subjects,2019,2867,0.122,"23,460",U
-Advanced highers (SCQF level 7),Accounting,2018,31,0.544,57,A
-Advanced highers (SCQF level 7),Accounting,2018,46,0.807,57,B & above
-Advanced highers (SCQF level 7),Accounting,2018,53,0.93,57,C & above
-Advanced highers (SCQF level 7),Accounting,2018,55,0.965,57,D & above
-Advanced highers (SCQF level 7),Accounting,2018,2,0.035,57,U
 Advanced highers (SCQF level 7),Art and Design (Design),2018,151,0.28,540,A
 Advanced highers (SCQF level 7),Art and Design (Design),2018,302,0.5589999999999999,540,B & above
 Advanced highers (SCQF level 7),Art and Design (Design),2018,490,0.907,540,C & above
@@ -2464,41 +2209,16 @@ Advanced highers (SCQF level 7),Chemistry,2018,1529,0.59,"2,591",B & above
 Advanced highers (SCQF level 7),Chemistry,2018,2131,0.8220000000000001,"2,591",C & above
 Advanced highers (SCQF level 7),Chemistry,2018,2341,0.904,"2,591",D & above
 Advanced highers (SCQF level 7),Chemistry,2018,250,0.096,"2,591",U
-Advanced highers (SCQF level 7),Chinese Languages,2018,40,0.741,54,A
-Advanced highers (SCQF level 7),Chinese Languages,2018,43,0.7959999999999999,54,B & above
-Advanced highers (SCQF level 7),Chinese Languages,2018,44,0.815,54,C & above
-Advanced highers (SCQF level 7),Chinese Languages,2018,44,0.815,54,D & above
-Advanced highers (SCQF level 7),Chinese Languages,2018,10,0.185,54,U
-Advanced highers (SCQF level 7),Classical Studies,2018,18,0.38299999999999995,47,A
-Advanced highers (SCQF level 7),Classical Studies,2018,34,0.723,47,B & above
-Advanced highers (SCQF level 7),Classical Studies,2018,43,0.915,47,C & above
-Advanced highers (SCQF level 7),Classical Studies,2018,46,0.9790000000000001,47,D & above
-Advanced highers (SCQF level 7),Classical Studies,2018,1,0.021,47,U
 Advanced highers (SCQF level 7),Computing Science,2018,141,0.222,636,A
 Advanced highers (SCQF level 7),Computing Science,2018,308,0.484,636,B & above
 Advanced highers (SCQF level 7),Computing Science,2018,454,0.7140000000000001,636,C & above
 Advanced highers (SCQF level 7),Computing Science,2018,524,0.8240000000000001,636,D & above
 Advanced highers (SCQF level 7),Computing Science,2018,112,0.17600000000000002,636,U
-Advanced highers (SCQF level 7),Design and Manufacture,2018,7,0.075,93,A
-Advanced highers (SCQF level 7),Design and Manufacture,2018,31,0.33299999999999996,93,B & above
-Advanced highers (SCQF level 7),Design and Manufacture,2018,50,0.5379999999999999,93,C & above
-Advanced highers (SCQF level 7),Design and Manufacture,2018,67,0.72,93,D & above
-Advanced highers (SCQF level 7),Design and Manufacture,2018,26,0.28,93,U
 Advanced highers (SCQF level 7),Drama,2018,159,0.312,509,A
 Advanced highers (SCQF level 7),Drama,2018,296,0.5820000000000001,509,B & above
 Advanced highers (SCQF level 7),Drama,2018,428,0.841,509,C & above
 Advanced highers (SCQF level 7),Drama,2018,472,0.927,509,D & above
 Advanced highers (SCQF level 7),Drama,2018,37,0.073,509,U
-Advanced highers (SCQF level 7),Economics,2018,42,0.43799999999999994,96,A
-Advanced highers (SCQF level 7),Economics,2018,66,0.688,96,B & above
-Advanced highers (SCQF level 7),Economics,2018,90,0.938,96,C & above
-Advanced highers (SCQF level 7),Economics,2018,92,0.958,96,D & above
-Advanced highers (SCQF level 7),Economics,2018,4,0.042,96,U
-Advanced highers (SCQF level 7),Engineering Science,2018,8,0.136,59,A
-Advanced highers (SCQF level 7),Engineering Science,2018,22,0.373,59,B & above
-Advanced highers (SCQF level 7),Engineering Science,2018,40,0.6779999999999999,59,C & above
-Advanced highers (SCQF level 7),Engineering Science,2018,47,0.797,59,D & above
-Advanced highers (SCQF level 7),Engineering Science,2018,12,0.203,59,U
 Advanced highers (SCQF level 7),English,2018,644,0.259,"2,485",A
 Advanced highers (SCQF level 7),English,2018,1350,0.5429999999999999,"2,485",B & above
 Advanced highers (SCQF level 7),English,2018,2019,0.812,"2,485",C & above
@@ -2509,16 +2229,6 @@ Advanced highers (SCQF level 7),French,2018,443,0.6940000000000001,638,B & above
 Advanced highers (SCQF level 7),French,2018,556,0.871,638,C & above
 Advanced highers (SCQF level 7),French,2018,592,0.9279999999999999,638,D & above
 Advanced highers (SCQF level 7),French,2018,46,0.07200000000000001,638,U
-Advanced highers (SCQF level 7),Gaelic (Learners),2018,5,0.455,11,A
-Advanced highers (SCQF level 7),Gaelic (Learners),2018,8,0.727,11,B & above
-Advanced highers (SCQF level 7),Gaelic (Learners),2018,11,1,11,C & above
-Advanced highers (SCQF level 7),Gaelic (Learners),2018,11,1,11,D & above
-Advanced highers (SCQF level 7),Gaelic (Learners),2018,0,0,11,U
-Advanced highers (SCQF level 7),Gàidhlig,2018,18,0.6,30,A
-Advanced highers (SCQF level 7),Gàidhlig,2018,22,0.733,30,B & above
-Advanced highers (SCQF level 7),Gàidhlig,2018,26,0.867,30,C & above
-Advanced highers (SCQF level 7),Gàidhlig,2018,28,0.9329999999999999,30,D & above
-Advanced highers (SCQF level 7),Gàidhlig,2018,2,0.067,30,U
 Advanced highers (SCQF level 7),Geography,2018,218,0.271,803,A
 Advanced highers (SCQF level 7),Geography,2018,501,0.624,803,B & above
 Advanced highers (SCQF level 7),Geography,2018,717,0.893,803,C & above
@@ -2534,26 +2244,11 @@ Advanced highers (SCQF level 7),Graphic Communication,2018,191,0.364,525,B & abo
 Advanced highers (SCQF level 7),Graphic Communication,2018,348,0.6629999999999999,525,C & above
 Advanced highers (SCQF level 7),Graphic Communication,2018,408,0.777,525,D & above
 Advanced highers (SCQF level 7),Graphic Communication,2018,117,0.223,525,U
-Advanced highers (SCQF level 7),Health and Food Technology,2018,4,0.091,44,A
-Advanced highers (SCQF level 7),Health and Food Technology,2018,14,0.318,44,B & above
-Advanced highers (SCQF level 7),Health and Food Technology,2018,34,0.773,44,C & above
-Advanced highers (SCQF level 7),Health and Food Technology,2018,39,0.8859999999999999,44,D & above
-Advanced highers (SCQF level 7),Health and Food Technology,2018,5,0.114,44,U
 Advanced highers (SCQF level 7),History,2018,461,0.302,"1,525",A
 Advanced highers (SCQF level 7),History,2018,890,0.584,"1,525",B & above
 Advanced highers (SCQF level 7),History,2018,1250,0.82,"1,525",C & above
 Advanced highers (SCQF level 7),History,2018,1362,0.893,"1,525",D & above
 Advanced highers (SCQF level 7),History,2018,163,0.107,"1,525",U
-Advanced highers (SCQF level 7),Italian,2018,30,0.833,36,A
-Advanced highers (SCQF level 7),Italian,2018,34,0.9440000000000001,36,B & above
-Advanced highers (SCQF level 7),Italian,2018,34,0.9440000000000001,36,C & above
-Advanced highers (SCQF level 7),Italian,2018,35,0.972,36,D & above
-Advanced highers (SCQF level 7),Italian,2018,1,0.027999999999999997,36,U
-Advanced highers (SCQF level 7),Latin,2018,18,0.409,44,A
-Advanced highers (SCQF level 7),Latin,2018,32,0.727,44,B & above
-Advanced highers (SCQF level 7),Latin,2018,37,0.841,44,C & above
-Advanced highers (SCQF level 7),Latin,2018,40,0.909,44,D & above
-Advanced highers (SCQF level 7),Latin,2018,4,0.091,44,U
 Advanced highers (SCQF level 7),Mathematics,2018,1380,0.375,"3,683",A
 Advanced highers (SCQF level 7),Mathematics,2018,2175,0.591,"3,683",B & above
 Advanced highers (SCQF level 7),Mathematics,2018,2751,0.747,"3,683",C & above
@@ -2574,11 +2269,6 @@ Advanced highers (SCQF level 7),Music,2018,1414,0.826,"1,712",B & above
 Advanced highers (SCQF level 7),Music,2018,1607,0.9390000000000001,"1,712",C & above
 Advanced highers (SCQF level 7),Music,2018,1650,0.9640000000000001,"1,712",D & above
 Advanced highers (SCQF level 7),Music,2018,62,0.036000000000000004,"1,712",U
-Advanced highers (SCQF level 7),Music: Portfolio,2018,6,0.545,11,A
-Advanced highers (SCQF level 7),Music: Portfolio,2018,8,0.727,11,B & above
-Advanced highers (SCQF level 7),Music: Portfolio,2018,8,0.727,11,C & above
-Advanced highers (SCQF level 7),Music: Portfolio,2018,10,0.909,11,D & above
-Advanced highers (SCQF level 7),Music: Portfolio,2018,1,0.091,11,U
 Advanced highers (SCQF level 7),Physical Education,2018,92,0.214,430,A
 Advanced highers (SCQF level 7),Physical Education,2018,214,0.498,430,B & above
 Advanced highers (SCQF level 7),Physical Education,2018,320,0.7440000000000001,430,C & above

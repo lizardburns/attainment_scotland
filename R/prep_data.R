@@ -1,3 +1,5 @@
+library(readr)
+library(dplyr)
 
 dat <- read_csv("data/scottish_results.csv", na = c("***", "", "NA")) %>% 
   mutate(across(starts_with("pc"), parse_number)) %>% 
@@ -27,5 +29,16 @@ dat <- read_csv("data/scottish_results.csv", na = c("***", "", "NA")) %>%
     )
   ) %>% 
   select(-grade, -entries)
+
+small_entry <- dat %>% 
+  filter(`Grade threshold` == "A") %>% 
+  transmute(Qualification, Subject, Year, entries = parse_number(`Number of entries`)) %>% 
+  tidyr::pivot_wider(names_from = Year, values_from = entries) %>% 
+  filter(if_any(where(is.numeric), ~ . < 100)) %>% 
+  select(Qualification, Subject)
+
+dat <- anti_join(dat, small_entry)
+
+# dat %>% filter(is.na(n))
 
 write_csv(dat, "app/data.csv")
