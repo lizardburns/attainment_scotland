@@ -1,6 +1,3 @@
-# deal with missing data, e.g. 7, chinese lang, D
-# report entries somewhere or filter out small
-# all subjects => All subjects (overall)
 
 server <- function(input, output, session) {
   # plots tab ----
