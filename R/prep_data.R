@@ -42,3 +42,4 @@ dat <- anti_join(dat, small_entry)
 # dat %>% filter(is.na(n))
 
 write_csv(dat, "app/data.csv")
+write_csv(small_entry, "app/small_entry.csv")
