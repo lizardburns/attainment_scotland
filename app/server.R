@@ -34,19 +34,29 @@ server <- function(input, output, session) {
   
   output$plot <- shiny::renderUI({
     if(input$ptype == "Attainment over time") {
-      shiny::fluidRow(
-        tabsetPanel(
-          type = "tabs",
-          tabPanel("Plot", plotly::plotlyOutput("ts_plot")),
-          tabPanel("Table", fluidRow(br(), DT::DTOutput("ts_table")) )
+      tagList(
+        shiny::fluidRow(
+          tabsetPanel(
+            type = "tabs",
+            tabPanel("Plot", plotly::plotlyOutput("ts_plot")),
+            tabPanel("Table", fluidRow(br(), DT::DTOutput("ts_table")) )
+          )
+        ),
+        shiny::fluidRow(
+          shiny::helpText("Source: Scottish Qualifications Authority")
         )
       )
     } else {
-      shiny::fluidRow(
-        tabsetPanel(
-          type = "tabs",
-          tabPanel("Plot", shiny::plotOutput("dist_plot")),
-          tabPanel("Table", fluidRow(br(), DT::DTOutput("dist_table")) )
+      shiny::tagList(
+        shiny::fluidRow(
+          tabsetPanel(
+            type = "tabs",
+            tabPanel("Plot", shiny::plotOutput("dist_plot")),
+            tabPanel("Table", fluidRow(br(), DT::DTOutput("dist_table")) )
+          )
+        ),
+        shiny::fluidRow(
+          shiny::helpText("Source: Scottish Qualifications Authority")
         )
       )
     }
