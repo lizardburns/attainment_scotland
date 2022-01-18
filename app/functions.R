@@ -50,9 +50,9 @@ filter_summary <- function(df, qlevel, subj, threshold) {
   thresh <- switch (threshold,
                     "All" = c("A", "B & above", "C & above", "D & above", "U"),
                     "A" = "A",
-                    "B" = "B & above",
-                    "C" = "C & above",
-                    "D" = "D & above",
+                    "B & above" = "B & above",
+                    "C & above" = "C & above",
+                    "D & above" = "D & above",
                     "U" = "U",
   )
   
