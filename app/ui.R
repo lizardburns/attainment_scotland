@@ -80,6 +80,7 @@ ui <- shiny::fluidPage(
           textOutput("int_report"),
           hr(),
           DT::DTOutput("int_table"),
+          shiny::helpText("Source: Scottish Qualifications Authority"),
           br()
         ) # end of main panel
       ) # end of sidebarLayout
