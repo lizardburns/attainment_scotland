@@ -62,15 +62,25 @@ server <- function(input, output, session) {
     }
   })
   
-  output$ts_plot <- plotly::renderPlotly( ts_plot(dat_ts(), input$threshold) )
-  output$dist_plot <- shiny::renderPlot( dist_plot(dat_dist()) )
+  output$ts_plot <- plotly::renderPlotly( 
+    ts_plot(dat_ts(), input$threshold) 
+    )
+  output$dist_plot <- shiny::renderPlot( 
+    dist_plot(dat_dist()) 
+    )
   
-  output$ts_table <- DT::renderDT( ts_table(dat_ts(), threshold = input$threshold) )
-  output$dist_table <- DT::renderDT( dist_table(dat_dist()) )
+  output$ts_table <- DT::renderDT( 
+    ts_table(dat_ts(), threshold = input$threshold) 
+    )
+  output$dist_table <- DT::renderDT( 
+    dist_table(dat_dist()) 
+    )
   
   # interrogate tab ----
   observeEvent(input$int_year1, {
-    updateSelectInput(session, "int_year2", choices = setdiff(2019:2021, input$int_year1))
+    updateSelectInput(session, 
+                      "int_year2", 
+                      choices = setdiff(2019:2021, input$int_year1))
   })
   
   filt_int <- reactive({
@@ -131,8 +141,13 @@ server <- function(input, output, session) {
         pageLength = 10,
         # columnDefs = list(list(className = 'dt-right', targets = 1:8)),
         buttons = list(
-          list(extend = 'csv', filename = export_name, text = 'Download CSV'),
-          list(extend = 'excel', title = NULL, filename = export_name, text = 'Download XLSX')
+          list(extend = 'csv', 
+               filename = export_name, 
+               text = 'Download CSV'),
+          list(extend = 'excel', 
+               title = NULL, 
+               filename = export_name, 
+               text = 'Download XLSX')
         ) # end of button list
       ) # end of options
     )
