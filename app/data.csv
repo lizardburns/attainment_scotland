@@ -1,0 +1,2611 @@
+Qualification,Subject,Year,n,pc,Number of entries,Grade threshold
+Advanced highers (SCQF level 7),Accounting,2021,46,0.605,76,A
+Advanced highers (SCQF level 7),Accounting,2021,54,0.711,76,B & above
+Advanced highers (SCQF level 7),Accounting,2021,65,0.855,76,C & above
+Advanced highers (SCQF level 7),Accounting,2021,69,0.9079999999999999,76,D & above
+Advanced highers (SCQF level 7),Accounting,2021,7,0.092,76,U
+Advanced highers (SCQF level 7),Art and Design (Design),2021,297,0.46799999999999997,634,A
+Advanced highers (SCQF level 7),Art and Design (Design),2021,486,0.767,634,B & above
+Advanced highers (SCQF level 7),Art and Design (Design),2021,603,0.951,634,C & above
+Advanced highers (SCQF level 7),Art and Design (Design),2021,621,0.9790000000000001,634,D & above
+Advanced highers (SCQF level 7),Art and Design (Design),2021,13,0.021,634,U
+Advanced highers (SCQF level 7),Art and Design (Expressive),2021,551,0.47200000000000003,"1,167",A
+Advanced highers (SCQF level 7),Art and Design (Expressive),2021,923,0.7909999999999999,"1,167",B & above
+Advanced highers (SCQF level 7),Art and Design (Expressive),2021,1110,0.951,"1,167",C & above
+Advanced highers (SCQF level 7),Art and Design (Expressive),2021,1147,0.983,"1,167",D & above
+Advanced highers (SCQF level 7),Art and Design (Expressive),2021,20,0.017,"1,167",U
+Advanced highers (SCQF level 7),Biology,2021,1241,0.419,"2,961",A
+Advanced highers (SCQF level 7),Biology,2021,1939,0.655,"2,961",B & above
+Advanced highers (SCQF level 7),Biology,2021,2490,0.841,"2,961",C & above
+Advanced highers (SCQF level 7),Biology,2021,2768,0.935,"2,961",D & above
+Advanced highers (SCQF level 7),Biology,2021,193,0.065,"2,961",U
+Advanced highers (SCQF level 7),Business Management,2021,341,0.579,589,A
+Advanced highers (SCQF level 7),Business Management,2021,470,0.7979999999999999,589,B & above
+Advanced highers (SCQF level 7),Business Management,2021,554,0.941,589,C & above
+Advanced highers (SCQF level 7),Business Management,2021,577,0.98,589,D & above
+Advanced highers (SCQF level 7),Business Management,2021,12,0.02,589,U
+Advanced highers (SCQF level 7),Chemistry,2021,1211,0.45299999999999996,"2,675",A
+Advanced highers (SCQF level 7),Chemistry,2021,1856,0.6940000000000001,"2,675",B & above
+Advanced highers (SCQF level 7),Chemistry,2021,2306,0.862,"2,675",C & above
+Advanced highers (SCQF level 7),Chemistry,2021,2506,0.937,"2,675",D & above
+Advanced highers (SCQF level 7),Chemistry,2021,169,0.063,"2,675",U
+Advanced highers (SCQF level 7),Chinese Languages,2021,51,0.8640000000000001,59,A
+Advanced highers (SCQF level 7),Chinese Languages,2021,57,0.966,59,B & above
+Advanced highers (SCQF level 7),Chinese Languages,2021,59,1,59,C & above
+Advanced highers (SCQF level 7),Chinese Languages,2021,59,1,59,D & above
+Advanced highers (SCQF level 7),Chinese Languages,2021,0,0,59,U
+Advanced highers (SCQF level 7),Classical Studies,2021,25,0.6940000000000001,36,A
+Advanced highers (SCQF level 7),Classical Studies,2021,32,0.889,36,B & above
+Advanced highers (SCQF level 7),Classical Studies,2021,36,1,36,C & above
+Advanced highers (SCQF level 7),Classical Studies,2021,36,1,36,D & above
+Advanced highers (SCQF level 7),Classical Studies,2021,0,0,36,U
+Advanced highers (SCQF level 7),Computing Science,2021,265,0.469,565,A
+Advanced highers (SCQF level 7),Computing Science,2021,390,0.69,565,B & above
+Advanced highers (SCQF level 7),Computing Science,2021,501,0.887,565,C & above
+Advanced highers (SCQF level 7),Computing Science,2021,535,0.9470000000000001,565,D & above
+Advanced highers (SCQF level 7),Computing Science,2021,30,0.053,565,U
+Advanced highers (SCQF level 7),Design and Manufacture,2021,33,0.306,108,A
+Advanced highers (SCQF level 7),Design and Manufacture,2021,58,0.537,108,B & above
+Advanced highers (SCQF level 7),Design and Manufacture,2021,94,0.87,108,C & above
+Advanced highers (SCQF level 7),Design and Manufacture,2021,102,0.9440000000000001,108,D & above
+Advanced highers (SCQF level 7),Design and Manufacture,2021,6,0.055999999999999994,108,U
+Advanced highers (SCQF level 7),Drama,2021,281,0.495,568,A
+Advanced highers (SCQF level 7),Drama,2021,429,0.755,568,B & above
+Advanced highers (SCQF level 7),Drama,2021,514,0.905,568,C & above
+Advanced highers (SCQF level 7),Drama,2021,545,0.96,568,D & above
+Advanced highers (SCQF level 7),Drama,2021,23,0.04,568,U
+Advanced highers (SCQF level 7),Economics,2021,66,0.835,79,A
+Advanced highers (SCQF level 7),Economics,2021,76,0.9620000000000001,79,B & above
+Advanced highers (SCQF level 7),Economics,2021,79,1,79,C & above
+Advanced highers (SCQF level 7),Economics,2021,79,1,79,D & above
+Advanced highers (SCQF level 7),Economics,2021,0,0,79,U
+Advanced highers (SCQF level 7),Engineering Science,2021,29,0.326,89,A
+Advanced highers (SCQF level 7),Engineering Science,2021,56,0.629,89,B & above
+Advanced highers (SCQF level 7),Engineering Science,2021,77,0.865,89,C & above
+Advanced highers (SCQF level 7),Engineering Science,2021,86,0.966,89,D & above
+Advanced highers (SCQF level 7),Engineering Science,2021,3,0.034,89,U
+Advanced highers (SCQF level 7),English,2021,1299,0.45899999999999996,"2,830",A
+Advanced highers (SCQF level 7),English,2021,2054,0.726,"2,830",B & above
+Advanced highers (SCQF level 7),English,2021,2597,0.9179999999999999,"2,830",C & above
+Advanced highers (SCQF level 7),English,2021,2748,0.971,"2,830",D & above
+Advanced highers (SCQF level 7),English,2021,82,0.028999999999999998,"2,830",U
+Advanced highers (SCQF level 7),French,2021,355,0.601,591,A
+Advanced highers (SCQF level 7),French,2021,485,0.821,591,B & above
+Advanced highers (SCQF level 7),French,2021,559,0.946,591,C & above
+Advanced highers (SCQF level 7),French,2021,582,0.985,591,D & above
+Advanced highers (SCQF level 7),French,2021,9,0.015,591,U
+Advanced highers (SCQF level 7),Gàidhlig,2021,19,0.633,30,A
+Advanced highers (SCQF level 7),Gàidhlig,2021,25,0.833,30,B & above
+Advanced highers (SCQF level 7),Gàidhlig,2021,29,0.9670000000000001,30,C & above
+Advanced highers (SCQF level 7),Gàidhlig,2021,30,1,30,D & above
+Advanced highers (SCQF level 7),Gàidhlig,2021,0,0,30,U
+Advanced highers (SCQF level 7),Geography,2021,368,0.46299999999999997,794,A
+Advanced highers (SCQF level 7),Geography,2021,591,0.7440000000000001,794,B & above
+Advanced highers (SCQF level 7),Geography,2021,742,0.935,794,C & above
+Advanced highers (SCQF level 7),Geography,2021,776,0.977,794,D & above
+Advanced highers (SCQF level 7),Geography,2021,18,0.023,794,U
+Advanced highers (SCQF level 7),German,2021,96,0.6709999999999999,143,A
+Advanced highers (SCQF level 7),German,2021,121,0.846,143,B & above
+Advanced highers (SCQF level 7),German,2021,137,0.958,143,C & above
+Advanced highers (SCQF level 7),German,2021,140,0.9790000000000001,143,D & above
+Advanced highers (SCQF level 7),German,2021,3,0.021,143,U
+Advanced highers (SCQF level 7),Graphic Communication,2021,145,0.314,462,A
+Advanced highers (SCQF level 7),Graphic Communication,2021,263,0.569,462,B & above
+Advanced highers (SCQF level 7),Graphic Communication,2021,390,0.8440000000000001,462,C & above
+Advanced highers (SCQF level 7),Graphic Communication,2021,435,0.9420000000000001,462,D & above
+Advanced highers (SCQF level 7),Graphic Communication,2021,27,0.057999999999999996,462,U
+Advanced highers (SCQF level 7),History,2021,680,0.469,"1,449",A
+Advanced highers (SCQF level 7),History,2021,1085,0.7490000000000001,"1,449",B & above
+Advanced highers (SCQF level 7),History,2021,1347,0.93,"1,449",C & above
+Advanced highers (SCQF level 7),History,2021,1419,0.9790000000000001,"1,449",D & above
+Advanced highers (SCQF level 7),History,2021,30,0.021,"1,449",U
+Advanced highers (SCQF level 7),Italian,2021,30,0.909,33,A
+Advanced highers (SCQF level 7),Italian,2021,32,0.97,33,B & above
+Advanced highers (SCQF level 7),Italian,2021,33,1,33,C & above
+Advanced highers (SCQF level 7),Italian,2021,33,1,33,D & above
+Advanced highers (SCQF level 7),Italian,2021,0,0,33,U
+Advanced highers (SCQF level 7),Latin,2021,27,0.73,37,A
+Advanced highers (SCQF level 7),Latin,2021,34,0.919,37,B & above
+Advanced highers (SCQF level 7),Latin,2021,36,0.973,37,C & above
+Advanced highers (SCQF level 7),Latin,2021,37,1,37,D & above
+Advanced highers (SCQF level 7),Latin,2021,0,0,37,U
+Advanced highers (SCQF level 7),Mathematics,2021,2188,0.578,"3,783",A
+Advanced highers (SCQF level 7),Mathematics,2021,2822,0.746,"3,783",B & above
+Advanced highers (SCQF level 7),Mathematics,2021,3291,0.87,"3,783",C & above
+Advanced highers (SCQF level 7),Mathematics,2021,3503,0.9259999999999999,"3,783",D & above
+Advanced highers (SCQF level 7),Mathematics,2021,280,0.07400000000000001,"3,783",U
+Advanced highers (SCQF level 7),Mathematics of Mechanics,2021,179,0.561,319,A
+Advanced highers (SCQF level 7),Mathematics of Mechanics,2021,227,0.7120000000000001,319,B & above
+Advanced highers (SCQF level 7),Mathematics of Mechanics,2021,270,0.846,319,C & above
+Advanced highers (SCQF level 7),Mathematics of Mechanics,2021,289,0.9059999999999999,319,D & above
+Advanced highers (SCQF level 7),Mathematics of Mechanics,2021,30,0.094,319,U
+Advanced highers (SCQF level 7),Modern Studies,2021,489,0.45299999999999996,"1,079",A
+Advanced highers (SCQF level 7),Modern Studies,2021,789,0.731,"1,079",B & above
+Advanced highers (SCQF level 7),Modern Studies,2021,994,0.9209999999999999,"1,079",C & above
+Advanced highers (SCQF level 7),Modern Studies,2021,1049,0.972,"1,079",D & above
+Advanced highers (SCQF level 7),Modern Studies,2021,30,0.027999999999999997,"1,079",U
+Advanced highers (SCQF level 7),Music,2021,1298,0.6970000000000001,"1,862",A
+Advanced highers (SCQF level 7),Music,2021,1650,0.8859999999999999,"1,862",B & above
+Advanced highers (SCQF level 7),Music,2021,1821,0.978,"1,862",C & above
+Advanced highers (SCQF level 7),Music,2021,1847,0.992,"1,862",D & above
+Advanced highers (SCQF level 7),Music,2021,15,0.008,"1,862",U
+Advanced highers (SCQF level 7),Music Technology,2021,21,0.375,56,A
+Advanced highers (SCQF level 7),Music Technology,2021,33,0.589,56,B & above
+Advanced highers (SCQF level 7),Music Technology,2021,46,0.821,56,C & above
+Advanced highers (SCQF level 7),Music Technology,2021,48,0.857,56,D & above
+Advanced highers (SCQF level 7),Music Technology,2021,8,0.14300000000000002,56,U
+Advanced highers (SCQF level 7),Music: Portfolio,2021,12,0.75,16,A
+Advanced highers (SCQF level 7),Music: Portfolio,2021,15,0.938,16,B & above
+Advanced highers (SCQF level 7),Music: Portfolio,2021,16,1,16,C & above
+Advanced highers (SCQF level 7),Music: Portfolio,2021,16,1,16,D & above
+Advanced highers (SCQF level 7),Music: Portfolio,2021,0,0,16,U
+Advanced highers (SCQF level 7),Physical Education,2021,404,0.501,807,A
+Advanced highers (SCQF level 7),Physical Education,2021,624,0.773,807,B & above
+Advanced highers (SCQF level 7),Physical Education,2021,759,0.941,807,C & above
+Advanced highers (SCQF level 7),Physical Education,2021,793,0.983,807,D & above
+Advanced highers (SCQF level 7),Physical Education,2021,14,0.017,807,U
+Advanced highers (SCQF level 7),Physics,2021,1005,0.517,"1,944",A
+Advanced highers (SCQF level 7),Physics,2021,1437,0.7390000000000001,"1,944",B & above
+Advanced highers (SCQF level 7),Physics,2021,1713,0.8809999999999999,"1,944",C & above
+Advanced highers (SCQF level 7),Physics,2021,1845,0.9490000000000001,"1,944",D & above
+Advanced highers (SCQF level 7),Physics,2021,99,0.051,"1,944",U
+Advanced highers (SCQF level 7),"Religious, Moral and Philosophical Studies",2021,155,0.654,237,A
+Advanced highers (SCQF level 7),"Religious, Moral and Philosophical Studies",2021,200,0.8440000000000001,237,B & above
+Advanced highers (SCQF level 7),"Religious, Moral and Philosophical Studies",2021,230,0.97,237,C & above
+Advanced highers (SCQF level 7),"Religious, Moral and Philosophical Studies",2021,234,0.987,237,D & above
+Advanced highers (SCQF level 7),"Religious, Moral and Philosophical Studies",2021,3,0.013000000000000001,237,U
+Advanced highers (SCQF level 7),Spanish,2021,282,0.609,463,A
+Advanced highers (SCQF level 7),Spanish,2021,371,0.8009999999999999,463,B & above
+Advanced highers (SCQF level 7),Spanish,2021,430,0.929,463,C & above
+Advanced highers (SCQF level 7),Spanish,2021,449,0.97,463,D & above
+Advanced highers (SCQF level 7),Spanish,2021,14,0.03,463,U
+Advanced highers (SCQF level 7),Statistics,2021,142,0.6890000000000001,206,A
+Advanced highers (SCQF level 7),Statistics,2021,169,0.82,206,B & above
+Advanced highers (SCQF level 7),Statistics,2021,187,0.9079999999999999,206,C & above
+Advanced highers (SCQF level 7),Statistics,2021,194,0.9420000000000001,206,D & above
+Advanced highers (SCQF level 7),Statistics,2021,12,0.057999999999999996,206,U
+Advanced highers (SCQF level 7),All subjects,2021,13654,0.51,"26,795",A
+Advanced highers (SCQF level 7),All subjects,2021,19888,0.742,"26,795",B & above
+Advanced highers (SCQF level 7),All subjects,2021,24162,0.902,"26,795",C & above
+Advanced highers (SCQF level 7),All subjects,2021,25644,0.9570000000000001,"26,795",D & above
+Advanced highers (SCQF level 7),All subjects,2021,1151,0.043,"26,795",U
+Advanced highers (SCQF level 7),Accounting,2020,42,0.677,62,A
+Advanced highers (SCQF level 7),Accounting,2020,50,0.8059999999999999,62,B & above
+Advanced highers (SCQF level 7),Accounting,2020,60,0.968,62,C & above
+Advanced highers (SCQF level 7),Accounting,2020,60,0.968,62,D & above
+Advanced highers (SCQF level 7),Accounting,2020,2,0.032,62,U
+Advanced highers (SCQF level 7),Art and Design (Design),2020,241,0.447,539,A
+Advanced highers (SCQF level 7),Art and Design (Design),2020,429,0.7959999999999999,539,B & above
+Advanced highers (SCQF level 7),Art and Design (Design),2020,514,0.9540000000000001,539,C & above
+Advanced highers (SCQF level 7),Art and Design (Design),2020,530,0.983,539,D & above
+Advanced highers (SCQF level 7),Art and Design (Design),2020,9,0.017,539,U
+Advanced highers (SCQF level 7),Art and Design (Expressive),2020,473,0.465,"1,017",A
+Advanced highers (SCQF level 7),Art and Design (Expressive),2020,815,0.8009999999999999,"1,017",B & above
+Advanced highers (SCQF level 7),Art and Design (Expressive),2020,985,0.9690000000000001,"1,017",C & above
+Advanced highers (SCQF level 7),Art and Design (Expressive),2020,1007,0.99,"1,017",D & above
+Advanced highers (SCQF level 7),Art and Design (Expressive),2020,10,0.01,"1,017",U
+Advanced highers (SCQF level 7),Biology,2020,908,0.36200000000000004,"2,511",A
+Advanced highers (SCQF level 7),Biology,2020,1628,0.648,"2,511",B & above
+Advanced highers (SCQF level 7),Biology,2020,2240,0.892,"2,511",C & above
+Advanced highers (SCQF level 7),Biology,2020,2428,0.9670000000000001,"2,511",D & above
+Advanced highers (SCQF level 7),Biology,2020,83,0.033,"2,511",U
+Advanced highers (SCQF level 7),Business Management,2020,283,0.505,560,A
+Advanced highers (SCQF level 7),Business Management,2020,452,0.807,560,B & above
+Advanced highers (SCQF level 7),Business Management,2020,536,0.9570000000000001,560,C & above
+Advanced highers (SCQF level 7),Business Management,2020,555,0.991,560,D & above
+Advanced highers (SCQF level 7),Business Management,2020,5,0.009000000000000001,560,U
+Advanced highers (SCQF level 7),Chemistry,2020,1095,0.429,"2,555",A
+Advanced highers (SCQF level 7),Chemistry,2020,1820,0.7120000000000001,"2,555",B & above
+Advanced highers (SCQF level 7),Chemistry,2020,2369,0.927,"2,555",C & above
+Advanced highers (SCQF level 7),Chemistry,2020,2505,0.98,"2,555",D & above
+Advanced highers (SCQF level 7),Chemistry,2020,50,0.02,"2,555",U
+Advanced highers (SCQF level 7),Chinese Languages,2020,55,0.902,61,A
+Advanced highers (SCQF level 7),Chinese Languages,2020,61,1,61,B & above
+Advanced highers (SCQF level 7),Chinese Languages,2020,61,1,61,C & above
+Advanced highers (SCQF level 7),Chinese Languages,2020,61,1,61,D & above
+Advanced highers (SCQF level 7),Chinese Languages,2020,0,0,61,U
+Advanced highers (SCQF level 7),Classical Studies,2020,17,0.5479999999999999,31,A
+Advanced highers (SCQF level 7),Classical Studies,2020,29,0.935,31,B & above
+Advanced highers (SCQF level 7),Classical Studies,2020,31,1,31,C & above
+Advanced highers (SCQF level 7),Classical Studies,2020,31,1,31,D & above
+Advanced highers (SCQF level 7),Classical Studies,2020,0,0,31,U
+Advanced highers (SCQF level 7),Computing Science,2020,218,0.44299999999999995,492,A
+Advanced highers (SCQF level 7),Computing Science,2020,375,0.762,492,B & above
+Advanced highers (SCQF level 7),Computing Science,2020,462,0.9390000000000001,492,C & above
+Advanced highers (SCQF level 7),Computing Science,2020,479,0.9740000000000001,492,D & above
+Advanced highers (SCQF level 7),Computing Science,2020,13,0.026000000000000002,492,U
+Advanced highers (SCQF level 7),Design and Manufacture,2020,14,0.298,47,A
+Advanced highers (SCQF level 7),Design and Manufacture,2020,33,0.7020000000000001,47,B & above
+Advanced highers (SCQF level 7),Design and Manufacture,2020,43,0.915,47,C & above
+Advanced highers (SCQF level 7),Design and Manufacture,2020,46,0.9790000000000001,47,D & above
+Advanced highers (SCQF level 7),Design and Manufacture,2020,1,0.021,47,U
+Advanced highers (SCQF level 7),Drama,2020,268,0.494,542,A
+Advanced highers (SCQF level 7),Drama,2020,438,0.8079999999999999,542,B & above
+Advanced highers (SCQF level 7),Drama,2020,530,0.978,542,C & above
+Advanced highers (SCQF level 7),Drama,2020,541,0.998,542,D & above
+Advanced highers (SCQF level 7),Drama,2020,1,0.002,542,U
+Advanced highers (SCQF level 7),Economics,2020,70,0.68,103,A
+Advanced highers (SCQF level 7),Economics,2020,91,0.883,103,B & above
+Advanced highers (SCQF level 7),Economics,2020,102,0.99,103,C & above
+Advanced highers (SCQF level 7),Economics,2020,103,1,103,D & above
+Advanced highers (SCQF level 7),Economics,2020,0,0,103,U
+Advanced highers (SCQF level 7),Engineering Science,2020,9,0.2,45,A
+Advanced highers (SCQF level 7),Engineering Science,2020,21,0.467,45,B & above
+Advanced highers (SCQF level 7),Engineering Science,2020,37,0.8220000000000001,45,C & above
+Advanced highers (SCQF level 7),Engineering Science,2020,42,0.9329999999999999,45,D & above
+Advanced highers (SCQF level 7),Engineering Science,2020,3,0.067,45,U
+Advanced highers (SCQF level 7),English,2020,835,0.373,"2,241",A
+Advanced highers (SCQF level 7),English,2020,1543,0.6890000000000001,"2,241",B & above
+Advanced highers (SCQF level 7),English,2020,2073,0.925,"2,241",C & above
+Advanced highers (SCQF level 7),English,2020,2196,0.98,"2,241",D & above
+Advanced highers (SCQF level 7),English,2020,45,0.02,"2,241",U
+Advanced highers (SCQF level 7),French,2020,341,0.594,574,A
+Advanced highers (SCQF level 7),French,2020,492,0.857,574,B & above
+Advanced highers (SCQF level 7),French,2020,554,0.965,574,C & above
+Advanced highers (SCQF level 7),French,2020,572,0.997,574,D & above
+Advanced highers (SCQF level 7),French,2020,2,0.003,574,U
+Advanced highers (SCQF level 7),Gàidhlig,2020,27,0.628,43,A
+Advanced highers (SCQF level 7),Gàidhlig,2020,37,0.86,43,B & above
+Advanced highers (SCQF level 7),Gàidhlig,2020,42,0.977,43,C & above
+Advanced highers (SCQF level 7),Gàidhlig,2020,42,0.977,43,D & above
+Advanced highers (SCQF level 7),Gàidhlig,2020,1,0.023,43,U
+Advanced highers (SCQF level 7),Geography,2020,318,0.424,750,A
+Advanced highers (SCQF level 7),Geography,2020,564,0.752,750,B & above
+Advanced highers (SCQF level 7),Geography,2020,715,0.953,750,C & above
+Advanced highers (SCQF level 7),Geography,2020,740,0.987,750,D & above
+Advanced highers (SCQF level 7),Geography,2020,10,0.013000000000000001,750,U
+Advanced highers (SCQF level 7),German,2020,52,0.491,106,A
+Advanced highers (SCQF level 7),German,2020,80,0.755,106,B & above
+Advanced highers (SCQF level 7),German,2020,100,0.943,106,C & above
+Advanced highers (SCQF level 7),German,2020,102,0.9620000000000001,106,D & above
+Advanced highers (SCQF level 7),German,2020,4,0.038,106,U
+Advanced highers (SCQF level 7),Graphic Communication,2020,95,0.254,374,A
+Advanced highers (SCQF level 7),Graphic Communication,2020,231,0.618,374,B & above
+Advanced highers (SCQF level 7),Graphic Communication,2020,344,0.92,374,C & above
+Advanced highers (SCQF level 7),Graphic Communication,2020,364,0.973,374,D & above
+Advanced highers (SCQF level 7),Graphic Communication,2020,10,0.027000000000000003,374,U
+Advanced highers (SCQF level 7),History,2020,493,0.40299999999999997,"1,224",A
+Advanced highers (SCQF level 7),History,2020,916,0.748,"1,224",B & above
+Advanced highers (SCQF level 7),History,2020,1147,0.937,"1,224",C & above
+Advanced highers (SCQF level 7),History,2020,1201,0.981,"1,224",D & above
+Advanced highers (SCQF level 7),History,2020,23,0.019,"1,224",U
+Advanced highers (SCQF level 7),Italian,2020,19,0.7040000000000001,27,A
+Advanced highers (SCQF level 7),Italian,2020,26,0.963,27,B & above
+Advanced highers (SCQF level 7),Italian,2020,27,1,27,C & above
+Advanced highers (SCQF level 7),Italian,2020,27,1,27,D & above
+Advanced highers (SCQF level 7),Italian,2020,0,0,27,U
+Advanced highers (SCQF level 7),Latin,2020,24,0.727,33,A
+Advanced highers (SCQF level 7),Latin,2020,32,0.97,33,B & above
+Advanced highers (SCQF level 7),Latin,2020,33,1,33,C & above
+Advanced highers (SCQF level 7),Latin,2020,33,1,33,D & above
+Advanced highers (SCQF level 7),Latin,2020,0,0,33,U
+Advanced highers (SCQF level 7),Mathematics,2020,1740,0.479,"3,635",A
+Advanced highers (SCQF level 7),Mathematics,2020,2543,0.7,"3,635",B & above
+Advanced highers (SCQF level 7),Mathematics,2020,3241,0.892,"3,635",C & above
+Advanced highers (SCQF level 7),Mathematics,2020,3459,0.9520000000000001,"3,635",D & above
+Advanced highers (SCQF level 7),Mathematics,2020,176,0.048,"3,635",U
+Advanced highers (SCQF level 7),Mathematics of Mechanics,2020,208,0.654,318,A
+Advanced highers (SCQF level 7),Mathematics of Mechanics,2020,253,0.7959999999999999,318,B & above
+Advanced highers (SCQF level 7),Mathematics of Mechanics,2020,294,0.925,318,C & above
+Advanced highers (SCQF level 7),Mathematics of Mechanics,2020,307,0.965,318,D & above
+Advanced highers (SCQF level 7),Mathematics of Mechanics,2020,11,0.035,318,U
+Advanced highers (SCQF level 7),Modern Studies,2020,363,0.41,886,A
+Advanced highers (SCQF level 7),Modern Studies,2020,634,0.716,886,B & above
+Advanced highers (SCQF level 7),Modern Studies,2020,816,0.9209999999999999,886,C & above
+Advanced highers (SCQF level 7),Modern Studies,2020,866,0.977,886,D & above
+Advanced highers (SCQF level 7),Modern Studies,2020,20,0.023,886,U
+Advanced highers (SCQF level 7),Music,2020,1102,0.669,"1,648",A
+Advanced highers (SCQF level 7),Music,2020,1449,0.879,"1,648",B & above
+Advanced highers (SCQF level 7),Music,2020,1616,0.981,"1,648",C & above
+Advanced highers (SCQF level 7),Music,2020,1638,0.9940000000000001,"1,648",D & above
+Advanced highers (SCQF level 7),Music,2020,10,0.006,"1,648",U
+Advanced highers (SCQF level 7),Music Technology,2020,19,0.594,32,A
+Advanced highers (SCQF level 7),Music Technology,2020,28,0.875,32,B & above
+Advanced highers (SCQF level 7),Music Technology,2020,32,1,32,C & above
+Advanced highers (SCQF level 7),Music Technology,2020,32,1,32,D & above
+Advanced highers (SCQF level 7),Music Technology,2020,0,0,32,U
+Advanced highers (SCQF level 7),Music: Portfolio,2020,18,0.72,25,A
+Advanced highers (SCQF level 7),Music: Portfolio,2020,25,1,25,B & above
+Advanced highers (SCQF level 7),Music: Portfolio,2020,25,1,25,C & above
+Advanced highers (SCQF level 7),Music: Portfolio,2020,25,1,25,D & above
+Advanced highers (SCQF level 7),Music: Portfolio,2020,0,0,25,U
+Advanced highers (SCQF level 7),Physical Education,2020,244,0.47600000000000003,513,A
+Advanced highers (SCQF level 7),Physical Education,2020,393,0.7659999999999999,513,B & above
+Advanced highers (SCQF level 7),Physical Education,2020,488,0.951,513,C & above
+Advanced highers (SCQF level 7),Physical Education,2020,507,0.988,513,D & above
+Advanced highers (SCQF level 7),Physical Education,2020,6,0.012,513,U
+Advanced highers (SCQF level 7),Physics,2020,864,0.506,"1,709",A
+Advanced highers (SCQF level 7),Physics,2020,1285,0.752,"1,709",B & above
+Advanced highers (SCQF level 7),Physics,2020,1592,0.932,"1,709",C & above
+Advanced highers (SCQF level 7),Physics,2020,1668,0.976,"1,709",D & above
+Advanced highers (SCQF level 7),Physics,2020,41,0.024,"1,709",U
+Advanced highers (SCQF level 7),"Religious, Moral and Philosophical Studies",2020,97,0.539,180,A
+Advanced highers (SCQF level 7),"Religious, Moral and Philosophical Studies",2020,149,0.828,180,B & above
+Advanced highers (SCQF level 7),"Religious, Moral and Philosophical Studies",2020,174,0.9670000000000001,180,C & above
+Advanced highers (SCQF level 7),"Religious, Moral and Philosophical Studies",2020,180,1,180,D & above
+Advanced highers (SCQF level 7),"Religious, Moral and Philosophical Studies",2020,0,0,180,U
+Advanced highers (SCQF level 7),Spanish,2020,250,0.539,464,A
+Advanced highers (SCQF level 7),Spanish,2020,374,0.8059999999999999,464,B & above
+Advanced highers (SCQF level 7),Spanish,2020,450,0.97,464,C & above
+Advanced highers (SCQF level 7),Spanish,2020,461,0.9940000000000001,464,D & above
+Advanced highers (SCQF level 7),Spanish,2020,3,0.006,464,U
+Advanced highers (SCQF level 7),Statistics,2020,98,0.536,183,A
+Advanced highers (SCQF level 7),Statistics,2020,140,0.765,183,B & above
+Advanced highers (SCQF level 7),Statistics,2020,164,0.8959999999999999,183,C & above
+Advanced highers (SCQF level 7),Statistics,2020,176,0.9620000000000001,183,D & above
+Advanced highers (SCQF level 7),Statistics,2020,7,0.038,183,U
+Advanced highers (SCQF level 7),All subjects,2020,10919,0.46299999999999997,"23,570",A
+Advanced highers (SCQF level 7),All subjects,2020,17469,0.741,"23,570",B & above
+Advanced highers (SCQF level 7),All subjects,2020,21935,0.9309999999999999,"23,570",C & above
+Advanced highers (SCQF level 7),All subjects,2020,23023,0.977,"23,570",D & above
+Advanced highers (SCQF level 7),All subjects,2020,547,0.023,"23,570",U
+Highers (SCQF level 6),Accounting,2021,787,0.589,"1,336",A
+Highers (SCQF level 6),Accounting,2021,1058,0.792,"1,336",B & above
+Highers (SCQF level 6),Accounting,2021,1213,0.9079999999999999,"1,336",C & above
+Highers (SCQF level 6),Accounting,2021,1276,0.955,"1,336",D & above
+Highers (SCQF level 6),Accounting,2021,60,0.045,"1,336",U
+Highers (SCQF level 6),Administration and IT,2021,2124,0.48700000000000004,"4,360",A
+Highers (SCQF level 6),Administration and IT,2021,3221,0.7390000000000001,"4,360",B & above
+Highers (SCQF level 6),Administration and IT,2021,3963,0.909,"4,360",C & above
+Highers (SCQF level 6),Administration and IT,2021,4232,0.971,"4,360",D & above
+Highers (SCQF level 6),Administration and IT,2021,128,0.028999999999999998,"4,360",U
+Highers (SCQF level 6),Art and Design,2021,2760,0.483,"5,710",A
+Highers (SCQF level 6),Art and Design,2021,4383,0.768,"5,710",B & above
+Highers (SCQF level 6),Art and Design,2021,5425,0.95,"5,710",C & above
+Highers (SCQF level 6),Art and Design,2021,5625,0.985,"5,710",D & above
+Highers (SCQF level 6),Art and Design,2021,85,0.015,"5,710",U
+Highers (SCQF level 6),Biology,2021,2750,0.37200000000000005,"7,388",A
+Highers (SCQF level 6),Biology,2021,4307,0.583,"7,388",B & above
+Highers (SCQF level 6),Biology,2021,5775,0.782,"7,388",C & above
+Highers (SCQF level 6),Biology,2021,6634,0.898,"7,388",D & above
+Highers (SCQF level 6),Biology,2021,754,0.102,"7,388",U
+Highers (SCQF level 6),Business Management,2021,4390,0.5,"8,777",A
+Highers (SCQF level 6),Business Management,2021,6313,0.7190000000000001,"8,777",B & above
+Highers (SCQF level 6),Business Management,2021,7708,0.878,"8,777",C & above
+Highers (SCQF level 6),Business Management,2021,8276,0.943,"8,777",D & above
+Highers (SCQF level 6),Business Management,2021,501,0.057,"8,777",U
+Highers (SCQF level 6),Care,2021,106,0.292,363,A
+Highers (SCQF level 6),Care,2021,192,0.529,363,B & above
+Highers (SCQF level 6),Care,2021,282,0.777,363,C & above
+Highers (SCQF level 6),Care,2021,310,0.8540000000000001,363,D & above
+Highers (SCQF level 6),Care,2021,53,0.146,363,U
+Highers (SCQF level 6),Chemistry,2021,4265,0.434,"9,833",A
+Highers (SCQF level 6),Chemistry,2021,6220,0.633,"9,833",B & above
+Highers (SCQF level 6),Chemistry,2021,8011,0.815,"9,833",C & above
+Highers (SCQF level 6),Chemistry,2021,9037,0.919,"9,833",D & above
+Highers (SCQF level 6),Chemistry,2021,796,0.081,"9,833",U
+Highers (SCQF level 6),Childcare and Development,2021,107,0.355,301,A
+Highers (SCQF level 6),Childcare and Development,2021,187,0.621,301,B & above
+Highers (SCQF level 6),Childcare and Development,2021,249,0.8270000000000001,301,C & above
+Highers (SCQF level 6),Childcare and Development,2021,274,0.91,301,D & above
+Highers (SCQF level 6),Childcare and Development,2021,27,0.09,301,U
+Highers (SCQF level 6),Chinese Languages,2021,155,0.9059999999999999,171,A
+Highers (SCQF level 6),Chinese Languages,2021,165,0.965,171,B & above
+Highers (SCQF level 6),Chinese Languages,2021,168,0.982,171,C & above
+Highers (SCQF level 6),Chinese Languages,2021,171,1,171,D & above
+Highers (SCQF level 6),Chinese Languages,2021,0,0,171,U
+Highers (SCQF level 6),Classical Studies,2021,303,0.5529999999999999,548,A
+Highers (SCQF level 6),Classical Studies,2021,420,0.7659999999999999,548,B & above
+Highers (SCQF level 6),Classical Studies,2021,499,0.9109999999999999,548,C & above
+Highers (SCQF level 6),Classical Studies,2021,536,0.978,548,D & above
+Highers (SCQF level 6),Classical Studies,2021,12,0.022000000000000002,548,U
+Highers (SCQF level 6),Computing Science,2021,1658,0.491,"3,377",A
+Highers (SCQF level 6),Computing Science,2021,2330,0.69,"3,377",B & above
+Highers (SCQF level 6),Computing Science,2021,2911,0.862,"3,377",C & above
+Highers (SCQF level 6),Computing Science,2021,3180,0.9420000000000001,"3,377",D & above
+Highers (SCQF level 6),Computing Science,2021,197,0.057999999999999996,"3,377",U
+Highers (SCQF level 6),Dance,2021,300,0.606,495,A
+Highers (SCQF level 6),Dance,2021,411,0.83,495,B & above
+Highers (SCQF level 6),Dance,2021,476,0.9620000000000001,495,C & above
+Highers (SCQF level 6),Dance,2021,489,0.988,495,D & above
+Highers (SCQF level 6),Dance,2021,6,0.012,495,U
+Highers (SCQF level 6),Design and Manufacture,2021,692,0.302,"2,293",A
+Highers (SCQF level 6),Design and Manufacture,2021,1304,0.569,"2,293",B & above
+Highers (SCQF level 6),Design and Manufacture,2021,1863,0.812,"2,293",C & above
+Highers (SCQF level 6),Design and Manufacture,2021,2122,0.925,"2,293",D & above
+Highers (SCQF level 6),Design and Manufacture,2021,171,0.075,"2,293",U
+Highers (SCQF level 6),Drama,2021,1671,0.561,"2,977",A
+Highers (SCQF level 6),Drama,2021,2338,0.785,"2,977",B & above
+Highers (SCQF level 6),Drama,2021,2809,0.9440000000000001,"2,977",C & above
+Highers (SCQF level 6),Drama,2021,2933,0.985,"2,977",D & above
+Highers (SCQF level 6),Drama,2021,44,0.015,"2,977",U
+Highers (SCQF level 6),Economics,2021,383,0.628,610,A
+Highers (SCQF level 6),Economics,2021,497,0.815,610,B & above
+Highers (SCQF level 6),Economics,2021,563,0.9229999999999999,610,C & above
+Highers (SCQF level 6),Economics,2021,582,0.9540000000000001,610,D & above
+Highers (SCQF level 6),Economics,2021,28,0.046,610,U
+Highers (SCQF level 6),Engineering Science,2021,475,0.401,"1,184",A
+Highers (SCQF level 6),Engineering Science,2021,739,0.624,"1,184",B & above
+Highers (SCQF level 6),Engineering Science,2021,986,0.833,"1,184",C & above
+Highers (SCQF level 6),Engineering Science,2021,1106,0.934,"1,184",D & above
+Highers (SCQF level 6),Engineering Science,2021,78,0.066,"1,184",U
+Highers (SCQF level 6),English,2021,15421,0.42200000000000004,"36,534",A
+Highers (SCQF level 6),English,2021,24510,0.6709999999999999,"36,534",B & above
+Highers (SCQF level 6),English,2021,32210,0.882,"36,534",C & above
+Highers (SCQF level 6),English,2021,35098,0.961,"36,534",D & above
+Highers (SCQF level 6),English,2021,1436,0.039,"36,534",U
+Highers (SCQF level 6),English for Speakers of Other Languages,2021,417,0.57,732,A
+Highers (SCQF level 6),English for Speakers of Other Languages,2021,610,0.833,732,B & above
+Highers (SCQF level 6),English for Speakers of Other Languages,2021,710,0.97,732,C & above
+Highers (SCQF level 6),English for Speakers of Other Languages,2021,727,0.993,732,D & above
+Highers (SCQF level 6),English for Speakers of Other Languages,2021,5,0.006999999999999999,732,U
+Highers (SCQF level 6),Environmental Science,2021,180,0.35,515,A
+Highers (SCQF level 6),Environmental Science,2021,310,0.602,515,B & above
+Highers (SCQF level 6),Environmental Science,2021,414,0.804,515,C & above
+Highers (SCQF level 6),Environmental Science,2021,464,0.9009999999999999,515,D & above
+Highers (SCQF level 6),Environmental Science,2021,51,0.099,515,U
+Highers (SCQF level 6),Fashion and Textile Technology,2021,131,0.512,256,A
+Highers (SCQF level 6),Fashion and Textile Technology,2021,195,0.762,256,B & above
+Highers (SCQF level 6),Fashion and Textile Technology,2021,242,0.945,256,C & above
+Highers (SCQF level 6),Fashion and Textile Technology,2021,252,0.9840000000000001,256,D & above
+Highers (SCQF level 6),Fashion and Textile Technology,2021,4,0.016,256,U
+Highers (SCQF level 6),French,2021,2142,0.675,"3,175",A
+Highers (SCQF level 6),French,2021,2692,0.848,"3,175",B & above
+Highers (SCQF level 6),French,2021,3016,0.95,"3,175",C & above
+Highers (SCQF level 6),French,2021,3122,0.983,"3,175",D & above
+Highers (SCQF level 6),French,2021,53,0.017,"3,175",U
+Highers (SCQF level 6),Gaelic (Learners),2021,32,0.516,62,A
+Highers (SCQF level 6),Gaelic (Learners),2021,49,0.79,62,B & above
+Highers (SCQF level 6),Gaelic (Learners),2021,58,0.935,62,C & above
+Highers (SCQF level 6),Gaelic (Learners),2021,61,0.9840000000000001,62,D & above
+Highers (SCQF level 6),Gaelic (Learners),2021,1,0.016,62,U
+Highers (SCQF level 6),Gàidhlig,2021,63,0.534,118,A
+Highers (SCQF level 6),Gàidhlig,2021,96,0.8140000000000001,118,B & above
+Highers (SCQF level 6),Gàidhlig,2021,114,0.966,118,C & above
+Highers (SCQF level 6),Gàidhlig,2021,117,0.992,118,D & above
+Highers (SCQF level 6),Gàidhlig,2021,1,0.008,118,U
+Highers (SCQF level 6),Geography,2021,4077,0.5720000000000001,"7,130",A
+Highers (SCQF level 6),Geography,2021,5376,0.754,"7,130",B & above
+Highers (SCQF level 6),Geography,2021,6366,0.893,"7,130",C & above
+Highers (SCQF level 6),Geography,2021,6825,0.9570000000000001,"7,130",D & above
+Highers (SCQF level 6),Geography,2021,305,0.043,"7,130",U
+Highers (SCQF level 6),German,2021,510,0.713,715,A
+Highers (SCQF level 6),German,2021,618,0.8640000000000001,715,B & above
+Highers (SCQF level 6),German,2021,692,0.968,715,C & above
+Highers (SCQF level 6),German,2021,703,0.983,715,D & above
+Highers (SCQF level 6),German,2021,12,0.017,715,U
+Highers (SCQF level 6),Graphic Communication,2021,1474,0.439,"3,359",A
+Highers (SCQF level 6),Graphic Communication,2021,2391,0.7120000000000001,"3,359",B & above
+Highers (SCQF level 6),Graphic Communication,2021,3066,0.9129999999999999,"3,359",C & above
+Highers (SCQF level 6),Graphic Communication,2021,3264,0.972,"3,359",D & above
+Highers (SCQF level 6),Graphic Communication,2021,95,0.027999999999999997,"3,359",U
+Highers (SCQF level 6),Health and Food Technology,2021,668,0.465,"1,437",A
+Highers (SCQF level 6),Health and Food Technology,2021,1020,0.71,"1,437",B & above
+Highers (SCQF level 6),Health and Food Technology,2021,1283,0.893,"1,437",C & above
+Highers (SCQF level 6),Health and Food Technology,2021,1379,0.96,"1,437",D & above
+Highers (SCQF level 6),Health and Food Technology,2021,58,0.04,"1,437",U
+Highers (SCQF level 6),History,2021,5386,0.511,"10,539",A
+Highers (SCQF level 6),History,2021,7617,0.723,"10,539",B & above
+Highers (SCQF level 6),History,2021,9371,0.889,"10,539",C & above
+Highers (SCQF level 6),History,2021,10022,0.951,"10,539",D & above
+Highers (SCQF level 6),History,2021,517,0.049,"10,539",U
+Highers (SCQF level 6),Human Biology,2021,2472,0.327,"7,549",A
+Highers (SCQF level 6),Human Biology,2021,4073,0.54,"7,549",B & above
+Highers (SCQF level 6),Human Biology,2021,5781,0.7659999999999999,"7,549",C & above
+Highers (SCQF level 6),Human Biology,2021,6704,0.888,"7,549",D & above
+Highers (SCQF level 6),Human Biology,2021,845,0.11199999999999999,"7,549",U
+Highers (SCQF level 6),Italian,2021,146,0.8109999999999999,180,A
+Highers (SCQF level 6),Italian,2021,163,0.9059999999999999,180,B & above
+Highers (SCQF level 6),Italian,2021,171,0.95,180,C & above
+Highers (SCQF level 6),Italian,2021,174,0.9670000000000001,180,D & above
+Highers (SCQF level 6),Italian,2021,6,0.033,180,U
+Highers (SCQF level 6),Latin,2021,215,0.863,249,A
+Highers (SCQF level 6),Latin,2021,236,0.948,249,B & above
+Highers (SCQF level 6),Latin,2021,247,0.992,249,C & above
+Highers (SCQF level 6),Latin,2021,249,1,249,D & above
+Highers (SCQF level 6),Latin,2021,0,0,249,U
+Highers (SCQF level 6),Mathematics,2021,9146,0.47100000000000003,"19,419",A
+Highers (SCQF level 6),Mathematics,2021,12541,0.6459999999999999,"19,419",B & above
+Highers (SCQF level 6),Mathematics,2021,15562,0.8009999999999999,"19,419",C & above
+Highers (SCQF level 6),Mathematics,2021,16995,0.875,"19,419",D & above
+Highers (SCQF level 6),Mathematics,2021,2424,0.125,"19,419",U
+Highers (SCQF level 6),Media,2021,504,0.48700000000000004,"1,035",A
+Highers (SCQF level 6),Media,2021,772,0.746,"1,035",B & above
+Highers (SCQF level 6),Media,2021,937,0.905,"1,035",C & above
+Highers (SCQF level 6),Media,2021,986,0.953,"1,035",D & above
+Highers (SCQF level 6),Media,2021,49,0.047,"1,035",U
+Highers (SCQF level 6),Modern Studies,2021,5357,0.562,"9,531",A
+Highers (SCQF level 6),Modern Studies,2021,7321,0.768,"9,531",B & above
+Highers (SCQF level 6),Modern Studies,2021,8646,0.907,"9,531",C & above
+Highers (SCQF level 6),Modern Studies,2021,9167,0.9620000000000001,"9,531",D & above
+Highers (SCQF level 6),Modern Studies,2021,364,0.038,"9,531",U
+Highers (SCQF level 6),Music,2021,3387,0.649,"5,216",A
+Highers (SCQF level 6),Music,2021,4525,0.868,"5,216",B & above
+Highers (SCQF level 6),Music,2021,5081,0.9740000000000001,"5,216",C & above
+Highers (SCQF level 6),Music,2021,5167,0.991,"5,216",D & above
+Highers (SCQF level 6),Music,2021,49,0.009000000000000001,"5,216",U
+Highers (SCQF level 6),Music Technology,2021,495,0.542,913,A
+Highers (SCQF level 6),Music Technology,2021,716,0.784,913,B & above
+Highers (SCQF level 6),Music Technology,2021,857,0.9390000000000001,913,C & above
+Highers (SCQF level 6),Music Technology,2021,895,0.98,913,D & above
+Highers (SCQF level 6),Music Technology,2021,18,0.02,913,U
+Highers (SCQF level 6),Philosophy,2021,397,0.485,819,A
+Highers (SCQF level 6),Philosophy,2021,589,0.7190000000000001,819,B & above
+Highers (SCQF level 6),Philosophy,2021,717,0.875,819,C & above
+Highers (SCQF level 6),Philosophy,2021,774,0.945,819,D & above
+Highers (SCQF level 6),Philosophy,2021,45,0.055,819,U
+Highers (SCQF level 6),Photography,2021,1069,0.42200000000000004,"2,532",A
+Highers (SCQF level 6),Photography,2021,1835,0.725,"2,532",B & above
+Highers (SCQF level 6),Photography,2021,2335,0.922,"2,532",C & above
+Highers (SCQF level 6),Photography,2021,2439,0.963,"2,532",D & above
+Highers (SCQF level 6),Photography,2021,93,0.037000000000000005,"2,532",U
+Highers (SCQF level 6),Physical Education,2021,5341,0.45299999999999996,"11,803",A
+Highers (SCQF level 6),Physical Education,2021,8510,0.721,"11,803",B & above
+Highers (SCQF level 6),Physical Education,2021,10957,0.9279999999999999,"11,803",C & above
+Highers (SCQF level 6),Physical Education,2021,11614,0.9840000000000001,"11,803",D & above
+Highers (SCQF level 6),Physical Education,2021,189,0.016,"11,803",U
+Highers (SCQF level 6),Physics,2021,3598,0.424,"8,481",A
+Highers (SCQF level 6),Physics,2021,5321,0.627,"8,481",B & above
+Highers (SCQF level 6),Physics,2021,6850,0.8079999999999999,"8,481",C & above
+Highers (SCQF level 6),Physics,2021,7667,0.904,"8,481",D & above
+Highers (SCQF level 6),Physics,2021,814,0.096,"8,481",U
+Highers (SCQF level 6),Politics,2021,1006,0.5539999999999999,"1,816",A
+Highers (SCQF level 6),Politics,2021,1413,0.778,"1,816",B & above
+Highers (SCQF level 6),Politics,2021,1686,0.9279999999999999,"1,816",C & above
+Highers (SCQF level 6),Politics,2021,1755,0.966,"1,816",D & above
+Highers (SCQF level 6),Politics,2021,61,0.034,"1,816",U
+Highers (SCQF level 6),Psychology,2021,1488,0.494,"3,012",A
+Highers (SCQF level 6),Psychology,2021,2108,0.7,"3,012",B & above
+Highers (SCQF level 6),Psychology,2021,2570,0.853,"3,012",C & above
+Highers (SCQF level 6),Psychology,2021,2752,0.914,"3,012",D & above
+Highers (SCQF level 6),Psychology,2021,260,0.086,"3,012",U
+Highers (SCQF level 6),"Religious, Moral and Philosophical Studies",2021,2175,0.562,"3,870",A
+Highers (SCQF level 6),"Religious, Moral and Philosophical Studies",2021,2956,0.764,"3,870",B & above
+Highers (SCQF level 6),"Religious, Moral and Philosophical Studies",2021,3488,0.9009999999999999,"3,870",C & above
+Highers (SCQF level 6),"Religious, Moral and Philosophical Studies",2021,3682,0.951,"3,870",D & above
+Highers (SCQF level 6),"Religious, Moral and Philosophical Studies",2021,188,0.049,"3,870",U
+Highers (SCQF level 6),Sociology,2021,442,0.531,832,A
+Highers (SCQF level 6),Sociology,2021,618,0.743,832,B & above
+Highers (SCQF level 6),Sociology,2021,731,0.879,832,C & above
+Highers (SCQF level 6),Sociology,2021,765,0.919,832,D & above
+Highers (SCQF level 6),Sociology,2021,67,0.081,832,U
+Highers (SCQF level 6),Spanish,2021,2002,0.664,"3,014",A
+Highers (SCQF level 6),Spanish,2021,2510,0.833,"3,014",B & above
+Highers (SCQF level 6),Spanish,2021,2839,0.9420000000000001,"3,014",C & above
+Highers (SCQF level 6),Spanish,2021,2960,0.982,"3,014",D & above
+Highers (SCQF level 6),Spanish,2021,54,0.018000000000000002,"3,014",U
+Highers (SCQF level 6),Urdu,2021,86,0.905,95,A
+Highers (SCQF level 6),Urdu,2021,90,0.9470000000000001,95,B & above
+Highers (SCQF level 6),Urdu,2021,91,0.958,95,C & above
+Highers (SCQF level 6),Urdu,2021,93,0.9790000000000001,95,D & above
+Highers (SCQF level 6),Urdu,2021,2,0.021,95,U
+Highers (SCQF level 6),All subjects,2021,92753,0.47600000000000003,"194,661",A
+Highers (SCQF level 6),All subjects,2021,135866,0.698,"194,661",B & above
+Highers (SCQF level 6),All subjects,2021,169989,0.873,"194,661",C & above
+Highers (SCQF level 6),All subjects,2021,183655,0.943,"194,661",D & above
+Highers (SCQF level 6),All subjects,2021,11006,0.057,"194,661",U
+Highers (SCQF level 6),Accounting,2020,584,0.508,"1,150",A
+Highers (SCQF level 6),Accounting,2020,858,0.746,"1,150",B & above
+Highers (SCQF level 6),Accounting,2020,1049,0.912,"1,150",C & above
+Highers (SCQF level 6),Accounting,2020,1101,0.9570000000000001,"1,150",D & above
+Highers (SCQF level 6),Accounting,2020,49,0.043,"1,150",U
+Highers (SCQF level 6),Administration and IT,2020,1590,0.40299999999999997,"3,948",A
+Highers (SCQF level 6),Administration and IT,2020,2771,0.7020000000000001,"3,948",B & above
+Highers (SCQF level 6),Administration and IT,2020,3630,0.919,"3,948",C & above
+Highers (SCQF level 6),Administration and IT,2020,3854,0.976,"3,948",D & above
+Highers (SCQF level 6),Administration and IT,2020,94,0.024,"3,948",U
+Highers (SCQF level 6),Art and Design,2020,2188,0.413,"5,294",A
+Highers (SCQF level 6),Art and Design,2020,3911,0.7390000000000001,"5,294",B & above
+Highers (SCQF level 6),Art and Design,2020,5078,0.9590000000000001,"5,294",C & above
+Highers (SCQF level 6),Art and Design,2020,5235,0.9890000000000001,"5,294",D & above
+Highers (SCQF level 6),Art and Design,2020,59,0.011000000000000001,"5,294",U
+Highers (SCQF level 6),Biology,2020,2655,0.35700000000000004,"7,428",A
+Highers (SCQF level 6),Biology,2020,4519,0.608,"7,428",B & above
+Highers (SCQF level 6),Biology,2020,6311,0.85,"7,428",C & above
+Highers (SCQF level 6),Biology,2020,7065,0.951,"7,428",D & above
+Highers (SCQF level 6),Biology,2020,363,0.049,"7,428",U
+Highers (SCQF level 6),Business Management,2020,3180,0.389,"8,172",A
+Highers (SCQF level 6),Business Management,2020,5542,0.6779999999999999,"8,172",B & above
+Highers (SCQF level 6),Business Management,2020,7341,0.898,"8,172",C & above
+Highers (SCQF level 6),Business Management,2020,7897,0.966,"8,172",D & above
+Highers (SCQF level 6),Business Management,2020,275,0.034,"8,172",U
+Highers (SCQF level 6),Care,2020,150,0.209,719,A
+Highers (SCQF level 6),Care,2020,375,0.522,719,B & above
+Highers (SCQF level 6),Care,2020,588,0.818,719,C & above
+Highers (SCQF level 6),Care,2020,654,0.91,719,D & above
+Highers (SCQF level 6),Care,2020,65,0.09,719,U
+Highers (SCQF level 6),Chemistry,2020,4086,0.40700000000000003,"10,038",A
+Highers (SCQF level 6),Chemistry,2020,6643,0.662,"10,038",B & above
+Highers (SCQF level 6),Chemistry,2020,8863,0.883,"10,038",C & above
+Highers (SCQF level 6),Chemistry,2020,9643,0.961,"10,038",D & above
+Highers (SCQF level 6),Chemistry,2020,395,0.039,"10,038",U
+Highers (SCQF level 6),Childcare and Development,2020,89,0.297,300,A
+Highers (SCQF level 6),Childcare and Development,2020,187,0.623,300,B & above
+Highers (SCQF level 6),Childcare and Development,2020,255,0.85,300,C & above
+Highers (SCQF level 6),Childcare and Development,2020,278,0.927,300,D & above
+Highers (SCQF level 6),Childcare and Development,2020,22,0.073,300,U
+Highers (SCQF level 6),Chinese Languages,2020,129,0.8540000000000001,151,A
+Highers (SCQF level 6),Chinese Languages,2020,142,0.94,151,B & above
+Highers (SCQF level 6),Chinese Languages,2020,151,1,151,C & above
+Highers (SCQF level 6),Chinese Languages,2020,151,1,151,D & above
+Highers (SCQF level 6),Chinese Languages,2020,0,0,151,U
+Highers (SCQF level 6),Classical Studies,2020,222,0.493,450,A
+Highers (SCQF level 6),Classical Studies,2020,341,0.758,450,B & above
+Highers (SCQF level 6),Classical Studies,2020,421,0.9359999999999999,450,C & above
+Highers (SCQF level 6),Classical Studies,2020,440,0.978,450,D & above
+Highers (SCQF level 6),Classical Studies,2020,10,0.022000000000000002,450,U
+Highers (SCQF level 6),Computing Science,2020,1241,0.392,"3,166",A
+Highers (SCQF level 6),Computing Science,2020,2060,0.6509999999999999,"3,166",B & above
+Highers (SCQF level 6),Computing Science,2020,2825,0.892,"3,166",C & above
+Highers (SCQF level 6),Computing Science,2020,3051,0.9640000000000001,"3,166",D & above
+Highers (SCQF level 6),Computing Science,2020,115,0.036000000000000004,"3,166",U
+Highers (SCQF level 6),Dance,2020,286,0.561,510,A
+Highers (SCQF level 6),Dance,2020,419,0.8220000000000001,510,B & above
+Highers (SCQF level 6),Dance,2020,493,0.9670000000000001,510,C & above
+Highers (SCQF level 6),Dance,2020,506,0.992,510,D & above
+Highers (SCQF level 6),Dance,2020,4,0.008,510,U
+Highers (SCQF level 6),Design and Manufacture,2020,537,0.27399999999999997,"1,963",A
+Highers (SCQF level 6),Design and Manufacture,2020,1168,0.595,"1,963",B & above
+Highers (SCQF level 6),Design and Manufacture,2020,1731,0.882,"1,963",C & above
+Highers (SCQF level 6),Design and Manufacture,2020,1908,0.972,"1,963",D & above
+Highers (SCQF level 6),Design and Manufacture,2020,55,0.027999999999999997,"1,963",U
+Highers (SCQF level 6),Drama,2020,1476,0.479,"3,079",A
+Highers (SCQF level 6),Drama,2020,2378,0.772,"3,079",B & above
+Highers (SCQF level 6),Drama,2020,2930,0.9520000000000001,"3,079",C & above
+Highers (SCQF level 6),Drama,2020,3041,0.988,"3,079",D & above
+Highers (SCQF level 6),Drama,2020,38,0.012,"3,079",U
+Highers (SCQF level 6),Economics,2020,289,0.512,565,A
+Highers (SCQF level 6),Economics,2020,432,0.765,565,B & above
+Highers (SCQF level 6),Economics,2020,521,0.922,565,C & above
+Highers (SCQF level 6),Economics,2020,551,0.975,565,D & above
+Highers (SCQF level 6),Economics,2020,14,0.025,565,U
+Highers (SCQF level 6),Engineering Science,2020,433,0.406,"1,066",A
+Highers (SCQF level 6),Engineering Science,2020,719,0.674,"1,066",B & above
+Highers (SCQF level 6),Engineering Science,2020,950,0.8909999999999999,"1,066",C & above
+Highers (SCQF level 6),Engineering Science,2020,1031,0.9670000000000001,"1,066",D & above
+Highers (SCQF level 6),Engineering Science,2020,35,0.033,"1,066",U
+Highers (SCQF level 6),English,2020,11537,0.317,"36,368",A
+Highers (SCQF level 6),English,2020,22014,0.605,"36,368",B & above
+Highers (SCQF level 6),English,2020,31789,0.8740000000000001,"36,368",C & above
+Highers (SCQF level 6),English,2020,35089,0.965,"36,368",D & above
+Highers (SCQF level 6),English,2020,1279,0.035,"36,368",U
+Highers (SCQF level 6),English for Speakers of Other Languages,2020,400,0.541,740,A
+Highers (SCQF level 6),English for Speakers of Other Languages,2020,592,0.8,740,B & above
+Highers (SCQF level 6),English for Speakers of Other Languages,2020,724,0.978,740,C & above
+Highers (SCQF level 6),English for Speakers of Other Languages,2020,738,0.997,740,D & above
+Highers (SCQF level 6),English for Speakers of Other Languages,2020,2,0.003,740,U
+Highers (SCQF level 6),Environmental Science,2020,112,0.311,360,A
+Highers (SCQF level 6),Environmental Science,2020,217,0.603,360,B & above
+Highers (SCQF level 6),Environmental Science,2020,322,0.894,360,C & above
+Highers (SCQF level 6),Environmental Science,2020,351,0.975,360,D & above
+Highers (SCQF level 6),Environmental Science,2020,9,0.025,360,U
+Highers (SCQF level 6),Fashion and Textile Technology,2020,62,0.36700000000000005,169,A
+Highers (SCQF level 6),Fashion and Textile Technology,2020,120,0.71,169,B & above
+Highers (SCQF level 6),Fashion and Textile Technology,2020,160,0.9470000000000001,169,C & above
+Highers (SCQF level 6),Fashion and Textile Technology,2020,165,0.976,169,D & above
+Highers (SCQF level 6),Fashion and Textile Technology,2020,4,0.024,169,U
+Highers (SCQF level 6),French,2020,2114,0.6679999999999999,"3,167",A
+Highers (SCQF level 6),French,2020,2726,0.861,"3,167",B & above
+Highers (SCQF level 6),French,2020,3067,0.968,"3,167",C & above
+Highers (SCQF level 6),French,2020,3137,0.991,"3,167",D & above
+Highers (SCQF level 6),French,2020,30,0.009000000000000001,"3,167",U
+Highers (SCQF level 6),Gaelic (Learners),2020,30,0.484,62,A
+Highers (SCQF level 6),Gaelic (Learners),2020,51,0.823,62,B & above
+Highers (SCQF level 6),Gaelic (Learners),2020,59,0.9520000000000001,62,C & above
+Highers (SCQF level 6),Gaelic (Learners),2020,62,1,62,D & above
+Highers (SCQF level 6),Gaelic (Learners),2020,0,0,62,U
+Highers (SCQF level 6),Gàidhlig,2020,69,0.531,130,A
+Highers (SCQF level 6),Gàidhlig,2020,114,0.877,130,B & above
+Highers (SCQF level 6),Gàidhlig,2020,128,0.985,130,C & above
+Highers (SCQF level 6),Gàidhlig,2020,129,0.992,130,D & above
+Highers (SCQF level 6),Gàidhlig,2020,1,0.008,130,U
+Highers (SCQF level 6),Geography,2020,2633,0.409,"6,437",A
+Highers (SCQF level 6),Geography,2020,4253,0.6609999999999999,"6,437",B & above
+Highers (SCQF level 6),Geography,2020,5725,0.889,"6,437",C & above
+Highers (SCQF level 6),Geography,2020,6213,0.965,"6,437",D & above
+Highers (SCQF level 6),Geography,2020,224,0.035,"6,437",U
+Highers (SCQF level 6),German,2020,548,0.703,780,A
+Highers (SCQF level 6),German,2020,680,0.872,780,B & above
+Highers (SCQF level 6),German,2020,761,0.976,780,C & above
+Highers (SCQF level 6),German,2020,775,0.9940000000000001,780,D & above
+Highers (SCQF level 6),German,2020,5,0.006,780,U
+Highers (SCQF level 6),Graphic Communication,2020,1265,0.38299999999999995,"3,299",A
+Highers (SCQF level 6),Graphic Communication,2020,2367,0.7170000000000001,"3,299",B & above
+Highers (SCQF level 6),Graphic Communication,2020,3112,0.943,"3,299",C & above
+Highers (SCQF level 6),Graphic Communication,2020,3263,0.9890000000000001,"3,299",D & above
+Highers (SCQF level 6),Graphic Communication,2020,36,0.011000000000000001,"3,299",U
+Highers (SCQF level 6),Health and Food Technology,2020,348,0.313,"1,112",A
+Highers (SCQF level 6),Health and Food Technology,2020,728,0.655,"1,112",B & above
+Highers (SCQF level 6),Health and Food Technology,2020,1021,0.9179999999999999,"1,112",C & above
+Highers (SCQF level 6),Health and Food Technology,2020,1088,0.978,"1,112",D & above
+Highers (SCQF level 6),Health and Food Technology,2020,24,0.022000000000000002,"1,112",U
+Highers (SCQF level 6),History,2020,4126,0.41600000000000004,"9,919",A
+Highers (SCQF level 6),History,2020,6876,0.693,"9,919",B & above
+Highers (SCQF level 6),History,2020,9001,0.907,"9,919",C & above
+Highers (SCQF level 6),History,2020,9606,0.968,"9,919",D & above
+Highers (SCQF level 6),History,2020,313,0.032,"9,919",U
+Highers (SCQF level 6),Human Biology,2020,2244,0.322,"6,968",A
+Highers (SCQF level 6),Human Biology,2020,4033,0.579,"6,968",B & above
+Highers (SCQF level 6),Human Biology,2020,5868,0.8420000000000001,"6,968",C & above
+Highers (SCQF level 6),Human Biology,2020,6574,0.943,"6,968",D & above
+Highers (SCQF level 6),Human Biology,2020,394,0.057,"6,968",U
+Highers (SCQF level 6),Italian,2020,195,0.8059999999999999,242,A
+Highers (SCQF level 6),Italian,2020,230,0.95,242,B & above
+Highers (SCQF level 6),Italian,2020,242,1,242,C & above
+Highers (SCQF level 6),Italian,2020,242,1,242,D & above
+Highers (SCQF level 6),Italian,2020,0,0,242,U
+Highers (SCQF level 6),Latin,2020,190,0.7170000000000001,265,A
+Highers (SCQF level 6),Latin,2020,235,0.887,265,B & above
+Highers (SCQF level 6),Latin,2020,255,0.9620000000000001,265,C & above
+Highers (SCQF level 6),Latin,2020,264,0.996,265,D & above
+Highers (SCQF level 6),Latin,2020,1,0.004,265,U
+Highers (SCQF level 6),Mathematics,2020,7785,0.406,"19,182",A
+Highers (SCQF level 6),Mathematics,2020,11966,0.624,"19,182",B & above
+Highers (SCQF level 6),Mathematics,2020,15980,0.833,"19,182",C & above
+Highers (SCQF level 6),Mathematics,2020,17551,0.915,"19,182",D & above
+Highers (SCQF level 6),Mathematics,2020,1631,0.085,"19,182",U
+Highers (SCQF level 6),Media,2020,323,0.35200000000000004,918,A
+Highers (SCQF level 6),Media,2020,601,0.655,918,B & above
+Highers (SCQF level 6),Media,2020,830,0.904,918,C & above
+Highers (SCQF level 6),Media,2020,890,0.9690000000000001,918,D & above
+Highers (SCQF level 6),Media,2020,28,0.031,918,U
+Highers (SCQF level 6),Modern Studies,2020,3754,0.44299999999999995,"8,474",A
+Highers (SCQF level 6),Modern Studies,2020,5918,0.698,"8,474",B & above
+Highers (SCQF level 6),Modern Studies,2020,7694,0.9079999999999999,"8,474",C & above
+Highers (SCQF level 6),Modern Studies,2020,8180,0.965,"8,474",D & above
+Highers (SCQF level 6),Modern Studies,2020,294,0.035,"8,474",U
+Highers (SCQF level 6),Music,2020,3123,0.614,"5,088",A
+Highers (SCQF level 6),Music,2020,4384,0.862,"5,088",B & above
+Highers (SCQF level 6),Music,2020,4988,0.98,"5,088",C & above
+Highers (SCQF level 6),Music,2020,5063,0.995,"5,088",D & above
+Highers (SCQF level 6),Music,2020,25,0.005,"5,088",U
+Highers (SCQF level 6),Music Technology,2020,401,0.48,835,A
+Highers (SCQF level 6),Music Technology,2020,667,0.799,835,B & above
+Highers (SCQF level 6),Music Technology,2020,810,0.97,835,C & above
+Highers (SCQF level 6),Music Technology,2020,826,0.9890000000000001,835,D & above
+Highers (SCQF level 6),Music Technology,2020,9,0.011000000000000001,835,U
+Highers (SCQF level 6),Philosophy,2020,220,0.374,588,A
+Highers (SCQF level 6),Philosophy,2020,391,0.665,588,B & above
+Highers (SCQF level 6),Philosophy,2020,521,0.8859999999999999,588,C & above
+Highers (SCQF level 6),Philosophy,2020,557,0.9470000000000001,588,D & above
+Highers (SCQF level 6),Philosophy,2020,31,0.053,588,U
+Highers (SCQF level 6),Photography,2020,915,0.389,"2,354",A
+Highers (SCQF level 6),Photography,2020,1689,0.718,"2,354",B & above
+Highers (SCQF level 6),Photography,2020,2209,0.938,"2,354",C & above
+Highers (SCQF level 6),Photography,2020,2302,0.978,"2,354",D & above
+Highers (SCQF level 6),Photography,2020,52,0.022000000000000002,"2,354",U
+Highers (SCQF level 6),Physical Education,2020,4124,0.387,"10,644",A
+Highers (SCQF level 6),Physical Education,2020,7534,0.708,"10,644",B & above
+Highers (SCQF level 6),Physical Education,2020,10025,0.9420000000000001,"10,644",C & above
+Highers (SCQF level 6),Physical Education,2020,10552,0.991,"10,644",D & above
+Highers (SCQF level 6),Physical Education,2020,92,0.009000000000000001,"10,644",U
+Highers (SCQF level 6),Physics,2020,3484,0.415,"8,392",A
+Highers (SCQF level 6),Physics,2020,5492,0.654,"8,392",B & above
+Highers (SCQF level 6),Physics,2020,7269,0.866,"8,392",C & above
+Highers (SCQF level 6),Physics,2020,7971,0.95,"8,392",D & above
+Highers (SCQF level 6),Physics,2020,421,0.05,"8,392",U
+Highers (SCQF level 6),Politics,2020,626,0.47700000000000004,"1,312",A
+Highers (SCQF level 6),Politics,2020,958,0.73,"1,312",B & above
+Highers (SCQF level 6),Politics,2020,1210,0.922,"1,312",C & above
+Highers (SCQF level 6),Politics,2020,1265,0.9640000000000001,"1,312",D & above
+Highers (SCQF level 6),Politics,2020,47,0.036000000000000004,"1,312",U
+Highers (SCQF level 6),Psychology,2020,1023,0.33,"3,103",A
+Highers (SCQF level 6),Psychology,2020,1838,0.5920000000000001,"3,103",B & above
+Highers (SCQF level 6),Psychology,2020,2563,0.826,"3,103",C & above
+Highers (SCQF level 6),Psychology,2020,2820,0.909,"3,103",D & above
+Highers (SCQF level 6),Psychology,2020,283,0.091,"3,103",U
+Highers (SCQF level 6),"Religious, Moral and Philosophical Studies",2020,1552,0.44,"3,531",A
+Highers (SCQF level 6),"Religious, Moral and Philosophical Studies",2020,2511,0.711,"3,531",B & above
+Highers (SCQF level 6),"Religious, Moral and Philosophical Studies",2020,3213,0.91,"3,531",C & above
+Highers (SCQF level 6),"Religious, Moral and Philosophical Studies",2020,3432,0.972,"3,531",D & above
+Highers (SCQF level 6),"Religious, Moral and Philosophical Studies",2020,99,0.027999999999999997,"3,531",U
+Highers (SCQF level 6),Sociology,2020,281,0.371,757,A
+Highers (SCQF level 6),Sociology,2020,469,0.62,757,B & above
+Highers (SCQF level 6),Sociology,2020,619,0.818,757,C & above
+Highers (SCQF level 6),Sociology,2020,687,0.9079999999999999,757,D & above
+Highers (SCQF level 6),Sociology,2020,70,0.092,757,U
+Highers (SCQF level 6),Spanish,2020,1763,0.608,"2,901",A
+Highers (SCQF level 6),Spanish,2020,2384,0.8220000000000001,"2,901",B & above
+Highers (SCQF level 6),Spanish,2020,2789,0.961,"2,901",C & above
+Highers (SCQF level 6),Spanish,2020,2874,0.991,"2,901",D & above
+Highers (SCQF level 6),Spanish,2020,27,0.009000000000000001,"2,901",U
+Highers (SCQF level 6),Urdu,2020,96,0.8140000000000001,118,A
+Highers (SCQF level 6),Urdu,2020,117,0.992,118,B & above
+Highers (SCQF level 6),Urdu,2020,117,0.992,118,C & above
+Highers (SCQF level 6),Urdu,2020,118,1,118,D & above
+Highers (SCQF level 6),Urdu,2020,0,0,118,U
+Highers (SCQF level 6),All subjects,2020,74478,0.4,"186,214",A
+Highers (SCQF level 6),All subjects,2020,124620,0.669,"186,214",B & above
+Highers (SCQF level 6),All subjects,2020,166208,0.893,"186,214",C & above
+Highers (SCQF level 6),All subjects,2020,179190,0.9620000000000001,"186,214",D & above
+Highers (SCQF level 6),All subjects,2020,7024,0.038,"186,214",U
+National 5 (SCQF level 5),Accounting,2021,509,0.564,902,A
+National 5 (SCQF level 5),Accounting,2021,656,0.727,902,B & above
+National 5 (SCQF level 5),Accounting,2021,792,0.878,902,C & above
+National 5 (SCQF level 5),Accounting,2021,850,0.9420000000000001,902,D & above
+National 5 (SCQF level 5),Accounting,2021,52,0.057999999999999996,902,U
+National 5 (SCQF level 5),Administration and IT,2021,2665,0.49200000000000005,"5,421",A
+National 5 (SCQF level 5),Administration and IT,2021,4087,0.754,"5,421",B & above
+National 5 (SCQF level 5),Administration and IT,2021,5020,0.9259999999999999,"5,421",C & above
+National 5 (SCQF level 5),Administration and IT,2021,5313,0.98,"5,421",D & above
+National 5 (SCQF level 5),Administration and IT,2021,108,0.02,"5,421",U
+National 5 (SCQF level 5),Applications of Mathematics,2021,2442,0.22699999999999998,"10,749",A
+National 5 (SCQF level 5),Applications of Mathematics,2021,4266,0.397,"10,749",B & above
+National 5 (SCQF level 5),Applications of Mathematics,2021,6874,0.64,"10,749",C & above
+National 5 (SCQF level 5),Applications of Mathematics,2021,8692,0.809,"10,749",D & above
+National 5 (SCQF level 5),Applications of Mathematics,2021,2057,0.191,"10,749",U
+National 5 (SCQF level 5),Art and Design,2021,4749,0.474,"10,019",A
+National 5 (SCQF level 5),Art and Design,2021,7403,0.7390000000000001,"10,019",B & above
+National 5 (SCQF level 5),Art and Design,2021,9410,0.9390000000000001,"10,019",C & above
+National 5 (SCQF level 5),Art and Design,2021,9861,0.9840000000000001,"10,019",D & above
+National 5 (SCQF level 5),Art and Design,2021,158,0.016,"10,019",U
+National 5 (SCQF level 5),Biology,2021,7745,0.365,"21,196",A
+National 5 (SCQF level 5),Biology,2021,11718,0.5529999999999999,"21,196",B & above
+National 5 (SCQF level 5),Biology,2021,16075,0.758,"21,196",C & above
+National 5 (SCQF level 5),Biology,2021,19218,0.907,"21,196",D & above
+National 5 (SCQF level 5),Biology,2021,1978,0.09300000000000001,"21,196",U
+National 5 (SCQF level 5),Business Management,2021,3353,0.413,"8,120",A
+National 5 (SCQF level 5),Business Management,2021,5071,0.625,"8,120",B & above
+National 5 (SCQF level 5),Business Management,2021,6760,0.833,"8,120",C & above
+National 5 (SCQF level 5),Business Management,2021,7543,0.929,"8,120",D & above
+National 5 (SCQF level 5),Business Management,2021,577,0.071,"8,120",U
+National 5 (SCQF level 5),Care,2021,49,0.33299999999999996,147,A
+National 5 (SCQF level 5),Care,2021,82,0.5579999999999999,147,B & above
+National 5 (SCQF level 5),Care,2021,104,0.7070000000000001,147,C & above
+National 5 (SCQF level 5),Care,2021,123,0.8370000000000001,147,D & above
+National 5 (SCQF level 5),Care,2021,24,0.163,147,U
+National 5 (SCQF level 5),Chemistry,2021,6820,0.45,"15,155",A
+National 5 (SCQF level 5),Chemistry,2021,9612,0.634,"15,155",B & above
+National 5 (SCQF level 5),Chemistry,2021,12417,0.8190000000000001,"15,155",C & above
+National 5 (SCQF level 5),Chemistry,2021,14149,0.934,"15,155",D & above
+National 5 (SCQF level 5),Chemistry,2021,1006,0.066,"15,155",U
+National 5 (SCQF level 5),Chinese Languages,2021,183,0.747,245,A
+National 5 (SCQF level 5),Chinese Languages,2021,213,0.8690000000000001,245,B & above
+National 5 (SCQF level 5),Chinese Languages,2021,231,0.943,245,C & above
+National 5 (SCQF level 5),Chinese Languages,2021,242,0.988,245,D & above
+National 5 (SCQF level 5),Chinese Languages,2021,3,0.012,245,U
+National 5 (SCQF level 5),Classical Studies,2021,80,0.5589999999999999,143,A
+National 5 (SCQF level 5),Classical Studies,2021,104,0.727,143,B & above
+National 5 (SCQF level 5),Classical Studies,2021,129,0.902,143,C & above
+National 5 (SCQF level 5),Classical Studies,2021,142,0.993,143,D & above
+National 5 (SCQF level 5),Classical Studies,2021,1,0.006999999999999999,143,U
+National 5 (SCQF level 5),Computing Science,2021,2861,0.455,"6,288",A
+National 5 (SCQF level 5),Computing Science,2021,4201,0.6679999999999999,"6,288",B & above
+National 5 (SCQF level 5),Computing Science,2021,5426,0.863,"6,288",C & above
+National 5 (SCQF level 5),Computing Science,2021,5965,0.9490000000000001,"6,288",D & above
+National 5 (SCQF level 5),Computing Science,2021,323,0.051,"6,288",U
+National 5 (SCQF level 5),Dance,2021,413,0.508,813,A
+National 5 (SCQF level 5),Dance,2021,581,0.715,813,B & above
+National 5 (SCQF level 5),Dance,2021,740,0.91,813,C & above
+National 5 (SCQF level 5),Dance,2021,791,0.973,813,D & above
+National 5 (SCQF level 5),Dance,2021,22,0.027000000000000003,813,U
+National 5 (SCQF level 5),Design and Manufacture,2021,1511,0.335,"4,506",A
+National 5 (SCQF level 5),Design and Manufacture,2021,2681,0.595,"4,506",B & above
+National 5 (SCQF level 5),Design and Manufacture,2021,3892,0.8640000000000001,"4,506",C & above
+National 5 (SCQF level 5),Design and Manufacture,2021,4353,0.966,"4,506",D & above
+National 5 (SCQF level 5),Design and Manufacture,2021,153,0.034,"4,506",U
+National 5 (SCQF level 5),Drama,2021,3005,0.62,"4,849",A
+National 5 (SCQF level 5),Drama,2021,3974,0.82,"4,849",B & above
+National 5 (SCQF level 5),Drama,2021,4632,0.955,"4,849",C & above
+National 5 (SCQF level 5),Drama,2021,4768,0.983,"4,849",D & above
+National 5 (SCQF level 5),Drama,2021,81,0.017,"4,849",U
+National 5 (SCQF level 5),Economics,2021,243,0.818,297,A
+National 5 (SCQF level 5),Economics,2021,271,0.912,297,B & above
+National 5 (SCQF level 5),Economics,2021,290,0.976,297,C & above
+National 5 (SCQF level 5),Economics,2021,292,0.983,297,D & above
+National 5 (SCQF level 5),Economics,2021,5,0.017,297,U
+National 5 (SCQF level 5),Engineering Science,2021,965,0.528,"1,829",A
+National 5 (SCQF level 5),Engineering Science,2021,1282,0.701,"1,829",B & above
+National 5 (SCQF level 5),Engineering Science,2021,1573,0.86,"1,829",C & above
+National 5 (SCQF level 5),Engineering Science,2021,1726,0.9440000000000001,"1,829",D & above
+National 5 (SCQF level 5),Engineering Science,2021,103,0.055999999999999994,"1,829",U
+National 5 (SCQF level 5),English,2021,22300,0.47600000000000003,"46,852",A
+National 5 (SCQF level 5),English,2021,33571,0.7170000000000001,"46,852",B & above
+National 5 (SCQF level 5),English,2021,42632,0.91,"46,852",C & above
+National 5 (SCQF level 5),English,2021,45679,0.975,"46,852",D & above
+National 5 (SCQF level 5),English,2021,1173,0.025,"46,852",U
+National 5 (SCQF level 5),English for Speakers of Other Languages,2021,329,0.358,919,A
+National 5 (SCQF level 5),English for Speakers of Other Languages,2021,622,0.677,919,B & above
+National 5 (SCQF level 5),English for Speakers of Other Languages,2021,826,0.899,919,C & above
+National 5 (SCQF level 5),English for Speakers of Other Languages,2021,887,0.965,919,D & above
+National 5 (SCQF level 5),English for Speakers of Other Languages,2021,32,0.035,919,U
+National 5 (SCQF level 5),Environmental Science,2021,113,0.33899999999999997,333,A
+National 5 (SCQF level 5),Environmental Science,2021,181,0.544,333,B & above
+National 5 (SCQF level 5),Environmental Science,2021,274,0.823,333,C & above
+National 5 (SCQF level 5),Environmental Science,2021,322,0.9670000000000001,333,D & above
+National 5 (SCQF level 5),Environmental Science,2021,11,0.033,333,U
+National 5 (SCQF level 5),Fashion and Textile Technology,2021,241,0.474,508,A
+National 5 (SCQF level 5),Fashion and Textile Technology,2021,374,0.736,508,B & above
+National 5 (SCQF level 5),Fashion and Textile Technology,2021,462,0.909,508,C & above
+National 5 (SCQF level 5),Fashion and Textile Technology,2021,497,0.978,508,D & above
+National 5 (SCQF level 5),Fashion and Textile Technology,2021,11,0.022000000000000002,508,U
+National 5 (SCQF level 5),French,2021,4277,0.601,"7,115",A
+National 5 (SCQF level 5),French,2021,5473,0.769,"7,115",B & above
+National 5 (SCQF level 5),French,2021,6505,0.914,"7,115",C & above
+National 5 (SCQF level 5),French,2021,6928,0.9740000000000001,"7,115",D & above
+National 5 (SCQF level 5),French,2021,187,0.026000000000000002,"7,115",U
+National 5 (SCQF level 5),Gaelic (Learners),2021,88,0.547,161,A
+National 5 (SCQF level 5),Gaelic (Learners),2021,125,0.7759999999999999,161,B & above
+National 5 (SCQF level 5),Gaelic (Learners),2021,142,0.882,161,C & above
+National 5 (SCQF level 5),Gaelic (Learners),2021,156,0.9690000000000001,161,D & above
+National 5 (SCQF level 5),Gaelic (Learners),2021,5,0.031,161,U
+National 5 (SCQF level 5),Gàidhlig,2021,133,0.693,192,A
+National 5 (SCQF level 5),Gàidhlig,2021,173,0.9009999999999999,192,B & above
+National 5 (SCQF level 5),Gàidhlig,2021,191,0.995,192,C & above
+National 5 (SCQF level 5),Gàidhlig,2021,192,1,192,D & above
+National 5 (SCQF level 5),Gàidhlig,2021,0,0,192,U
+National 5 (SCQF level 5),Geography,2021,5301,0.526,"10,069",A
+National 5 (SCQF level 5),Geography,2021,7252,0.72,"10,069",B & above
+National 5 (SCQF level 5),Geography,2021,8925,0.8859999999999999,"10,069",C & above
+National 5 (SCQF level 5),Geography,2021,9762,0.97,"10,069",D & above
+National 5 (SCQF level 5),Geography,2021,307,0.03,"10,069",U
+National 5 (SCQF level 5),German,2021,831,0.584,"1,422",A
+National 5 (SCQF level 5),German,2021,1101,0.774,"1,422",B & above
+National 5 (SCQF level 5),German,2021,1296,0.9109999999999999,"1,422",C & above
+National 5 (SCQF level 5),German,2021,1392,0.9790000000000001,"1,422",D & above
+National 5 (SCQF level 5),German,2021,30,0.021,"1,422",U
+National 5 (SCQF level 5),Graphic Communication,2021,1972,0.39299999999999996,"5,019",A
+National 5 (SCQF level 5),Graphic Communication,2021,3143,0.626,"5,019",B & above
+National 5 (SCQF level 5),Graphic Communication,2021,4364,0.8690000000000001,"5,019",C & above
+National 5 (SCQF level 5),Graphic Communication,2021,4794,0.955,"5,019",D & above
+National 5 (SCQF level 5),Graphic Communication,2021,225,0.045,"5,019",U
+National 5 (SCQF level 5),Health and Food Technology,2021,584,0.344,"1,699",A
+National 5 (SCQF level 5),Health and Food Technology,2021,1031,0.607,"1,699",B & above
+National 5 (SCQF level 5),Health and Food Technology,2021,1445,0.851,"1,699",C & above
+National 5 (SCQF level 5),Health and Food Technology,2021,1611,0.948,"1,699",D & above
+National 5 (SCQF level 5),Health and Food Technology,2021,88,0.052000000000000005,"1,699",U
+National 5 (SCQF level 5),History,2021,8284,0.542,"15,281",A
+National 5 (SCQF level 5),History,2021,10913,0.7140000000000001,"15,281",B & above
+National 5 (SCQF level 5),History,2021,13374,0.875,"15,281",C & above
+National 5 (SCQF level 5),History,2021,14584,0.9540000000000001,"15,281",D & above
+National 5 (SCQF level 5),History,2021,697,0.046,"15,281",U
+National 5 (SCQF level 5),Italian,2021,69,0.605,114,A
+National 5 (SCQF level 5),Italian,2021,88,0.772,114,B & above
+National 5 (SCQF level 5),Italian,2021,104,0.912,114,C & above
+National 5 (SCQF level 5),Italian,2021,110,0.965,114,D & above
+National 5 (SCQF level 5),Italian,2021,4,0.035,114,U
+National 5 (SCQF level 5),Latin,2021,341,0.955,357,A
+National 5 (SCQF level 5),Latin,2021,349,0.978,357,B & above
+National 5 (SCQF level 5),Latin,2021,355,0.9940000000000001,357,C & above
+National 5 (SCQF level 5),Latin,2021,357,1,357,D & above
+National 5 (SCQF level 5),Latin,2021,0,0,357,U
+National 5 (SCQF level 5),Mathematics,2021,13810,0.379,"36,481",A
+National 5 (SCQF level 5),Mathematics,2021,19775,0.542,"36,481",B & above
+National 5 (SCQF level 5),Mathematics,2021,26633,0.73,"36,481",C & above
+National 5 (SCQF level 5),Mathematics,2021,30679,0.841,"36,481",D & above
+National 5 (SCQF level 5),Mathematics,2021,5802,0.159,"36,481",U
+National 5 (SCQF level 5),Media,2021,451,0.449,"1,005",A
+National 5 (SCQF level 5),Media,2021,636,0.633,"1,005",B & above
+National 5 (SCQF level 5),Media,2021,841,0.8370000000000001,"1,005",C & above
+National 5 (SCQF level 5),Media,2021,921,0.9159999999999999,"1,005",D & above
+National 5 (SCQF level 5),Media,2021,84,0.084,"1,005",U
+National 5 (SCQF level 5),Modern Studies,2021,7117,0.55,"12,948",A
+National 5 (SCQF level 5),Modern Studies,2021,9505,0.7340000000000001,"12,948",B & above
+National 5 (SCQF level 5),Modern Studies,2021,11625,0.898,"12,948",C & above
+National 5 (SCQF level 5),Modern Studies,2021,12509,0.966,"12,948",D & above
+National 5 (SCQF level 5),Modern Studies,2021,439,0.034,"12,948",U
+National 5 (SCQF level 5),Music,2021,5552,0.669,"8,296",A
+National 5 (SCQF level 5),Music,2021,7143,0.861,"8,296",B & above
+National 5 (SCQF level 5),Music,2021,8058,0.971,"8,296",C & above
+National 5 (SCQF level 5),Music,2021,8218,0.991,"8,296",D & above
+National 5 (SCQF level 5),Music,2021,78,0.009000000000000001,"8,296",U
+National 5 (SCQF level 5),Music Technology,2021,706,0.494,"1,428",A
+National 5 (SCQF level 5),Music Technology,2021,1046,0.732,"1,428",B & above
+National 5 (SCQF level 5),Music Technology,2021,1340,0.938,"1,428",C & above
+National 5 (SCQF level 5),Music Technology,2021,1399,0.98,"1,428",D & above
+National 5 (SCQF level 5),Music Technology,2021,29,0.02,"1,428",U
+National 5 (SCQF level 5),Philosophy,2021,140,0.45899999999999996,305,A
+National 5 (SCQF level 5),Philosophy,2021,190,0.623,305,B & above
+National 5 (SCQF level 5),Philosophy,2021,247,0.81,305,C & above
+National 5 (SCQF level 5),Philosophy,2021,275,0.902,305,D & above
+National 5 (SCQF level 5),Philosophy,2021,30,0.098,305,U
+National 5 (SCQF level 5),Physical Education,2021,11463,0.624,"18,366",A
+National 5 (SCQF level 5),Physical Education,2021,15558,0.847,"18,366",B & above
+National 5 (SCQF level 5),Physical Education,2021,17842,0.971,"18,366",C & above
+National 5 (SCQF level 5),Physical Education,2021,18268,0.995,"18,366",D & above
+National 5 (SCQF level 5),Physical Education,2021,98,0.005,"18,366",U
+National 5 (SCQF level 5),Physics,2021,5634,0.434,"12,977",A
+National 5 (SCQF level 5),Physics,2021,8209,0.633,"12,977",B & above
+National 5 (SCQF level 5),Physics,2021,10556,0.813,"12,977",C & above
+National 5 (SCQF level 5),Physics,2021,11961,0.922,"12,977",D & above
+National 5 (SCQF level 5),Physics,2021,1016,0.078,"12,977",U
+National 5 (SCQF level 5),Practical Cake Craft,2021,501,0.41700000000000004,"1,202",A
+National 5 (SCQF level 5),Practical Cake Craft,2021,852,0.7090000000000001,"1,202",B & above
+National 5 (SCQF level 5),Practical Cake Craft,2021,1112,0.925,"1,202",C & above
+National 5 (SCQF level 5),Practical Cake Craft,2021,1179,0.981,"1,202",D & above
+National 5 (SCQF level 5),Practical Cake Craft,2021,23,0.019,"1,202",U
+National 5 (SCQF level 5),Practical Cookery,2021,2553,0.405,"6,304",A
+National 5 (SCQF level 5),Practical Cookery,2021,4529,0.718,"6,304",B & above
+National 5 (SCQF level 5),Practical Cookery,2021,5838,0.9259999999999999,"6,304",C & above
+National 5 (SCQF level 5),Practical Cookery,2021,6192,0.982,"6,304",D & above
+National 5 (SCQF level 5),Practical Cookery,2021,112,0.018000000000000002,"6,304",U
+National 5 (SCQF level 5),Practical Electronics,2021,188,0.35700000000000004,527,A
+National 5 (SCQF level 5),Practical Electronics,2021,301,0.5710000000000001,527,B & above
+National 5 (SCQF level 5),Practical Electronics,2021,454,0.861,527,C & above
+National 5 (SCQF level 5),Practical Electronics,2021,491,0.932,527,D & above
+National 5 (SCQF level 5),Practical Electronics,2021,36,0.068,527,U
+National 5 (SCQF level 5),Practical Metalworking,2021,582,0.374,"1,557",A
+National 5 (SCQF level 5),Practical Metalworking,2021,1009,0.648,"1,557",B & above
+National 5 (SCQF level 5),Practical Metalworking,2021,1354,0.87,"1,557",C & above
+National 5 (SCQF level 5),Practical Metalworking,2021,1466,0.9420000000000001,"1,557",D & above
+National 5 (SCQF level 5),Practical Metalworking,2021,91,0.057999999999999996,"1,557",U
+National 5 (SCQF level 5),Practical Woodworking,2021,2868,0.42700000000000005,"6,710",A
+National 5 (SCQF level 5),Practical Woodworking,2021,4696,0.7,"6,710",B & above
+National 5 (SCQF level 5),Practical Woodworking,2021,6170,0.92,"6,710",C & above
+National 5 (SCQF level 5),Practical Woodworking,2021,6546,0.976,"6,710",D & above
+National 5 (SCQF level 5),Practical Woodworking,2021,164,0.024,"6,710",U
+National 5 (SCQF level 5),Psychology,2021,489,0.504,970,A
+National 5 (SCQF level 5),Psychology,2021,693,0.7140000000000001,970,B & above
+National 5 (SCQF level 5),Psychology,2021,824,0.8490000000000001,970,C & above
+National 5 (SCQF level 5),Psychology,2021,887,0.914,970,D & above
+National 5 (SCQF level 5),Psychology,2021,83,0.086,970,U
+National 5 (SCQF level 5),"Religious, Moral and Philosophical Studies",2021,1249,0.517,"2,416",A
+National 5 (SCQF level 5),"Religious, Moral and Philosophical Studies",2021,1671,0.6920000000000001,"2,416",B & above
+National 5 (SCQF level 5),"Religious, Moral and Philosophical Studies",2021,2097,0.868,"2,416",C & above
+National 5 (SCQF level 5),"Religious, Moral and Philosophical Studies",2021,2295,0.95,"2,416",D & above
+National 5 (SCQF level 5),"Religious, Moral and Philosophical Studies",2021,121,0.05,"2,416",U
+National 5 (SCQF level 5),Sociology,2021,122,0.45,271,A
+National 5 (SCQF level 5),Sociology,2021,181,0.6679999999999999,271,B & above
+National 5 (SCQF level 5),Sociology,2021,229,0.845,271,C & above
+National 5 (SCQF level 5),Sociology,2021,257,0.948,271,D & above
+National 5 (SCQF level 5),Sociology,2021,14,0.052000000000000005,271,U
+National 5 (SCQF level 5),Spanish,2021,3200,0.59,"5,424",A
+National 5 (SCQF level 5),Spanish,2021,4181,0.7709999999999999,"5,424",B & above
+National 5 (SCQF level 5),Spanish,2021,4971,0.9159999999999999,"5,424",C & above
+National 5 (SCQF level 5),Spanish,2021,5295,0.976,"5,424",D & above
+National 5 (SCQF level 5),Spanish,2021,129,0.024,"5,424",U
+National 5 (SCQF level 5),Urdu,2021,52,0.7879999999999999,66,A
+National 5 (SCQF level 5),Urdu,2021,64,0.97,66,B & above
+National 5 (SCQF level 5),Urdu,2021,66,1,66,C & above
+National 5 (SCQF level 5),Urdu,2021,66,1,66,D & above
+National 5 (SCQF level 5),Urdu,2021,0,0,66,U
+National 5 (SCQF level 5),All subjects,2021,139133,0.467,"297,973",A
+National 5 (SCQF level 5),All subjects,2021,200837,0.674,"297,973",B & above
+National 5 (SCQF level 5),All subjects,2021,255517,0.858,"297,973",C & above
+National 5 (SCQF level 5),All subjects,2021,280203,0.94,"297,973",D & above
+National 5 (SCQF level 5),All subjects,2021,17770,0.06,"297,973",U
+National 5 (SCQF level 5),Accounting,2020,516,0.568,908,A
+National 5 (SCQF level 5),Accounting,2020,707,0.779,908,B & above
+National 5 (SCQF level 5),Accounting,2020,830,0.914,908,C & above
+National 5 (SCQF level 5),Accounting,2020,880,0.9690000000000001,908,D & above
+National 5 (SCQF level 5),Accounting,2020,28,0.031,908,U
+National 5 (SCQF level 5),Administration and IT,2020,2001,0.386,"5,188",A
+National 5 (SCQF level 5),Administration and IT,2020,3530,0.68,"5,188",B & above
+National 5 (SCQF level 5),Administration and IT,2020,4784,0.922,"5,188",C & above
+National 5 (SCQF level 5),Administration and IT,2020,5090,0.981,"5,188",D & above
+National 5 (SCQF level 5),Administration and IT,2020,98,0.019,"5,188",U
+National 5 (SCQF level 5),Applications of Mathematics,2020,3018,0.289,"10,430",A
+National 5 (SCQF level 5),Applications of Mathematics,2020,5082,0.48700000000000004,"10,430",B & above
+National 5 (SCQF level 5),Applications of Mathematics,2020,7851,0.753,"10,430",C & above
+National 5 (SCQF level 5),Applications of Mathematics,2020,9144,0.877,"10,430",D & above
+National 5 (SCQF level 5),Applications of Mathematics,2020,1286,0.12300000000000001,"10,430",U
+National 5 (SCQF level 5),Art and Design,2020,4568,0.461,"9,917",A
+National 5 (SCQF level 5),Art and Design,2020,7615,0.768,"9,917",B & above
+National 5 (SCQF level 5),Art and Design,2020,9556,0.9640000000000001,"9,917",C & above
+National 5 (SCQF level 5),Art and Design,2020,9816,0.99,"9,917",D & above
+National 5 (SCQF level 5),Art and Design,2020,101,0.01,"9,917",U
+National 5 (SCQF level 5),Biology,2020,7688,0.353,"21,786",A
+National 5 (SCQF level 5),Biology,2020,12721,0.584,"21,786",B & above
+National 5 (SCQF level 5),Biology,2020,18162,0.8340000000000001,"21,786",C & above
+National 5 (SCQF level 5),Biology,2020,20653,0.948,"21,786",D & above
+National 5 (SCQF level 5),Biology,2020,1133,0.052000000000000005,"21,786",U
+National 5 (SCQF level 5),Business Management,2020,3042,0.387,"7,856",A
+National 5 (SCQF level 5),Business Management,2020,5081,0.647,"7,856",B & above
+National 5 (SCQF level 5),Business Management,2020,7037,0.8959999999999999,"7,856",C & above
+National 5 (SCQF level 5),Business Management,2020,7629,0.971,"7,856",D & above
+National 5 (SCQF level 5),Business Management,2020,227,0.028999999999999998,"7,856",U
+National 5 (SCQF level 5),Care,2020,170,0.348,488,A
+National 5 (SCQF level 5),Care,2020,298,0.611,488,B & above
+National 5 (SCQF level 5),Care,2020,399,0.818,488,C & above
+National 5 (SCQF level 5),Care,2020,437,0.895,488,D & above
+National 5 (SCQF level 5),Care,2020,51,0.105,488,U
+National 5 (SCQF level 5),Chemistry,2020,6939,0.43200000000000005,"16,081",A
+National 5 (SCQF level 5),Chemistry,2020,10657,0.6629999999999999,"16,081",B & above
+National 5 (SCQF level 5),Chemistry,2020,14179,0.882,"16,081",C & above
+National 5 (SCQF level 5),Chemistry,2020,15593,0.97,"16,081",D & above
+National 5 (SCQF level 5),Chemistry,2020,488,0.03,"16,081",U
+National 5 (SCQF level 5),Chinese Languages,2020,196,0.76,258,A
+National 5 (SCQF level 5),Chinese Languages,2020,231,0.895,258,B & above
+National 5 (SCQF level 5),Chinese Languages,2020,252,0.977,258,C & above
+National 5 (SCQF level 5),Chinese Languages,2020,257,0.996,258,D & above
+National 5 (SCQF level 5),Chinese Languages,2020,1,0.004,258,U
+National 5 (SCQF level 5),Classical Studies,2020,69,0.535,129,A
+National 5 (SCQF level 5),Classical Studies,2020,105,0.8140000000000001,129,B & above
+National 5 (SCQF level 5),Classical Studies,2020,122,0.946,129,C & above
+National 5 (SCQF level 5),Classical Studies,2020,127,0.9840000000000001,129,D & above
+National 5 (SCQF level 5),Classical Studies,2020,2,0.016,129,U
+National 5 (SCQF level 5),Computing Science,2020,2543,0.409,"6,216",A
+National 5 (SCQF level 5),Computing Science,2020,4133,0.665,"6,216",B & above
+National 5 (SCQF level 5),Computing Science,2020,5597,0.9,"6,216",C & above
+National 5 (SCQF level 5),Computing Science,2020,6012,0.9670000000000001,"6,216",D & above
+National 5 (SCQF level 5),Computing Science,2020,204,0.033,"6,216",U
+National 5 (SCQF level 5),Dance,2020,483,0.5579999999999999,865,A
+National 5 (SCQF level 5),Dance,2020,693,0.8009999999999999,865,B & above
+National 5 (SCQF level 5),Dance,2020,828,0.9570000000000001,865,C & above
+National 5 (SCQF level 5),Dance,2020,856,0.99,865,D & above
+National 5 (SCQF level 5),Dance,2020,9,0.01,865,U
+National 5 (SCQF level 5),Design and Manufacture,2020,1317,0.28600000000000003,"4,599",A
+National 5 (SCQF level 5),Design and Manufacture,2020,2724,0.5920000000000001,"4,599",B & above
+National 5 (SCQF level 5),Design and Manufacture,2020,4167,0.9059999999999999,"4,599",C & above
+National 5 (SCQF level 5),Design and Manufacture,2020,4519,0.983,"4,599",D & above
+National 5 (SCQF level 5),Design and Manufacture,2020,80,0.017,"4,599",U
+National 5 (SCQF level 5),Drama,2020,3076,0.602,"5,106",A
+National 5 (SCQF level 5),Drama,2020,4276,0.8370000000000001,"5,106",B & above
+National 5 (SCQF level 5),Drama,2020,4967,0.973,"5,106",C & above
+National 5 (SCQF level 5),Drama,2020,5063,0.992,"5,106",D & above
+National 5 (SCQF level 5),Drama,2020,43,0.008,"5,106",U
+National 5 (SCQF level 5),Economics,2020,223,0.722,309,A
+National 5 (SCQF level 5),Economics,2020,282,0.9129999999999999,309,B & above
+National 5 (SCQF level 5),Economics,2020,304,0.9840000000000001,309,C & above
+National 5 (SCQF level 5),Economics,2020,308,0.997,309,D & above
+National 5 (SCQF level 5),Economics,2020,1,0.003,309,U
+National 5 (SCQF level 5),Engineering Science,2020,845,0.515,"1,641",A
+National 5 (SCQF level 5),Engineering Science,2020,1204,0.7340000000000001,"1,641",B & above
+National 5 (SCQF level 5),Engineering Science,2020,1518,0.925,"1,641",C & above
+National 5 (SCQF level 5),Engineering Science,2020,1597,0.973,"1,641",D & above
+National 5 (SCQF level 5),Engineering Science,2020,44,0.027000000000000003,"1,641",U
+National 5 (SCQF level 5),English,2020,18415,0.395,"46,656",A
+National 5 (SCQF level 5),English,2020,31348,0.672,"46,656",B & above
+National 5 (SCQF level 5),English,2020,42624,0.914,"46,656",C & above
+National 5 (SCQF level 5),English,2020,45761,0.981,"46,656",D & above
+National 5 (SCQF level 5),English,2020,895,0.019,"46,656",U
+National 5 (SCQF level 5),English for Speakers of Other Languages,2020,399,0.36700000000000005,"1,088",A
+National 5 (SCQF level 5),English for Speakers of Other Languages,2020,746,0.6859999999999999,"1,088",B & above
+National 5 (SCQF level 5),English for Speakers of Other Languages,2020,1017,0.935,"1,088",C & above
+National 5 (SCQF level 5),English for Speakers of Other Languages,2020,1070,0.983,"1,088",D & above
+National 5 (SCQF level 5),English for Speakers of Other Languages,2020,18,0.017,"1,088",U
+National 5 (SCQF level 5),Environmental Science,2020,64,0.248,258,A
+National 5 (SCQF level 5),Environmental Science,2020,128,0.496,258,B & above
+National 5 (SCQF level 5),Environmental Science,2020,222,0.86,258,C & above
+National 5 (SCQF level 5),Environmental Science,2020,253,0.981,258,D & above
+National 5 (SCQF level 5),Environmental Science,2020,5,0.019,258,U
+National 5 (SCQF level 5),Fashion and Textile Technology,2020,117,0.28300000000000003,413,A
+National 5 (SCQF level 5),Fashion and Textile Technology,2020,259,0.627,413,B & above
+National 5 (SCQF level 5),Fashion and Textile Technology,2020,378,0.915,413,C & above
+National 5 (SCQF level 5),Fashion and Textile Technology,2020,404,0.978,413,D & above
+National 5 (SCQF level 5),Fashion and Textile Technology,2020,9,0.022000000000000002,413,U
+National 5 (SCQF level 5),French,2020,4643,0.599,"7,752",A
+National 5 (SCQF level 5),French,2020,6141,0.792,"7,752",B & above
+National 5 (SCQF level 5),French,2020,7313,0.943,"7,752",C & above
+National 5 (SCQF level 5),French,2020,7655,0.987,"7,752",D & above
+National 5 (SCQF level 5),French,2020,97,0.013000000000000001,"7,752",U
+National 5 (SCQF level 5),Gaelic (Learners),2020,63,0.504,125,A
+National 5 (SCQF level 5),Gaelic (Learners),2020,98,0.784,125,B & above
+National 5 (SCQF level 5),Gaelic (Learners),2020,117,0.9359999999999999,125,C & above
+National 5 (SCQF level 5),Gaelic (Learners),2020,122,0.976,125,D & above
+National 5 (SCQF level 5),Gaelic (Learners),2020,3,0.024,125,U
+National 5 (SCQF level 5),Gàidhlig,2020,114,0.623,183,A
+National 5 (SCQF level 5),Gàidhlig,2020,150,0.82,183,B & above
+National 5 (SCQF level 5),Gàidhlig,2020,180,0.9840000000000001,183,C & above
+National 5 (SCQF level 5),Gàidhlig,2020,183,1,183,D & above
+National 5 (SCQF level 5),Gàidhlig,2020,0,0,183,U
+National 5 (SCQF level 5),Geography,2020,4154,0.428,"9,698",A
+National 5 (SCQF level 5),Geography,2020,6385,0.6579999999999999,"9,698",B & above
+National 5 (SCQF level 5),Geography,2020,8695,0.897,"9,698",C & above
+National 5 (SCQF level 5),Geography,2020,9447,0.9740000000000001,"9,698",D & above
+National 5 (SCQF level 5),Geography,2020,251,0.026000000000000002,"9,698",U
+National 5 (SCQF level 5),German,2020,992,0.579,"1,712",A
+National 5 (SCQF level 5),German,2020,1373,0.802,"1,712",B & above
+National 5 (SCQF level 5),German,2020,1624,0.9490000000000001,"1,712",C & above
+National 5 (SCQF level 5),German,2020,1692,0.988,"1,712",D & above
+National 5 (SCQF level 5),German,2020,20,0.012,"1,712",U
+National 5 (SCQF level 5),Graphic Communication,2020,1860,0.355,"5,246",A
+National 5 (SCQF level 5),Graphic Communication,2020,3438,0.655,"5,246",B & above
+National 5 (SCQF level 5),Graphic Communication,2020,4836,0.922,"5,246",C & above
+National 5 (SCQF level 5),Graphic Communication,2020,5142,0.98,"5,246",D & above
+National 5 (SCQF level 5),Graphic Communication,2020,104,0.02,"5,246",U
+National 5 (SCQF level 5),Health and Food Technology,2020,478,0.32,"1,495",A
+National 5 (SCQF level 5),Health and Food Technology,2020,950,0.635,"1,495",B & above
+National 5 (SCQF level 5),Health and Food Technology,2020,1379,0.922,"1,495",C & above
+National 5 (SCQF level 5),Health and Food Technology,2020,1469,0.983,"1,495",D & above
+National 5 (SCQF level 5),Health and Food Technology,2020,26,0.017,"1,495",U
+National 5 (SCQF level 5),History,2020,6704,0.445,"15,062",A
+National 5 (SCQF level 5),History,2020,10130,0.6729999999999999,"15,062",B & above
+National 5 (SCQF level 5),History,2020,13605,0.903,"15,062",C & above
+National 5 (SCQF level 5),History,2020,14679,0.975,"15,062",D & above
+National 5 (SCQF level 5),History,2020,383,0.025,"15,062",U
+National 5 (SCQF level 5),Italian,2020,162,0.579,280,A
+National 5 (SCQF level 5),Italian,2020,215,0.768,280,B & above
+National 5 (SCQF level 5),Italian,2020,264,0.943,280,C & above
+National 5 (SCQF level 5),Italian,2020,277,0.9890000000000001,280,D & above
+National 5 (SCQF level 5),Italian,2020,3,0.011000000000000001,280,U
+National 5 (SCQF level 5),Latin,2020,346,0.892,388,A
+National 5 (SCQF level 5),Latin,2020,376,0.9690000000000001,388,B & above
+National 5 (SCQF level 5),Latin,2020,383,0.987,388,C & above
+National 5 (SCQF level 5),Latin,2020,388,1,388,D & above
+National 5 (SCQF level 5),Latin,2020,0,0,388,U
+National 5 (SCQF level 5),Mathematics,2020,15179,0.368,"41,284",A
+National 5 (SCQF level 5),Mathematics,2020,23501,0.569,"41,284",B & above
+National 5 (SCQF level 5),Mathematics,2020,32669,0.7909999999999999,"41,284",C & above
+National 5 (SCQF level 5),Mathematics,2020,36797,0.8909999999999999,"41,284",D & above
+National 5 (SCQF level 5),Mathematics,2020,4487,0.109,"41,284",U
+National 5 (SCQF level 5),Media,2020,387,0.39899999999999997,971,A
+National 5 (SCQF level 5),Media,2020,633,0.652,971,B & above
+National 5 (SCQF level 5),Media,2020,891,0.9179999999999999,971,C & above
+National 5 (SCQF level 5),Media,2020,951,0.9790000000000001,971,D & above
+National 5 (SCQF level 5),Media,2020,20,0.021,971,U
+National 5 (SCQF level 5),Modern Studies,2020,4995,0.41,"12,192",A
+National 5 (SCQF level 5),Modern Studies,2020,7922,0.65,"12,192",B & above
+National 5 (SCQF level 5),Modern Studies,2020,10860,0.8909999999999999,"12,192",C & above
+National 5 (SCQF level 5),Modern Studies,2020,11812,0.9690000000000001,"12,192",D & above
+National 5 (SCQF level 5),Modern Studies,2020,380,0.031,"12,192",U
+National 5 (SCQF level 5),Music,2020,4619,0.605,"7,633",A
+National 5 (SCQF level 5),Music,2020,6478,0.8490000000000001,"7,633",B & above
+National 5 (SCQF level 5),Music,2020,7428,0.973,"7,633",C & above
+National 5 (SCQF level 5),Music,2020,7586,0.9940000000000001,"7,633",D & above
+National 5 (SCQF level 5),Music,2020,47,0.006,"7,633",U
+National 5 (SCQF level 5),Music Technology,2020,542,0.46299999999999997,"1,170",A
+National 5 (SCQF level 5),Music Technology,2020,895,0.765,"1,170",B & above
+National 5 (SCQF level 5),Music Technology,2020,1112,0.95,"1,170",C & above
+National 5 (SCQF level 5),Music Technology,2020,1154,0.986,"1,170",D & above
+National 5 (SCQF level 5),Music Technology,2020,16,0.013999999999999999,"1,170",U
+National 5 (SCQF level 5),Philosophy,2020,122,0.41200000000000003,296,A
+National 5 (SCQF level 5),Philosophy,2020,187,0.632,296,B & above
+National 5 (SCQF level 5),Philosophy,2020,253,0.855,296,C & above
+National 5 (SCQF level 5),Philosophy,2020,285,0.963,296,D & above
+National 5 (SCQF level 5),Philosophy,2020,11,0.037000000000000005,296,U
+National 5 (SCQF level 5),Physical Education,2020,10296,0.599,"17,194",A
+National 5 (SCQF level 5),Physical Education,2020,14704,0.855,"17,194",B & above
+National 5 (SCQF level 5),Physical Education,2020,16823,0.978,"17,194",C & above
+National 5 (SCQF level 5),Physical Education,2020,17143,0.997,"17,194",D & above
+National 5 (SCQF level 5),Physical Education,2020,51,0.003,"17,194",U
+National 5 (SCQF level 5),Physics,2020,5507,0.40299999999999997,"13,655",A
+National 5 (SCQF level 5),Physics,2020,8702,0.637,"13,655",B & above
+National 5 (SCQF level 5),Physics,2020,11739,0.86,"13,655",C & above
+National 5 (SCQF level 5),Physics,2020,12998,0.9520000000000001,"13,655",D & above
+National 5 (SCQF level 5),Physics,2020,657,0.048,"13,655",U
+National 5 (SCQF level 5),Practical Cake Craft,2020,435,0.33799999999999997,"1,287",A
+National 5 (SCQF level 5),Practical Cake Craft,2020,853,0.6629999999999999,"1,287",B & above
+National 5 (SCQF level 5),Practical Cake Craft,2020,1196,0.929,"1,287",C & above
+National 5 (SCQF level 5),Practical Cake Craft,2020,1258,0.977,"1,287",D & above
+National 5 (SCQF level 5),Practical Cake Craft,2020,29,0.023,"1,287",U
+National 5 (SCQF level 5),Practical Cookery,2020,2055,0.365,"5,628",A
+National 5 (SCQF level 5),Practical Cookery,2020,3954,0.703,"5,628",B & above
+National 5 (SCQF level 5),Practical Cookery,2020,5345,0.95,"5,628",C & above
+National 5 (SCQF level 5),Practical Cookery,2020,5575,0.991,"5,628",D & above
+National 5 (SCQF level 5),Practical Cookery,2020,53,0.009000000000000001,"5,628",U
+National 5 (SCQF level 5),Practical Electronics,2020,120,0.287,418,A
+National 5 (SCQF level 5),Practical Electronics,2020,250,0.598,418,B & above
+National 5 (SCQF level 5),Practical Electronics,2020,360,0.861,418,C & above
+National 5 (SCQF level 5),Practical Electronics,2020,399,0.955,418,D & above
+National 5 (SCQF level 5),Practical Electronics,2020,19,0.045,418,U
+National 5 (SCQF level 5),Practical Metalworking,2020,581,0.424,"1,371",A
+National 5 (SCQF level 5),Practical Metalworking,2020,973,0.71,"1,371",B & above
+National 5 (SCQF level 5),Practical Metalworking,2020,1291,0.9420000000000001,"1,371",C & above
+National 5 (SCQF level 5),Practical Metalworking,2020,1349,0.9840000000000001,"1,371",D & above
+National 5 (SCQF level 5),Practical Metalworking,2020,22,0.016,"1,371",U
+National 5 (SCQF level 5),Practical Woodworking,2020,2459,0.409,"6,005",A
+National 5 (SCQF level 5),Practical Woodworking,2020,4309,0.718,"6,005",B & above
+National 5 (SCQF level 5),Practical Woodworking,2020,5658,0.9420000000000001,"6,005",C & above
+National 5 (SCQF level 5),Practical Woodworking,2020,5892,0.981,"6,005",D & above
+National 5 (SCQF level 5),Practical Woodworking,2020,113,0.019,"6,005",U
+National 5 (SCQF level 5),Psychology,2020,370,0.41600000000000004,890,A
+National 5 (SCQF level 5),Psychology,2020,603,0.6779999999999999,890,B & above
+National 5 (SCQF level 5),Psychology,2020,790,0.888,890,C & above
+National 5 (SCQF level 5),Psychology,2020,847,0.9520000000000001,890,D & above
+National 5 (SCQF level 5),Psychology,2020,43,0.048,890,U
+National 5 (SCQF level 5),"Religious, Moral and Philosophical Studies",2020,977,0.42,"2,326",A
+National 5 (SCQF level 5),"Religious, Moral and Philosophical Studies",2020,1529,0.657,"2,326",B & above
+National 5 (SCQF level 5),"Religious, Moral and Philosophical Studies",2020,2098,0.902,"2,326",C & above
+National 5 (SCQF level 5),"Religious, Moral and Philosophical Studies",2020,2264,0.973,"2,326",D & above
+National 5 (SCQF level 5),"Religious, Moral and Philosophical Studies",2020,62,0.027000000000000003,"2,326",U
+National 5 (SCQF level 5),Sociology,2020,96,0.336,286,A
+National 5 (SCQF level 5),Sociology,2020,170,0.594,286,B & above
+National 5 (SCQF level 5),Sociology,2020,251,0.878,286,C & above
+National 5 (SCQF level 5),Sociology,2020,269,0.941,286,D & above
+National 5 (SCQF level 5),Sociology,2020,17,0.059000000000000004,286,U
+National 5 (SCQF level 5),Spanish,2020,3276,0.564,"5,813",A
+National 5 (SCQF level 5),Spanish,2020,4538,0.7809999999999999,"5,813",B & above
+National 5 (SCQF level 5),Spanish,2020,5517,0.9490000000000001,"5,813",C & above
+National 5 (SCQF level 5),Spanish,2020,5752,0.99,"5,813",D & above
+National 5 (SCQF level 5),Spanish,2020,61,0.01,"5,813",U
+National 5 (SCQF level 5),Urdu,2020,78,0.897,87,A
+National 5 (SCQF level 5),Urdu,2020,85,0.977,87,B & above
+National 5 (SCQF level 5),Urdu,2020,87,1,87,C & above
+National 5 (SCQF level 5),Urdu,2020,87,1,87,D & above
+National 5 (SCQF level 5),Urdu,2020,0,0,87,U
+National 5 (SCQF level 5),All subjects,2020,127299,0.423,"300,639",A
+National 5 (SCQF level 5),All subjects,2020,201362,0.67,"300,639",B & above
+National 5 (SCQF level 5),All subjects,2020,267558,0.89,"300,639",C & above
+National 5 (SCQF level 5),All subjects,2020,288941,0.961,"300,639",D & above
+National 5 (SCQF level 5),All subjects,2020,11698,0.039,"300,639",U
+National 5 (SCQF level 5),Accounting,2019,434,0.483,898,A
+National 5 (SCQF level 5),Accounting,2019,615,0.685,898,B & above
+National 5 (SCQF level 5),Accounting,2019,749,0.8340000000000001,898,C & above
+National 5 (SCQF level 5),Accounting,2019,813,0.905,898,D & above
+National 5 (SCQF level 5),Accounting,2019,85,0.095,898,U
+National 5 (SCQF level 5),Administration and IT,2019,1451,0.297,"4,885",A
+National 5 (SCQF level 5),Administration and IT,2019,2758,0.565,"4,885",B & above
+National 5 (SCQF level 5),Administration and IT,2019,3845,0.787,"4,885",C & above
+National 5 (SCQF level 5),Administration and IT,2019,4488,0.919,"4,885",D & above
+National 5 (SCQF level 5),Administration and IT,2019,397,0.081,"4,885",U
+National 5 (SCQF level 5),Applications of Mathematics,2019,1062,0.23800000000000002,"4,458",A
+National 5 (SCQF level 5),Applications of Mathematics,2019,1779,0.39899999999999997,"4,458",B & above
+National 5 (SCQF level 5),Applications of Mathematics,2019,2607,0.585,"4,458",C & above
+National 5 (SCQF level 5),Applications of Mathematics,2019,3435,0.7709999999999999,"4,458",D & above
+National 5 (SCQF level 5),Applications of Mathematics,2019,1023,0.22899999999999998,"4,458",U
+National 5 (SCQF level 5),Art and Design,2019,3252,0.349,"9,322",A
+National 5 (SCQF level 5),Art and Design,2019,5945,0.638,"9,322",B & above
+National 5 (SCQF level 5),Art and Design,2019,8127,0.872,"9,322",C & above
+National 5 (SCQF level 5),Art and Design,2019,9056,0.971,"9,322",D & above
+National 5 (SCQF level 5),Art and Design,2019,266,0.028999999999999998,"9,322",U
+National 5 (SCQF level 5),Biology,2019,6355,0.295,"21,549",A
+National 5 (SCQF level 5),Biology,2019,10812,0.502,"21,549",B & above
+National 5 (SCQF level 5),Biology,2019,15199,0.705,"21,549",C & above
+National 5 (SCQF level 5),Biology,2019,19125,0.888,"21,549",D & above
+National 5 (SCQF level 5),Biology,2019,2424,0.11199999999999999,"21,549",U
+National 5 (SCQF level 5),Business Management,2019,2660,0.35100000000000003,"7,576",A
+National 5 (SCQF level 5),Business Management,2019,4373,0.5770000000000001,"7,576",B & above
+National 5 (SCQF level 5),Business Management,2019,5941,0.784,"7,576",C & above
+National 5 (SCQF level 5),Business Management,2019,6946,0.917,"7,576",D & above
+National 5 (SCQF level 5),Business Management,2019,630,0.083,"7,576",U
+National 5 (SCQF level 5),Care,2019,163,0.33899999999999997,481,A
+National 5 (SCQF level 5),Care,2019,280,0.5820000000000001,481,B & above
+National 5 (SCQF level 5),Care,2019,384,0.7979999999999999,481,C & above
+National 5 (SCQF level 5),Care,2019,441,0.917,481,D & above
+National 5 (SCQF level 5),Care,2019,40,0.083,481,U
+National 5 (SCQF level 5),Chemistry,2019,5544,0.34600000000000003,"16,035",A
+National 5 (SCQF level 5),Chemistry,2019,9005,0.562,"16,035",B & above
+National 5 (SCQF level 5),Chemistry,2019,12326,0.769,"16,035",C & above
+National 5 (SCQF level 5),Chemistry,2019,14879,0.9279999999999999,"16,035",D & above
+National 5 (SCQF level 5),Chemistry,2019,1156,0.07200000000000001,"16,035",U
+National 5 (SCQF level 5),Chinese Languages,2019,143,0.753,190,A
+National 5 (SCQF level 5),Chinese Languages,2019,158,0.8320000000000001,190,B & above
+National 5 (SCQF level 5),Chinese Languages,2019,183,0.963,190,C & above
+National 5 (SCQF level 5),Chinese Languages,2019,187,0.9840000000000001,190,D & above
+National 5 (SCQF level 5),Chinese Languages,2019,3,0.016,190,U
+National 5 (SCQF level 5),Classical Studies,2019,55,0.509,108,A
+National 5 (SCQF level 5),Classical Studies,2019,71,0.657,108,B & above
+National 5 (SCQF level 5),Classical Studies,2019,86,0.7959999999999999,108,C & above
+National 5 (SCQF level 5),Classical Studies,2019,99,0.917,108,D & above
+National 5 (SCQF level 5),Classical Studies,2019,9,0.083,108,U
+National 5 (SCQF level 5),Computing Science,2019,2000,0.315,"6,344",A
+National 5 (SCQF level 5),Computing Science,2019,3421,0.539,"6,344",B & above
+National 5 (SCQF level 5),Computing Science,2019,4740,0.747,"6,344",C & above
+National 5 (SCQF level 5),Computing Science,2019,5644,0.89,"6,344",D & above
+National 5 (SCQF level 5),Computing Science,2019,700,0.11,"6,344",U
+National 5 (SCQF level 5),Dance,2019,284,0.41,693,A
+National 5 (SCQF level 5),Dance,2019,463,0.6679999999999999,693,B & above
+National 5 (SCQF level 5),Dance,2019,605,0.873,693,C & above
+National 5 (SCQF level 5),Dance,2019,665,0.96,693,D & above
+National 5 (SCQF level 5),Dance,2019,28,0.04,693,U
+National 5 (SCQF level 5),Design and Manufacture,2019,809,0.18100000000000002,"4,481",A
+National 5 (SCQF level 5),Design and Manufacture,2019,1941,0.433,"4,481",B & above
+National 5 (SCQF level 5),Design and Manufacture,2019,3156,0.7040000000000001,"4,481",C & above
+National 5 (SCQF level 5),Design and Manufacture,2019,3992,0.8909999999999999,"4,481",D & above
+National 5 (SCQF level 5),Design and Manufacture,2019,489,0.109,"4,481",U
+National 5 (SCQF level 5),Drama,2019,2861,0.588,"4,866",A
+National 5 (SCQF level 5),Drama,2019,3904,0.802,"4,866",B & above
+National 5 (SCQF level 5),Drama,2019,4551,0.935,"4,866",C & above
+National 5 (SCQF level 5),Drama,2019,4782,0.983,"4,866",D & above
+National 5 (SCQF level 5),Drama,2019,84,0.017,"4,866",U
+National 5 (SCQF level 5),Economics,2019,174,0.649,268,A
+National 5 (SCQF level 5),Economics,2019,217,0.81,268,B & above
+National 5 (SCQF level 5),Economics,2019,243,0.907,268,C & above
+National 5 (SCQF level 5),Economics,2019,261,0.9740000000000001,268,D & above
+National 5 (SCQF level 5),Economics,2019,7,0.026000000000000002,268,U
+National 5 (SCQF level 5),Engineering Science,2019,790,0.48,"1,646",A
+National 5 (SCQF level 5),Engineering Science,2019,1157,0.703,"1,646",B & above
+National 5 (SCQF level 5),Engineering Science,2019,1379,0.838,"1,646",C & above
+National 5 (SCQF level 5),Engineering Science,2019,1524,0.9259999999999999,"1,646",D & above
+National 5 (SCQF level 5),Engineering Science,2019,122,0.07400000000000001,"1,646",U
+National 5 (SCQF level 5),English,2019,16085,0.353,"45,593",A
+National 5 (SCQF level 5),English,2019,29886,0.655,"45,593",B & above
+National 5 (SCQF level 5),English,2019,39345,0.863,"45,593",C & above
+National 5 (SCQF level 5),English,2019,43807,0.961,"45,593",D & above
+National 5 (SCQF level 5),English,2019,1786,0.039,"45,593",U
+National 5 (SCQF level 5),English for Speakers of Other Languages,2019,266,0.254,"1,048",A
+National 5 (SCQF level 5),English for Speakers of Other Languages,2019,540,0.515,"1,048",B & above
+National 5 (SCQF level 5),English for Speakers of Other Languages,2019,817,0.78,"1,048",C & above
+National 5 (SCQF level 5),English for Speakers of Other Languages,2019,981,0.9359999999999999,"1,048",D & above
+National 5 (SCQF level 5),English for Speakers of Other Languages,2019,67,0.064,"1,048",U
+National 5 (SCQF level 5),Environmental Science,2019,25,0.121,207,A
+National 5 (SCQF level 5),Environmental Science,2019,62,0.3,207,B & above
+National 5 (SCQF level 5),Environmental Science,2019,100,0.483,207,C & above
+National 5 (SCQF level 5),Environmental Science,2019,157,0.758,207,D & above
+National 5 (SCQF level 5),Environmental Science,2019,50,0.242,207,U
+National 5 (SCQF level 5),Fashion and Textile Technology,2019,47,0.12300000000000001,382,A
+National 5 (SCQF level 5),Fashion and Textile Technology,2019,131,0.34299999999999997,382,B & above
+National 5 (SCQF level 5),Fashion and Textile Technology,2019,225,0.589,382,C & above
+National 5 (SCQF level 5),Fashion and Textile Technology,2019,311,0.8140000000000001,382,D & above
+National 5 (SCQF level 5),Fashion and Textile Technology,2019,71,0.18600000000000003,382,U
+National 5 (SCQF level 5),French,2019,4272,0.5429999999999999,"7,872",A
+National 5 (SCQF level 5),French,2019,5578,0.7090000000000001,"7,872",B & above
+National 5 (SCQF level 5),French,2019,6680,0.8490000000000001,"7,872",C & above
+National 5 (SCQF level 5),French,2019,7383,0.938,"7,872",D & above
+National 5 (SCQF level 5),French,2019,489,0.062,"7,872",U
+National 5 (SCQF level 5),Gaelic (Learners),2019,56,0.415,135,A
+National 5 (SCQF level 5),Gaelic (Learners),2019,77,0.57,135,B & above
+National 5 (SCQF level 5),Gaelic (Learners),2019,99,0.733,135,C & above
+National 5 (SCQF level 5),Gaelic (Learners),2019,121,0.8959999999999999,135,D & above
+National 5 (SCQF level 5),Gaelic (Learners),2019,14,0.10400000000000001,135,U
+National 5 (SCQF level 5),Gàidhlig,2019,99,0.508,195,A
+National 5 (SCQF level 5),Gàidhlig,2019,157,0.805,195,B & above
+National 5 (SCQF level 5),Gàidhlig,2019,179,0.9179999999999999,195,C & above
+National 5 (SCQF level 5),Gàidhlig,2019,193,0.99,195,D & above
+National 5 (SCQF level 5),Gàidhlig,2019,2,0.01,195,U
+National 5 (SCQF level 5),Geography,2019,2836,0.29,"9,793",A
+National 5 (SCQF level 5),Geography,2019,5103,0.521,"9,793",B & above
+National 5 (SCQF level 5),Geography,2019,7029,0.718,"9,793",C & above
+National 5 (SCQF level 5),Geography,2019,8552,0.873,"9,793",D & above
+National 5 (SCQF level 5),Geography,2019,1241,0.127,"9,793",U
+National 5 (SCQF level 5),German,2019,981,0.5429999999999999,"1,805",A
+National 5 (SCQF level 5),German,2019,1303,0.722,"1,805",B & above
+National 5 (SCQF level 5),German,2019,1556,0.862,"1,805",C & above
+National 5 (SCQF level 5),German,2019,1729,0.958,"1,805",D & above
+National 5 (SCQF level 5),German,2019,76,0.042,"1,805",U
+National 5 (SCQF level 5),Graphic Communication,2019,1176,0.218,"5,406",A
+National 5 (SCQF level 5),Graphic Communication,2019,2532,0.46799999999999997,"5,406",B & above
+National 5 (SCQF level 5),Graphic Communication,2019,3905,0.722,"5,406",C & above
+National 5 (SCQF level 5),Graphic Communication,2019,4815,0.8909999999999999,"5,406",D & above
+National 5 (SCQF level 5),Graphic Communication,2019,591,0.109,"5,406",U
+National 5 (SCQF level 5),Health and Food Technology,2019,309,0.21100000000000002,"1,461",A
+National 5 (SCQF level 5),Health and Food Technology,2019,690,0.47200000000000003,"1,461",B & above
+National 5 (SCQF level 5),Health and Food Technology,2019,1086,0.743,"1,461",C & above
+National 5 (SCQF level 5),Health and Food Technology,2019,1321,0.904,"1,461",D & above
+National 5 (SCQF level 5),Health and Food Technology,2019,140,0.096,"1,461",U
+National 5 (SCQF level 5),History,2019,5557,0.377,"14,735",A
+National 5 (SCQF level 5),History,2019,9042,0.614,"14,735",B & above
+National 5 (SCQF level 5),History,2019,11679,0.7929999999999999,"14,735",C & above
+National 5 (SCQF level 5),History,2019,13502,0.9159999999999999,"14,735",D & above
+National 5 (SCQF level 5),History,2019,1233,0.084,"14,735",U
+National 5 (SCQF level 5),Hospitality: Practical Cake Craft,2019,176,0.138,"1,276",A
+National 5 (SCQF level 5),Hospitality: Practical Cake Craft,2019,459,0.36,"1,276",B & above
+National 5 (SCQF level 5),Hospitality: Practical Cake Craft,2019,769,0.603,"1,276",C & above
+National 5 (SCQF level 5),Hospitality: Practical Cake Craft,2019,1086,0.851,"1,276",D & above
+National 5 (SCQF level 5),Hospitality: Practical Cake Craft,2019,190,0.149,"1,276",U
+National 5 (SCQF level 5),Hospitality: Practical Cookery,2019,981,0.19899999999999998,"4,939",A
+National 5 (SCQF level 5),Hospitality: Practical Cookery,2019,2707,0.5479999999999999,"4,939",B & above
+National 5 (SCQF level 5),Hospitality: Practical Cookery,2019,4119,0.8340000000000001,"4,939",C & above
+National 5 (SCQF level 5),Hospitality: Practical Cookery,2019,4713,0.9540000000000001,"4,939",D & above
+National 5 (SCQF level 5),Hospitality: Practical Cookery,2019,226,0.046,"4,939",U
+National 5 (SCQF level 5),Italian,2019,123,0.5670000000000001,217,A
+National 5 (SCQF level 5),Italian,2019,166,0.765,217,B & above
+National 5 (SCQF level 5),Italian,2019,193,0.889,217,C & above
+National 5 (SCQF level 5),Italian,2019,211,0.972,217,D & above
+National 5 (SCQF level 5),Italian,2019,6,0.027999999999999997,217,U
+National 5 (SCQF level 5),Latin,2019,318,0.846,376,A
+National 5 (SCQF level 5),Latin,2019,354,0.941,376,B & above
+National 5 (SCQF level 5),Latin,2019,362,0.963,376,C & above
+National 5 (SCQF level 5),Latin,2019,373,0.992,376,D & above
+National 5 (SCQF level 5),Latin,2019,3,0.008,376,U
+National 5 (SCQF level 5),Mathematics,2019,12847,0.309,"41,586",A
+National 5 (SCQF level 5),Mathematics,2019,20376,0.49,"41,586",B & above
+National 5 (SCQF level 5),Mathematics,2019,27241,0.655,"41,586",C & above
+National 5 (SCQF level 5),Mathematics,2019,33331,0.8009999999999999,"41,586",D & above
+National 5 (SCQF level 5),Mathematics,2019,8255,0.19899999999999998,"41,586",U
+National 5 (SCQF level 5),Media,2019,291,0.299,972,A
+National 5 (SCQF level 5),Media,2019,475,0.489,972,B & above
+National 5 (SCQF level 5),Media,2019,641,0.659,972,C & above
+National 5 (SCQF level 5),Media,2019,810,0.833,972,D & above
+National 5 (SCQF level 5),Media,2019,162,0.16699999999999998,972,U
+National 5 (SCQF level 5),Modern Studies,2019,3588,0.3,"11,967",A
+National 5 (SCQF level 5),Modern Studies,2019,6295,0.526,"11,967",B & above
+National 5 (SCQF level 5),Modern Studies,2019,8785,0.7340000000000001,"11,967",C & above
+National 5 (SCQF level 5),Modern Studies,2019,10508,0.878,"11,967",D & above
+National 5 (SCQF level 5),Modern Studies,2019,1459,0.122,"11,967",U
+National 5 (SCQF level 5),Music,2019,4382,0.608,"7,202",A
+National 5 (SCQF level 5),Music,2019,5990,0.8320000000000001,"7,202",B & above
+National 5 (SCQF level 5),Music,2019,6767,0.94,"7,202",C & above
+National 5 (SCQF level 5),Music,2019,7063,0.981,"7,202",D & above
+National 5 (SCQF level 5),Music,2019,139,0.019,"7,202",U
+National 5 (SCQF level 5),Music Technology,2019,353,0.318,"1,110",A
+National 5 (SCQF level 5),Music Technology,2019,718,0.647,"1,110",B & above
+National 5 (SCQF level 5),Music Technology,2019,943,0.85,"1,110",C & above
+National 5 (SCQF level 5),Music Technology,2019,1060,0.955,"1,110",D & above
+National 5 (SCQF level 5),Music Technology,2019,50,0.045,"1,110",U
+National 5 (SCQF level 5),Philosophy,2019,73,0.268,272,A
+National 5 (SCQF level 5),Philosophy,2019,122,0.449,272,B & above
+National 5 (SCQF level 5),Philosophy,2019,164,0.603,272,C & above
+National 5 (SCQF level 5),Philosophy,2019,213,0.7829999999999999,272,D & above
+National 5 (SCQF level 5),Philosophy,2019,59,0.217,272,U
+National 5 (SCQF level 5),Physical Education,2019,7700,0.45899999999999996,"16,771",A
+National 5 (SCQF level 5),Physical Education,2019,12908,0.77,"16,771",B & above
+National 5 (SCQF level 5),Physical Education,2019,15750,0.9390000000000001,"16,771",C & above
+National 5 (SCQF level 5),Physical Education,2019,16594,0.9890000000000001,"16,771",D & above
+National 5 (SCQF level 5),Physical Education,2019,177,0.011000000000000001,"16,771",U
+National 5 (SCQF level 5),Physics,2019,4384,0.318,"13,792",A
+National 5 (SCQF level 5),Physics,2019,7488,0.5429999999999999,"13,792",B & above
+National 5 (SCQF level 5),Physics,2019,10289,0.746,"13,792",C & above
+National 5 (SCQF level 5),Physics,2019,12311,0.893,"13,792",D & above
+National 5 (SCQF level 5),Physics,2019,1481,0.107,"13,792",U
+National 5 (SCQF level 5),Practical Electronics,2019,82,0.392,209,A
+National 5 (SCQF level 5),Practical Electronics,2019,135,0.6459999999999999,209,B & above
+National 5 (SCQF level 5),Practical Electronics,2019,181,0.866,209,C & above
+National 5 (SCQF level 5),Practical Electronics,2019,200,0.9570000000000001,209,D & above
+National 5 (SCQF level 5),Practical Electronics,2019,9,0.043,209,U
+National 5 (SCQF level 5),Practical Metalworking,2019,465,0.36700000000000005,"1,267",A
+National 5 (SCQF level 5),Practical Metalworking,2019,818,0.6459999999999999,"1,267",B & above
+National 5 (SCQF level 5),Practical Metalworking,2019,1047,0.826,"1,267",C & above
+National 5 (SCQF level 5),Practical Metalworking,2019,1163,0.9179999999999999,"1,267",D & above
+National 5 (SCQF level 5),Practical Metalworking,2019,104,0.08199999999999999,"1,267",U
+National 5 (SCQF level 5),Practical Woodworking,2019,1840,0.34700000000000003,"5,298",A
+National 5 (SCQF level 5),Practical Woodworking,2019,3448,0.6509999999999999,"5,298",B & above
+National 5 (SCQF level 5),Practical Woodworking,2019,4554,0.86,"5,298",C & above
+National 5 (SCQF level 5),Practical Woodworking,2019,5018,0.9470000000000001,"5,298",D & above
+National 5 (SCQF level 5),Practical Woodworking,2019,280,0.053,"5,298",U
+National 5 (SCQF level 5),Psychology,2019,243,0.245,992,A
+National 5 (SCQF level 5),Psychology,2019,402,0.405,992,B & above
+National 5 (SCQF level 5),Psychology,2019,575,0.58,992,C & above
+National 5 (SCQF level 5),Psychology,2019,736,0.742,992,D & above
+National 5 (SCQF level 5),Psychology,2019,256,0.258,992,U
+National 5 (SCQF level 5),"Religious, Moral and Philosophical Studies",2019,829,0.34299999999999997,"2,419",A
+National 5 (SCQF level 5),"Religious, Moral and Philosophical Studies",2019,1244,0.514,"2,419",B & above
+National 5 (SCQF level 5),"Religious, Moral and Philosophical Studies",2019,1655,0.684,"2,419",C & above
+National 5 (SCQF level 5),"Religious, Moral and Philosophical Studies",2019,1980,0.8190000000000001,"2,419",D & above
+National 5 (SCQF level 5),"Religious, Moral and Philosophical Studies",2019,439,0.18100000000000002,"2,419",U
+National 5 (SCQF level 5),Sociology,2019,75,0.29,259,A
+National 5 (SCQF level 5),Sociology,2019,124,0.479,259,B & above
+National 5 (SCQF level 5),Sociology,2019,179,0.691,259,C & above
+National 5 (SCQF level 5),Sociology,2019,208,0.8029999999999999,259,D & above
+National 5 (SCQF level 5),Sociology,2019,51,0.19699999999999998,259,U
+National 5 (SCQF level 5),Spanish,2019,2713,0.53,"5,122",A
+National 5 (SCQF level 5),Spanish,2019,3759,0.7340000000000001,"5,122",B & above
+National 5 (SCQF level 5),Spanish,2019,4486,0.8759999999999999,"5,122",C & above
+National 5 (SCQF level 5),Spanish,2019,4904,0.9570000000000001,"5,122",D & above
+National 5 (SCQF level 5),Spanish,2019,218,0.043,"5,122",U
+National 5 (SCQF level 5),Urdu,2019,64,0.865,74,A
+National 5 (SCQF level 5),Urdu,2019,72,0.973,74,B & above
+National 5 (SCQF level 5),Urdu,2019,73,0.986,74,C & above
+National 5 (SCQF level 5),Urdu,2019,74,1,74,D & above
+National 5 (SCQF level 5),Urdu,2019,0,0,74,U
+National 5 (SCQF level 5),All subjects,2019,101273,0.35100000000000003,"288,552",A
+National 5 (SCQF level 5),All subjects,2019,170060,0.589,"288,552",B & above
+National 5 (SCQF level 5),All subjects,2019,225594,0.782,"288,552",C & above
+National 5 (SCQF level 5),All subjects,2019,261765,0.907,"288,552",D & above
+National 5 (SCQF level 5),All subjects,2019,26787,0.09300000000000001,"288,552",U
+National 5 (SCQF level 5),Accounting,2018,436,0.48700000000000004,896,A
+National 5 (SCQF level 5),Accounting,2018,580,0.647,896,B & above
+National 5 (SCQF level 5),Accounting,2018,711,0.794,896,C & above
+National 5 (SCQF level 5),Accounting,2018,810,0.904,896,D & above
+National 5 (SCQF level 5),Accounting,2018,86,0.096,896,U
+National 5 (SCQF level 5),Administration and IT,2018,1449,0.304,"4,767",A
+National 5 (SCQF level 5),Administration and IT,2018,2795,0.586,"4,767",B & above
+National 5 (SCQF level 5),Administration and IT,2018,3816,0.8009999999999999,"4,767",C & above
+National 5 (SCQF level 5),Administration and IT,2018,4404,0.924,"4,767",D & above
+National 5 (SCQF level 5),Administration and IT,2018,363,0.076,"4,767",U
+National 5 (SCQF level 5),Applications of Mathematics,2018,460,0.185,"2,482",A
+National 5 (SCQF level 5),Applications of Mathematics,2018,945,0.381,"2,482",B & above
+National 5 (SCQF level 5),Applications of Mathematics,2018,1434,0.578,"2,482",C & above
+National 5 (SCQF level 5),Applications of Mathematics,2018,1921,0.774,"2,482",D & above
+National 5 (SCQF level 5),Applications of Mathematics,2018,561,0.226,"2,482",U
+National 5 (SCQF level 5),Art and Design,2018,3894,0.423,"9,198",A
+National 5 (SCQF level 5),Art and Design,2018,6424,0.698,"9,198",B & above
+National 5 (SCQF level 5),Art and Design,2018,8144,0.885,"9,198",C & above
+National 5 (SCQF level 5),Art and Design,2018,8940,0.972,"9,198",D & above
+National 5 (SCQF level 5),Art and Design,2018,258,0.027999999999999997,"9,198",U
+National 5 (SCQF level 5),Biology,2018,6504,0.311,"20,928",A
+National 5 (SCQF level 5),Biology,2018,11041,0.528,"20,928",B & above
+National 5 (SCQF level 5),Biology,2018,15253,0.7290000000000001,"20,928",C & above
+National 5 (SCQF level 5),Biology,2018,18730,0.895,"20,928",D & above
+National 5 (SCQF level 5),Biology,2018,2198,0.105,"20,928",U
+National 5 (SCQF level 5),Business Management,2018,2866,0.387,"7,411",A
+National 5 (SCQF level 5),Business Management,2018,4440,0.599,"7,411",B & above
+National 5 (SCQF level 5),Business Management,2018,5876,0.7929999999999999,"7,411",C & above
+National 5 (SCQF level 5),Business Management,2018,6745,0.91,"7,411",D & above
+National 5 (SCQF level 5),Business Management,2018,666,0.09,"7,411",U
+National 5 (SCQF level 5),Care,2018,212,0.32899999999999996,645,A
+National 5 (SCQF level 5),Care,2018,365,0.5660000000000001,645,B & above
+National 5 (SCQF level 5),Care,2018,503,0.78,645,C & above
+National 5 (SCQF level 5),Care,2018,592,0.9179999999999999,645,D & above
+National 5 (SCQF level 5),Care,2018,53,0.08199999999999999,645,U
+National 5 (SCQF level 5),Chemistry,2018,5787,0.363,"15,930",A
+National 5 (SCQF level 5),Chemistry,2018,9255,0.581,"15,930",B & above
+National 5 (SCQF level 5),Chemistry,2018,12296,0.772,"15,930",C & above
+National 5 (SCQF level 5),Chemistry,2018,14529,0.912,"15,930",D & above
+National 5 (SCQF level 5),Chemistry,2018,1401,0.08800000000000001,"15,930",U
+National 5 (SCQF level 5),Chinese Languages,2018,120,0.645,186,A
+National 5 (SCQF level 5),Chinese Languages,2018,151,0.812,186,B & above
+National 5 (SCQF level 5),Chinese Languages,2018,165,0.887,186,C & above
+National 5 (SCQF level 5),Chinese Languages,2018,174,0.935,186,D & above
+National 5 (SCQF level 5),Chinese Languages,2018,12,0.065,186,U
+National 5 (SCQF level 5),Classical Studies,2018,35,0.449,78,A
+National 5 (SCQF level 5),Classical Studies,2018,49,0.628,78,B & above
+National 5 (SCQF level 5),Classical Studies,2018,65,0.833,78,C & above
+National 5 (SCQF level 5),Classical Studies,2018,71,0.91,78,D & above
+National 5 (SCQF level 5),Classical Studies,2018,7,0.09,78,U
+National 5 (SCQF level 5),Computing Science,2018,1884,0.292,"6,442",A
+National 5 (SCQF level 5),Computing Science,2018,3443,0.534,"6,442",B & above
+National 5 (SCQF level 5),Computing Science,2018,4814,0.747,"6,442",C & above
+National 5 (SCQF level 5),Computing Science,2018,5733,0.89,"6,442",D & above
+National 5 (SCQF level 5),Computing Science,2018,709,0.11,"6,442",U
+National 5 (SCQF level 5),Dance,2018,284,0.509,558,A
+National 5 (SCQF level 5),Dance,2018,418,0.7490000000000001,558,B & above
+National 5 (SCQF level 5),Dance,2018,514,0.9209999999999999,558,C & above
+National 5 (SCQF level 5),Dance,2018,551,0.987,558,D & above
+National 5 (SCQF level 5),Dance,2018,7,0.013000000000000001,558,U
+National 5 (SCQF level 5),Design and Manufacture,2018,565,0.12300000000000001,"4,599",A
+National 5 (SCQF level 5),Design and Manufacture,2018,1407,0.306,"4,599",B & above
+National 5 (SCQF level 5),Design and Manufacture,2018,2603,0.5660000000000001,"4,599",C & above
+National 5 (SCQF level 5),Design and Manufacture,2018,3716,0.8079999999999999,"4,599",D & above
+National 5 (SCQF level 5),Design and Manufacture,2018,883,0.192,"4,599",U
+National 5 (SCQF level 5),Drama,2018,2511,0.557,"4,507",A
+National 5 (SCQF level 5),Drama,2018,3532,0.784,"4,507",B & above
+National 5 (SCQF level 5),Drama,2018,4167,0.925,"4,507",C & above
+National 5 (SCQF level 5),Drama,2018,4417,0.98,"4,507",D & above
+National 5 (SCQF level 5),Drama,2018,90,0.02,"4,507",U
+National 5 (SCQF level 5),Economics,2018,200,0.722,277,A
+National 5 (SCQF level 5),Economics,2018,244,0.8809999999999999,277,B & above
+National 5 (SCQF level 5),Economics,2018,262,0.946,277,C & above
+National 5 (SCQF level 5),Economics,2018,273,0.986,277,D & above
+National 5 (SCQF level 5),Economics,2018,4,0.013999999999999999,277,U
+National 5 (SCQF level 5),Engineering Science,2018,733,0.405,"1,808",A
+National 5 (SCQF level 5),Engineering Science,2018,1118,0.618,"1,808",B & above
+National 5 (SCQF level 5),Engineering Science,2018,1407,0.778,"1,808",C & above
+National 5 (SCQF level 5),Engineering Science,2018,1595,0.882,"1,808",D & above
+National 5 (SCQF level 5),Engineering Science,2018,213,0.11800000000000001,"1,808",U
+National 5 (SCQF level 5),English,2018,15916,0.358,"44,477",A
+National 5 (SCQF level 5),English,2018,27925,0.628,"44,477",B & above
+National 5 (SCQF level 5),English,2018,37701,0.848,"44,477",C & above
+National 5 (SCQF level 5),English,2018,42176,0.948,"44,477",D & above
+National 5 (SCQF level 5),English,2018,2301,0.052000000000000005,"44,477",U
+National 5 (SCQF level 5),English for Speakers of Other Languages,2018,321,0.31,"1,035",A
+National 5 (SCQF level 5),English for Speakers of Other Languages,2018,586,0.5660000000000001,"1,035",B & above
+National 5 (SCQF level 5),English for Speakers of Other Languages,2018,832,0.804,"1,035",C & above
+National 5 (SCQF level 5),English for Speakers of Other Languages,2018,965,0.932,"1,035",D & above
+National 5 (SCQF level 5),English for Speakers of Other Languages,2018,70,0.068,"1,035",U
+National 5 (SCQF level 5),Environmental Science,2018,23,0.085,272,A
+National 5 (SCQF level 5),Environmental Science,2018,79,0.29,272,B & above
+National 5 (SCQF level 5),Environmental Science,2018,141,0.518,272,C & above
+National 5 (SCQF level 5),Environmental Science,2018,208,0.765,272,D & above
+National 5 (SCQF level 5),Environmental Science,2018,64,0.235,272,U
+National 5 (SCQF level 5),Fashion and Textile Technology,2018,58,0.131,444,A
+National 5 (SCQF level 5),Fashion and Textile Technology,2018,154,0.34700000000000003,444,B & above
+National 5 (SCQF level 5),Fashion and Textile Technology,2018,285,0.642,444,C & above
+National 5 (SCQF level 5),Fashion and Textile Technology,2018,378,0.851,444,D & above
+National 5 (SCQF level 5),Fashion and Textile Technology,2018,66,0.149,444,U
+National 5 (SCQF level 5),French,2018,4632,0.569,"8,145",A
+National 5 (SCQF level 5),French,2018,6023,0.7390000000000001,"8,145",B & above
+National 5 (SCQF level 5),French,2018,7115,0.8740000000000001,"8,145",C & above
+National 5 (SCQF level 5),French,2018,7748,0.951,"8,145",D & above
+National 5 (SCQF level 5),French,2018,397,0.049,"8,145",U
+National 5 (SCQF level 5),Gaelic (Learners),2018,53,0.495,107,A
+National 5 (SCQF level 5),Gaelic (Learners),2018,79,0.738,107,B & above
+National 5 (SCQF level 5),Gaelic (Learners),2018,91,0.85,107,C & above
+National 5 (SCQF level 5),Gaelic (Learners),2018,104,0.972,107,D & above
+National 5 (SCQF level 5),Gaelic (Learners),2018,3,0.027999999999999997,107,U
+National 5 (SCQF level 5),Gàidhlig,2018,115,0.628,183,A
+National 5 (SCQF level 5),Gàidhlig,2018,147,0.8029999999999999,183,B & above
+National 5 (SCQF level 5),Gàidhlig,2018,170,0.929,183,C & above
+National 5 (SCQF level 5),Gàidhlig,2018,180,0.9840000000000001,183,D & above
+National 5 (SCQF level 5),Gàidhlig,2018,3,0.016,183,U
+National 5 (SCQF level 5),Geography,2018,2883,0.294,"9,795",A
+National 5 (SCQF level 5),Geography,2018,4884,0.499,"9,795",B & above
+National 5 (SCQF level 5),Geography,2018,6934,0.708,"9,795",C & above
+National 5 (SCQF level 5),Geography,2018,8450,0.863,"9,795",D & above
+National 5 (SCQF level 5),Geography,2018,1345,0.13699999999999998,"9,795",U
+National 5 (SCQF level 5),German,2018,978,0.526,"1,859",A
+National 5 (SCQF level 5),German,2018,1361,0.732,"1,859",B & above
+National 5 (SCQF level 5),German,2018,1622,0.873,"1,859",C & above
+National 5 (SCQF level 5),German,2018,1791,0.963,"1,859",D & above
+National 5 (SCQF level 5),German,2018,68,0.037000000000000005,"1,859",U
+National 5 (SCQF level 5),Graphic Communication,2018,1115,0.205,"5,434",A
+National 5 (SCQF level 5),Graphic Communication,2018,2542,0.46799999999999997,"5,434",B & above
+National 5 (SCQF level 5),Graphic Communication,2018,3935,0.7240000000000001,"5,434",C & above
+National 5 (SCQF level 5),Graphic Communication,2018,4855,0.893,"5,434",D & above
+National 5 (SCQF level 5),Graphic Communication,2018,579,0.107,"5,434",U
+National 5 (SCQF level 5),Health and Food Technology,2018,230,0.156,"1,474",A
+National 5 (SCQF level 5),Health and Food Technology,2018,601,0.408,"1,474",B & above
+National 5 (SCQF level 5),Health and Food Technology,2018,976,0.662,"1,474",C & above
+National 5 (SCQF level 5),Health and Food Technology,2018,1242,0.843,"1,474",D & above
+National 5 (SCQF level 5),Health and Food Technology,2018,232,0.157,"1,474",U
+National 5 (SCQF level 5),History,2018,4561,0.315,"14,473",A
+National 5 (SCQF level 5),History,2018,8160,0.564,"14,473",B & above
+National 5 (SCQF level 5),History,2018,11260,0.778,"14,473",C & above
+National 5 (SCQF level 5),History,2018,13079,0.904,"14,473",D & above
+National 5 (SCQF level 5),History,2018,1394,0.096,"14,473",U
+National 5 (SCQF level 5),Hospitality: Practical Cake Craft,2018,174,0.125,"1,394",A
+National 5 (SCQF level 5),Hospitality: Practical Cake Craft,2018,520,0.373,"1,394",B & above
+National 5 (SCQF level 5),Hospitality: Practical Cake Craft,2018,864,0.62,"1,394",C & above
+National 5 (SCQF level 5),Hospitality: Practical Cake Craft,2018,1150,0.825,"1,394",D & above
+National 5 (SCQF level 5),Hospitality: Practical Cake Craft,2018,244,0.175,"1,394",U
+National 5 (SCQF level 5),Hospitality: Practical Cookery,2018,331,0.066,"5,035",A
+National 5 (SCQF level 5),Hospitality: Practical Cookery,2018,1659,0.32899999999999996,"5,035",B & above
+National 5 (SCQF level 5),Hospitality: Practical Cookery,2018,3300,0.655,"5,035",C & above
+National 5 (SCQF level 5),Hospitality: Practical Cookery,2018,4377,0.8690000000000001,"5,035",D & above
+National 5 (SCQF level 5),Hospitality: Practical Cookery,2018,658,0.131,"5,035",U
+National 5 (SCQF level 5),Italian,2018,142,0.49700000000000005,286,A
+National 5 (SCQF level 5),Italian,2018,198,0.6920000000000001,286,B & above
+National 5 (SCQF level 5),Italian,2018,248,0.867,286,C & above
+National 5 (SCQF level 5),Italian,2018,273,0.955,286,D & above
+National 5 (SCQF level 5),Italian,2018,13,0.045,286,U
+National 5 (SCQF level 5),Latin,2018,362,0.9279999999999999,390,A
+National 5 (SCQF level 5),Latin,2018,381,0.977,390,B & above
+National 5 (SCQF level 5),Latin,2018,386,0.99,390,C & above
+National 5 (SCQF level 5),Latin,2018,389,0.997,390,D & above
+National 5 (SCQF level 5),Latin,2018,1,0.003,390,U
+National 5 (SCQF level 5),Mathematics,2018,13069,0.314,"41,590",A
+National 5 (SCQF level 5),Mathematics,2018,20455,0.49200000000000005,"41,590",B & above
+National 5 (SCQF level 5),Mathematics,2018,26894,0.647,"41,590",C & above
+National 5 (SCQF level 5),Mathematics,2018,32629,0.785,"41,590",D & above
+National 5 (SCQF level 5),Mathematics,2018,8961,0.215,"41,590",U
+National 5 (SCQF level 5),Media,2018,247,0.245,"1,007",A
+National 5 (SCQF level 5),Media,2018,454,0.451,"1,007",B & above
+National 5 (SCQF level 5),Media,2018,680,0.675,"1,007",C & above
+National 5 (SCQF level 5),Media,2018,850,0.8440000000000001,"1,007",D & above
+National 5 (SCQF level 5),Media,2018,157,0.156,"1,007",U
+National 5 (SCQF level 5),Modern Studies,2018,3497,0.295,"11,867",A
+National 5 (SCQF level 5),Modern Studies,2018,6006,0.506,"11,867",B & above
+National 5 (SCQF level 5),Modern Studies,2018,8322,0.701,"11,867",C & above
+National 5 (SCQF level 5),Modern Studies,2018,10157,0.856,"11,867",D & above
+National 5 (SCQF level 5),Modern Studies,2018,1710,0.14400000000000002,"11,867",U
+National 5 (SCQF level 5),Music,2018,4139,0.583,"7,099",A
+National 5 (SCQF level 5),Music,2018,5886,0.8290000000000001,"7,099",B & above
+National 5 (SCQF level 5),Music,2018,6735,0.9490000000000001,"7,099",C & above
+National 5 (SCQF level 5),Music,2018,7002,0.986,"7,099",D & above
+National 5 (SCQF level 5),Music,2018,97,0.013999999999999999,"7,099",U
+National 5 (SCQF level 5),Music Technology,2018,388,0.439,883,A
+National 5 (SCQF level 5),Music Technology,2018,601,0.6809999999999999,883,B & above
+National 5 (SCQF level 5),Music Technology,2018,752,0.852,883,C & above
+National 5 (SCQF level 5),Music Technology,2018,842,0.9540000000000001,883,D & above
+National 5 (SCQF level 5),Music Technology,2018,41,0.046,883,U
+National 5 (SCQF level 5),Philosophy,2018,97,0.359,270,A
+National 5 (SCQF level 5),Philosophy,2018,141,0.522,270,B & above
+National 5 (SCQF level 5),Philosophy,2018,185,0.685,270,C & above
+National 5 (SCQF level 5),Philosophy,2018,221,0.8190000000000001,270,D & above
+National 5 (SCQF level 5),Philosophy,2018,49,0.18100000000000002,270,U
+National 5 (SCQF level 5),Physical Education,2018,7022,0.456,"15,397",A
+National 5 (SCQF level 5),Physical Education,2018,11820,0.768,"15,397",B & above
+National 5 (SCQF level 5),Physical Education,2018,14528,0.9440000000000001,"15,397",C & above
+National 5 (SCQF level 5),Physical Education,2018,15267,0.992,"15,397",D & above
+National 5 (SCQF level 5),Physical Education,2018,130,0.008,"15,397",U
+National 5 (SCQF level 5),Physics,2018,4274,0.312,"13,699",A
+National 5 (SCQF level 5),Physics,2018,7468,0.545,"13,699",B & above
+National 5 (SCQF level 5),Physics,2018,10274,0.75,"13,699",C & above
+National 5 (SCQF level 5),Physics,2018,12269,0.8959999999999999,"13,699",D & above
+National 5 (SCQF level 5),Physics,2018,1430,0.10400000000000001,"13,699",U
+National 5 (SCQF level 5),Practical Electronics,2018,60,0.335,179,A
+National 5 (SCQF level 5),Practical Electronics,2018,98,0.547,179,B & above
+National 5 (SCQF level 5),Practical Electronics,2018,126,0.7040000000000001,179,C & above
+National 5 (SCQF level 5),Practical Electronics,2018,147,0.821,179,D & above
+National 5 (SCQF level 5),Practical Electronics,2018,32,0.179,179,U
+National 5 (SCQF level 5),Practical Metalworking,2018,489,0.38799999999999996,"1,259",A
+National 5 (SCQF level 5),Practical Metalworking,2018,815,0.647,"1,259",B & above
+National 5 (SCQF level 5),Practical Metalworking,2018,1023,0.813,"1,259",C & above
+National 5 (SCQF level 5),Practical Metalworking,2018,1144,0.909,"1,259",D & above
+National 5 (SCQF level 5),Practical Metalworking,2018,115,0.091,"1,259",U
+National 5 (SCQF level 5),Practical Woodworking,2018,1855,0.391,"4,748",A
+National 5 (SCQF level 5),Practical Woodworking,2018,3138,0.6609999999999999,"4,748",B & above
+National 5 (SCQF level 5),Practical Woodworking,2018,4057,0.8540000000000001,"4,748",C & above
+National 5 (SCQF level 5),Practical Woodworking,2018,4453,0.938,"4,748",D & above
+National 5 (SCQF level 5),Practical Woodworking,2018,295,0.062,"4,748",U
+National 5 (SCQF level 5),Psychology,2018,244,0.315,775,A
+National 5 (SCQF level 5),Psychology,2018,371,0.479,775,B & above
+National 5 (SCQF level 5),Psychology,2018,501,0.6459999999999999,775,C & above
+National 5 (SCQF level 5),Psychology,2018,608,0.785,775,D & above
+National 5 (SCQF level 5),Psychology,2018,167,0.215,775,U
+National 5 (SCQF level 5),"Religious, Moral and Philosophical Studies",2018,786,0.34,"2,309",A
+National 5 (SCQF level 5),"Religious, Moral and Philosophical Studies",2018,1233,0.534,"2,309",B & above
+National 5 (SCQF level 5),"Religious, Moral and Philosophical Studies",2018,1612,0.698,"2,309",C & above
+National 5 (SCQF level 5),"Religious, Moral and Philosophical Studies",2018,1955,0.847,"2,309",D & above
+National 5 (SCQF level 5),"Religious, Moral and Philosophical Studies",2018,354,0.153,"2,309",U
+National 5 (SCQF level 5),Sociology,2018,55,0.267,206,A
+National 5 (SCQF level 5),Sociology,2018,98,0.47600000000000003,206,B & above
+National 5 (SCQF level 5),Sociology,2018,136,0.66,206,C & above
+National 5 (SCQF level 5),Sociology,2018,164,0.7959999999999999,206,D & above
+National 5 (SCQF level 5),Sociology,2018,42,0.204,206,U
+National 5 (SCQF level 5),Spanish,2018,2868,0.581,"4,937",A
+National 5 (SCQF level 5),Spanish,2018,3807,0.7709999999999999,"4,937",B & above
+National 5 (SCQF level 5),Spanish,2018,4442,0.9,"4,937",C & above
+National 5 (SCQF level 5),Spanish,2018,4808,0.9740000000000001,"4,937",D & above
+National 5 (SCQF level 5),Spanish,2018,129,0.026000000000000002,"4,937",U
+National 5 (SCQF level 5),Urdu,2018,35,0.778,45,A
+National 5 (SCQF level 5),Urdu,2018,39,0.867,45,B & above
+National 5 (SCQF level 5),Urdu,2018,44,0.978,45,C & above
+National 5 (SCQF level 5),Urdu,2018,45,1,45,D & above
+National 5 (SCQF level 5),Urdu,2018,0,0,45,U
+National 5 (SCQF level 5),All subjects,2018,98959,0.35100000000000003,"281,785",A
+National 5 (SCQF level 5),All subjects,2018,163936,0.5820000000000001,"281,785",B & above
+National 5 (SCQF level 5),All subjects,2018,218201,0.774,"281,785",C & above
+National 5 (SCQF level 5),All subjects,2018,253127,0.898,"281,785",D & above
+National 5 (SCQF level 5),All subjects,2018,28658,0.102,"281,785",U
+Highers (SCQF level 6),Accounting,2019,507,0.415,"1,222",A
+Highers (SCQF level 6),Accounting,2019,743,0.608,"1,222",B & above
+Highers (SCQF level 6),Accounting,2019,961,0.7859999999999999,"1,222",C & above
+Highers (SCQF level 6),Accounting,2019,1087,0.89,"1,222",D & above
+Highers (SCQF level 6),Accounting,2019,135,0.11,"1,222",U
+Highers (SCQF level 6),Administration and IT,2019,1081,0.287,"3,770",A
+Highers (SCQF level 6),Administration and IT,2019,2101,0.557,"3,770",B & above
+Highers (SCQF level 6),Administration and IT,2019,2955,0.784,"3,770",C & above
+Highers (SCQF level 6),Administration and IT,2019,3479,0.9229999999999999,"3,770",D & above
+Highers (SCQF level 6),Administration and IT,2019,291,0.077,"3,770",U
+Highers (SCQF level 6),Art and Design,2019,1248,0.23800000000000002,"5,233",A
+Highers (SCQF level 6),Art and Design,2019,2699,0.516,"5,233",B & above
+Highers (SCQF level 6),Art and Design,2019,4212,0.805,"5,233",C & above
+Highers (SCQF level 6),Art and Design,2019,5026,0.96,"5,233",D & above
+Highers (SCQF level 6),Art and Design,2019,207,0.04,"5,233",U
+Highers (SCQF level 6),Biology,2019,2124,0.276,"7,685",A
+Highers (SCQF level 6),Biology,2019,3845,0.5,"7,685",B & above
+Highers (SCQF level 6),Biology,2019,5588,0.727,"7,685",C & above
+Highers (SCQF level 6),Biology,2019,6921,0.9009999999999999,"7,685",D & above
+Highers (SCQF level 6),Biology,2019,764,0.099,"7,685",U
+Highers (SCQF level 6),Business Management,2019,2609,0.314,"8,322",A
+Highers (SCQF level 6),Business Management,2019,4597,0.552,"8,322",B & above
+Highers (SCQF level 6),Business Management,2019,6313,0.759,"8,322",C & above
+Highers (SCQF level 6),Business Management,2019,7437,0.894,"8,322",D & above
+Highers (SCQF level 6),Business Management,2019,885,0.106,"8,322",U
+Highers (SCQF level 6),Care,2019,86,0.10300000000000001,838,A
+Highers (SCQF level 6),Care,2019,248,0.29600000000000004,838,B & above
+Highers (SCQF level 6),Care,2019,465,0.555,838,C & above
+Highers (SCQF level 6),Care,2019,655,0.782,838,D & above
+Highers (SCQF level 6),Care,2019,183,0.218,838,U
+Highers (SCQF level 6),Chemistry,2019,2985,0.297,"10,047",A
+Highers (SCQF level 6),Chemistry,2019,5376,0.535,"10,047",B & above
+Highers (SCQF level 6),Chemistry,2019,7590,0.755,"10,047",C & above
+Highers (SCQF level 6),Chemistry,2019,9240,0.92,"10,047",D & above
+Highers (SCQF level 6),Chemistry,2019,807,0.08,"10,047",U
+Highers (SCQF level 6),Childcare and Development,2019,56,0.142,393,A
+Highers (SCQF level 6),Childcare and Development,2019,132,0.336,393,B & above
+Highers (SCQF level 6),Childcare and Development,2019,256,0.6509999999999999,393,C & above
+Highers (SCQF level 6),Childcare and Development,2019,348,0.885,393,D & above
+Highers (SCQF level 6),Childcare and Development,2019,45,0.115,393,U
+Highers (SCQF level 6),Chinese Languages,2019,143,0.8270000000000001,173,A
+Highers (SCQF level 6),Chinese Languages,2019,158,0.9129999999999999,173,B & above
+Highers (SCQF level 6),Chinese Languages,2019,167,0.965,173,C & above
+Highers (SCQF level 6),Chinese Languages,2019,171,0.988,173,D & above
+Highers (SCQF level 6),Chinese Languages,2019,2,0.012,173,U
+Highers (SCQF level 6),Classical Studies,2019,126,0.321,392,A
+Highers (SCQF level 6),Classical Studies,2019,212,0.541,392,B & above
+Highers (SCQF level 6),Classical Studies,2019,299,0.763,392,C & above
+Highers (SCQF level 6),Classical Studies,2019,343,0.875,392,D & above
+Highers (SCQF level 6),Classical Studies,2019,49,0.125,392,U
+Highers (SCQF level 6),Computing Science,2019,748,0.23199999999999998,"3,228",A
+Highers (SCQF level 6),Computing Science,2019,1420,0.44,"3,228",B & above
+Highers (SCQF level 6),Computing Science,2019,2064,0.639,"3,228",C & above
+Highers (SCQF level 6),Computing Science,2019,2623,0.813,"3,228",D & above
+Highers (SCQF level 6),Computing Science,2019,605,0.187,"3,228",U
+Highers (SCQF level 6),Dance,2019,158,0.317,498,A
+Highers (SCQF level 6),Dance,2019,285,0.5720000000000001,498,B & above
+Highers (SCQF level 6),Dance,2019,413,0.8290000000000001,498,C & above
+Highers (SCQF level 6),Dance,2019,478,0.96,498,D & above
+Highers (SCQF level 6),Dance,2019,20,0.04,498,U
+Highers (SCQF level 6),Design and Manufacture,2019,265,0.11800000000000001,"2,248",A
+Highers (SCQF level 6),Design and Manufacture,2019,656,0.292,"2,248",B & above
+Highers (SCQF level 6),Design and Manufacture,2019,1219,0.542,"2,248",C & above
+Highers (SCQF level 6),Design and Manufacture,2019,1762,0.784,"2,248",D & above
+Highers (SCQF level 6),Design and Manufacture,2019,486,0.21600000000000003,"2,248",U
+Highers (SCQF level 6),Drama,2019,790,0.27399999999999997,"2,884",A
+Highers (SCQF level 6),Drama,2019,1554,0.539,"2,884",B & above
+Highers (SCQF level 6),Drama,2019,2287,0.7929999999999999,"2,884",C & above
+Highers (SCQF level 6),Drama,2019,2713,0.941,"2,884",D & above
+Highers (SCQF level 6),Drama,2019,171,0.059000000000000004,"2,884",U
+Highers (SCQF level 6),Economics,2019,235,0.40299999999999997,583,A
+Highers (SCQF level 6),Economics,2019,369,0.633,583,B & above
+Highers (SCQF level 6),Economics,2019,467,0.8009999999999999,583,C & above
+Highers (SCQF level 6),Economics,2019,540,0.9259999999999999,583,D & above
+Highers (SCQF level 6),Economics,2019,43,0.07400000000000001,583,U
+Highers (SCQF level 6),Engineering Science,2019,296,0.267,"1,110",A
+Highers (SCQF level 6),Engineering Science,2019,506,0.456,"1,110",B & above
+Highers (SCQF level 6),Engineering Science,2019,725,0.653,"1,110",C & above
+Highers (SCQF level 6),Engineering Science,2019,929,0.8370000000000001,"1,110",D & above
+Highers (SCQF level 6),Engineering Science,2019,181,0.163,"1,110",U
+Highers (SCQF level 6),English,2019,8151,0.23,"35,461",A
+Highers (SCQF level 6),English,2019,17030,0.48,"35,461",B & above
+Highers (SCQF level 6),English,2019,25967,0.732,"35,461",C & above
+Highers (SCQF level 6),English,2019,32523,0.917,"35,461",D & above
+Highers (SCQF level 6),English,2019,2938,0.083,"35,461",U
+Highers (SCQF level 6),English for Speakers of Other Languages,2019,252,0.321,784,A
+Highers (SCQF level 6),English for Speakers of Other Languages,2019,479,0.611,784,B & above
+Highers (SCQF level 6),English for Speakers of Other Languages,2019,663,0.846,784,C & above
+Highers (SCQF level 6),English for Speakers of Other Languages,2019,745,0.95,784,D & above
+Highers (SCQF level 6),English for Speakers of Other Languages,2019,39,0.05,784,U
+Highers (SCQF level 6),Environmental Science,2019,76,0.19399999999999998,392,A
+Highers (SCQF level 6),Environmental Science,2019,154,0.39299999999999996,392,B & above
+Highers (SCQF level 6),Environmental Science,2019,268,0.684,392,C & above
+Highers (SCQF level 6),Environmental Science,2019,337,0.86,392,D & above
+Highers (SCQF level 6),Environmental Science,2019,55,0.14,392,U
+Highers (SCQF level 6),Fashion and Textile Technology,2019,19,0.08800000000000001,215,A
+Highers (SCQF level 6),Fashion and Textile Technology,2019,94,0.43700000000000006,215,B & above
+Highers (SCQF level 6),Fashion and Textile Technology,2019,160,0.7440000000000001,215,C & above
+Highers (SCQF level 6),Fashion and Textile Technology,2019,196,0.912,215,D & above
+Highers (SCQF level 6),Fashion and Textile Technology,2019,19,0.08800000000000001,215,U
+Highers (SCQF level 6),French,2019,1671,0.489,"3,417",A
+Highers (SCQF level 6),French,2019,2415,0.7070000000000001,"3,417",B & above
+Highers (SCQF level 6),French,2019,2981,0.872,"3,417",C & above
+Highers (SCQF level 6),French,2019,3273,0.958,"3,417",D & above
+Highers (SCQF level 6),French,2019,144,0.042,"3,417",U
+Highers (SCQF level 6),Gaelic (Learners),2019,32,0.525,61,A
+Highers (SCQF level 6),Gaelic (Learners),2019,47,0.77,61,B & above
+Highers (SCQF level 6),Gaelic (Learners),2019,55,0.902,61,C & above
+Highers (SCQF level 6),Gaelic (Learners),2019,61,1,61,D & above
+Highers (SCQF level 6),Gaelic (Learners),2019,0,0,61,U
+Highers (SCQF level 6),Gàidhlig,2019,59,0.43700000000000006,135,A
+Highers (SCQF level 6),Gàidhlig,2019,96,0.711,135,B & above
+Highers (SCQF level 6),Gàidhlig,2019,123,0.9109999999999999,135,C & above
+Highers (SCQF level 6),Gàidhlig,2019,133,0.985,135,D & above
+Highers (SCQF level 6),Gàidhlig,2019,2,0.015,135,U
+Highers (SCQF level 6),Geography,2019,1884,0.27399999999999997,"6,867",A
+Highers (SCQF level 6),Geography,2019,3535,0.515,"6,867",B & above
+Highers (SCQF level 6),Geography,2019,5195,0.757,"6,867",C & above
+Highers (SCQF level 6),Geography,2019,6244,0.909,"6,867",D & above
+Highers (SCQF level 6),Geography,2019,623,0.091,"6,867",U
+Highers (SCQF level 6),German,2019,419,0.532,787,A
+Highers (SCQF level 6),German,2019,579,0.736,787,B & above
+Highers (SCQF level 6),German,2019,707,0.898,787,C & above
+Highers (SCQF level 6),German,2019,768,0.976,787,D & above
+Highers (SCQF level 6),German,2019,19,0.024,787,U
+Highers (SCQF level 6),Graphic Communication,2019,630,0.18,"3,497",A
+Highers (SCQF level 6),Graphic Communication,2019,1599,0.457,"3,497",B & above
+Highers (SCQF level 6),Graphic Communication,2019,2609,0.746,"3,497",C & above
+Highers (SCQF level 6),Graphic Communication,2019,3188,0.912,"3,497",D & above
+Highers (SCQF level 6),Graphic Communication,2019,309,0.08800000000000001,"3,497",U
+Highers (SCQF level 6),Health and Food Technology,2019,127,0.107,"1,191",A
+Highers (SCQF level 6),Health and Food Technology,2019,386,0.324,"1,191",B & above
+Highers (SCQF level 6),Health and Food Technology,2019,716,0.601,"1,191",C & above
+Highers (SCQF level 6),Health and Food Technology,2019,984,0.826,"1,191",D & above
+Highers (SCQF level 6),Health and Food Technology,2019,207,0.174,"1,191",U
+Highers (SCQF level 6),History,2019,2833,0.284,"9,987",A
+Highers (SCQF level 6),History,2019,5269,0.528,"9,987",B & above
+Highers (SCQF level 6),History,2019,7267,0.728,"9,987",C & above
+Highers (SCQF level 6),History,2019,8617,0.863,"9,987",D & above
+Highers (SCQF level 6),History,2019,1370,0.13699999999999998,"9,987",U
+Highers (SCQF level 6),Human Biology,2019,1545,0.247,"6,259",A
+Highers (SCQF level 6),Human Biology,2019,2857,0.456,"6,259",B & above
+Highers (SCQF level 6),Human Biology,2019,4345,0.6940000000000001,"6,259",C & above
+Highers (SCQF level 6),Human Biology,2019,5556,0.888,"6,259",D & above
+Highers (SCQF level 6),Human Biology,2019,703,0.11199999999999999,"6,259",U
+Highers (SCQF level 6),Italian,2019,147,0.665,221,A
+Highers (SCQF level 6),Italian,2019,182,0.8240000000000001,221,B & above
+Highers (SCQF level 6),Italian,2019,197,0.8909999999999999,221,C & above
+Highers (SCQF level 6),Italian,2019,213,0.9640000000000001,221,D & above
+Highers (SCQF level 6),Italian,2019,8,0.036000000000000004,221,U
+Highers (SCQF level 6),Latin,2019,166,0.6559999999999999,253,A
+Highers (SCQF level 6),Latin,2019,206,0.8140000000000001,253,B & above
+Highers (SCQF level 6),Latin,2019,233,0.9209999999999999,253,C & above
+Highers (SCQF level 6),Latin,2019,245,0.968,253,D & above
+Highers (SCQF level 6),Latin,2019,8,0.032,253,U
+Highers (SCQF level 6),Mathematics,2019,6127,0.32899999999999996,"18,626",A
+Highers (SCQF level 6),Mathematics,2019,10125,0.544,"18,626",B & above
+Highers (SCQF level 6),Mathematics,2019,13481,0.7240000000000001,"18,626",C & above
+Highers (SCQF level 6),Mathematics,2019,16061,0.862,"18,626",D & above
+Highers (SCQF level 6),Mathematics,2019,2565,0.138,"18,626",U
+Highers (SCQF level 6),Media,2019,192,0.192,999,A
+Highers (SCQF level 6),Media,2019,430,0.43,999,B & above
+Highers (SCQF level 6),Media,2019,686,0.687,999,C & above
+Highers (SCQF level 6),Media,2019,878,0.879,999,D & above
+Highers (SCQF level 6),Media,2019,121,0.121,999,U
+Highers (SCQF level 6),Modern Studies,2019,2946,0.34,"8,653",A
+Highers (SCQF level 6),Modern Studies,2019,4882,0.564,"8,653",B & above
+Highers (SCQF level 6),Modern Studies,2019,6577,0.76,"8,653",C & above
+Highers (SCQF level 6),Modern Studies,2019,7692,0.889,"8,653",D & above
+Highers (SCQF level 6),Modern Studies,2019,961,0.111,"8,653",U
+Highers (SCQF level 6),Music,2019,2301,0.45399999999999996,"5,067",A
+Highers (SCQF level 6),Music,2019,3822,0.754,"5,067",B & above
+Highers (SCQF level 6),Music,2019,4663,0.92,"5,067",C & above
+Highers (SCQF level 6),Music,2019,4964,0.98,"5,067",D & above
+Highers (SCQF level 6),Music,2019,103,0.02,"5,067",U
+Highers (SCQF level 6),Music Technology,2019,172,0.223,772,A
+Highers (SCQF level 6),Music Technology,2019,401,0.519,772,B & above
+Highers (SCQF level 6),Music Technology,2019,604,0.782,772,C & above
+Highers (SCQF level 6),Music Technology,2019,727,0.9420000000000001,772,D & above
+Highers (SCQF level 6),Music Technology,2019,45,0.057999999999999996,772,U
+Highers (SCQF level 6),Philosophy,2019,179,0.273,656,A
+Highers (SCQF level 6),Philosophy,2019,306,0.466,656,B & above
+Highers (SCQF level 6),Philosophy,2019,419,0.639,656,C & above
+Highers (SCQF level 6),Philosophy,2019,530,0.8079999999999999,656,D & above
+Highers (SCQF level 6),Philosophy,2019,126,0.192,656,U
+Highers (SCQF level 6),Photography,2019,524,0.212,"2,473",A
+Highers (SCQF level 6),Photography,2019,1237,0.5,"2,473",B & above
+Highers (SCQF level 6),Photography,2019,1935,0.782,"2,473",C & above
+Highers (SCQF level 6),Photography,2019,2259,0.9129999999999999,"2,473",D & above
+Highers (SCQF level 6),Photography,2019,214,0.087,"2,473",U
+Highers (SCQF level 6),Physical Education,2019,2717,0.275,"9,896",A
+Highers (SCQF level 6),Physical Education,2019,5951,0.601,"9,896",B & above
+Highers (SCQF level 6),Physical Education,2019,8699,0.879,"9,896",C & above
+Highers (SCQF level 6),Physical Education,2019,9664,0.977,"9,896",D & above
+Highers (SCQF level 6),Physical Education,2019,232,0.023,"9,896",U
+Highers (SCQF level 6),Physics,2019,2390,0.287,"8,325",A
+Highers (SCQF level 6),Physics,2019,4378,0.526,"8,325",B & above
+Highers (SCQF level 6),Physics,2019,6239,0.7490000000000001,"8,325",C & above
+Highers (SCQF level 6),Physics,2019,7565,0.909,"8,325",D & above
+Highers (SCQF level 6),Physics,2019,760,0.091,"8,325",U
+Highers (SCQF level 6),Politics,2019,417,0.344,"1,213",A
+Highers (SCQF level 6),Politics,2019,779,0.642,"1,213",B & above
+Highers (SCQF level 6),Politics,2019,1016,0.838,"1,213",C & above
+Highers (SCQF level 6),Politics,2019,1132,0.9329999999999999,"1,213",D & above
+Highers (SCQF level 6),Politics,2019,81,0.067,"1,213",U
+Highers (SCQF level 6),Psychology,2019,392,0.115,"3,410",A
+Highers (SCQF level 6),Psychology,2019,875,0.257,"3,410",B & above
+Highers (SCQF level 6),Psychology,2019,1520,0.446,"3,410",C & above
+Highers (SCQF level 6),Psychology,2019,2204,0.6459999999999999,"3,410",D & above
+Highers (SCQF level 6),Psychology,2019,1206,0.354,"3,410",U
+Highers (SCQF level 6),"Religious, Moral and Philosophical Studies",2019,1037,0.28800000000000003,"3,598",A
+Highers (SCQF level 6),"Religious, Moral and Philosophical Studies",2019,1811,0.503,"3,598",B & above
+Highers (SCQF level 6),"Religious, Moral and Philosophical Studies",2019,2485,0.691,"3,598",C & above
+Highers (SCQF level 6),"Religious, Moral and Philosophical Studies",2019,2993,0.8320000000000001,"3,598",D & above
+Highers (SCQF level 6),"Religious, Moral and Philosophical Studies",2019,605,0.168,"3,598",U
+Highers (SCQF level 6),Sociology,2019,188,0.203,927,A
+Highers (SCQF level 6),Sociology,2019,362,0.391,927,B & above
+Highers (SCQF level 6),Sociology,2019,548,0.591,927,C & above
+Highers (SCQF level 6),Sociology,2019,697,0.752,927,D & above
+Highers (SCQF level 6),Sociology,2019,230,0.248,927,U
+Highers (SCQF level 6),Spanish,2019,1439,0.47100000000000003,"3,054",A
+Highers (SCQF level 6),Spanish,2019,2029,0.664,"3,054",B & above
+Highers (SCQF level 6),Spanish,2019,2543,0.833,"3,054",C & above
+Highers (SCQF level 6),Spanish,2019,2864,0.938,"3,054",D & above
+Highers (SCQF level 6),Spanish,2019,190,0.062,"3,054",U
+Highers (SCQF level 6),Urdu,2019,75,0.815,92,A
+Highers (SCQF level 6),Urdu,2019,86,0.935,92,B & above
+Highers (SCQF level 6),Urdu,2019,90,0.978,92,C & above
+Highers (SCQF level 6),Urdu,2019,91,0.9890000000000001,92,D & above
+Highers (SCQF level 6),Urdu,2019,1,0.011000000000000001,92,U
+Highers (SCQF level 6),All subjects,2019,52564,0.28300000000000003,"185,914",A
+Highers (SCQF level 6),All subjects,2019,97303,0.523,"185,914",B & above
+Highers (SCQF level 6),All subjects,2019,138972,0.748,"185,914",C & above
+Highers (SCQF level 6),All subjects,2019,167156,0.899,"185,914",D & above
+Highers (SCQF level 6),All subjects,2019,18758,0.10099999999999999,"185,914",U
+Highers (SCQF level 6),Accounting,2018,442,0.35200000000000004,"1,254",A
+Highers (SCQF level 6),Accounting,2018,728,0.581,"1,254",B & above
+Highers (SCQF level 6),Accounting,2018,968,0.772,"1,254",C & above
+Highers (SCQF level 6),Accounting,2018,1049,0.8370000000000001,"1,254",D & above
+Highers (SCQF level 6),Accounting,2018,205,0.163,"1,254",U
+Highers (SCQF level 6),Administration and IT,2018,1215,0.3,"4,052",A
+Highers (SCQF level 6),Administration and IT,2018,2368,0.584,"4,052",B & above
+Highers (SCQF level 6),Administration and IT,2018,3161,0.78,"4,052",C & above
+Highers (SCQF level 6),Administration and IT,2018,3500,0.8640000000000001,"4,052",D & above
+Highers (SCQF level 6),Administration and IT,2018,552,0.136,"4,052",U
+Highers (SCQF level 6),Art and Design,2018,1487,0.281,"5,299",A
+Highers (SCQF level 6),Art and Design,2018,3007,0.5670000000000001,"5,299",B & above
+Highers (SCQF level 6),Art and Design,2018,4446,0.8390000000000001,"5,299",C & above
+Highers (SCQF level 6),Art and Design,2018,4907,0.9259999999999999,"5,299",D & above
+Highers (SCQF level 6),Art and Design,2018,392,0.07400000000000001,"5,299",U
+Highers (SCQF level 6),Biology,2018,1842,0.252,"7,305",A
+Highers (SCQF level 6),Biology,2018,3592,0.49200000000000005,"7,305",B & above
+Highers (SCQF level 6),Biology,2018,5364,0.7340000000000001,"7,305",C & above
+Highers (SCQF level 6),Biology,2018,6059,0.8290000000000001,"7,305",D & above
+Highers (SCQF level 6),Biology,2018,1246,0.171,"7,305",U
+Highers (SCQF level 6),Business Management,2018,2753,0.314,"8,756",A
+Highers (SCQF level 6),Business Management,2018,5106,0.583,"8,756",B & above
+Highers (SCQF level 6),Business Management,2018,6858,0.7829999999999999,"8,756",C & above
+Highers (SCQF level 6),Business Management,2018,7499,0.856,"8,756",D & above
+Highers (SCQF level 6),Business Management,2018,1257,0.14400000000000002,"8,756",U
+Highers (SCQF level 6),Care,2018,143,0.111,"1,285",A
+Highers (SCQF level 6),Care,2018,361,0.281,"1,285",B & above
+Highers (SCQF level 6),Care,2018,705,0.5489999999999999,"1,285",C & above
+Highers (SCQF level 6),Care,2018,866,0.674,"1,285",D & above
+Highers (SCQF level 6),Care,2018,419,0.326,"1,285",U
+Highers (SCQF level 6),Chemistry,2018,2830,0.28300000000000003,"9,990",A
+Highers (SCQF level 6),Chemistry,2018,5355,0.536,"9,990",B & above
+Highers (SCQF level 6),Chemistry,2018,7655,0.7659999999999999,"9,990",C & above
+Highers (SCQF level 6),Chemistry,2018,8600,0.861,"9,990",D & above
+Highers (SCQF level 6),Chemistry,2018,1390,0.139,"9,990",U
+Highers (SCQF level 6),Childcare and Development,2018,109,0.142,767,A
+Highers (SCQF level 6),Childcare and Development,2018,309,0.40299999999999997,767,B & above
+Highers (SCQF level 6),Childcare and Development,2018,528,0.688,767,C & above
+Highers (SCQF level 6),Childcare and Development,2018,592,0.772,767,D & above
+Highers (SCQF level 6),Childcare and Development,2018,175,0.228,767,U
+Highers (SCQF level 6),Chinese Languages,2018,93,0.612,152,A
+Highers (SCQF level 6),Chinese Languages,2018,113,0.743,152,B & above
+Highers (SCQF level 6),Chinese Languages,2018,125,0.8220000000000001,152,C & above
+Highers (SCQF level 6),Chinese Languages,2018,130,0.855,152,D & above
+Highers (SCQF level 6),Chinese Languages,2018,22,0.145,152,U
+Highers (SCQF level 6),Classical Studies,2018,149,0.373,400,A
+Highers (SCQF level 6),Classical Studies,2018,239,0.598,400,B & above
+Highers (SCQF level 6),Classical Studies,2018,324,0.81,400,C & above
+Highers (SCQF level 6),Classical Studies,2018,359,0.898,400,D & above
+Highers (SCQF level 6),Classical Studies,2018,41,0.10300000000000001,400,U
+Highers (SCQF level 6),Computing Science,2018,840,0.205,"4,099",A
+Highers (SCQF level 6),Computing Science,2018,1799,0.439,"4,099",B & above
+Highers (SCQF level 6),Computing Science,2018,2816,0.687,"4,099",C & above
+Highers (SCQF level 6),Computing Science,2018,3327,0.812,"4,099",D & above
+Highers (SCQF level 6),Computing Science,2018,772,0.188,"4,099",U
+Highers (SCQF level 6),Dance,2018,246,0.534,461,A
+Highers (SCQF level 6),Dance,2018,372,0.807,461,B & above
+Highers (SCQF level 6),Dance,2018,423,0.9179999999999999,461,C & above
+Highers (SCQF level 6),Dance,2018,428,0.9279999999999999,461,D & above
+Highers (SCQF level 6),Dance,2018,33,0.07200000000000001,461,U
+Highers (SCQF level 6),Design and Manufacture,2018,403,0.14300000000000002,"2,820",A
+Highers (SCQF level 6),Design and Manufacture,2018,962,0.341,"2,820",B & above
+Highers (SCQF level 6),Design and Manufacture,2018,1723,0.611,"2,820",C & above
+Highers (SCQF level 6),Design and Manufacture,2018,2072,0.735,"2,820",D & above
+Highers (SCQF level 6),Design and Manufacture,2018,748,0.265,"2,820",U
+Highers (SCQF level 6),Drama,2018,936,0.318,"2,946",A
+Highers (SCQF level 6),Drama,2018,1741,0.591,"2,946",B & above
+Highers (SCQF level 6),Drama,2018,2432,0.826,"2,946",C & above
+Highers (SCQF level 6),Drama,2018,2655,0.9009999999999999,"2,946",D & above
+Highers (SCQF level 6),Drama,2018,291,0.099,"2,946",U
+Highers (SCQF level 6),Economics,2018,307,0.46799999999999997,656,A
+Highers (SCQF level 6),Economics,2018,464,0.7070000000000001,656,B & above
+Highers (SCQF level 6),Economics,2018,557,0.8490000000000001,656,C & above
+Highers (SCQF level 6),Economics,2018,592,0.902,656,D & above
+Highers (SCQF level 6),Economics,2018,64,0.098,656,U
+Highers (SCQF level 6),Engineering Science,2018,227,0.22399999999999998,"1,014",A
+Highers (SCQF level 6),Engineering Science,2018,485,0.478,"1,014",B & above
+Highers (SCQF level 6),Engineering Science,2018,704,0.6940000000000001,"1,014",C & above
+Highers (SCQF level 6),Engineering Science,2018,816,0.805,"1,014",D & above
+Highers (SCQF level 6),Engineering Science,2018,198,0.195,"1,014",U
+Highers (SCQF level 6),English,2018,8462,0.23399999999999999,"36,185",A
+Highers (SCQF level 6),English,2018,18004,0.498,"36,185",B & above
+Highers (SCQF level 6),English,2018,27482,0.759,"36,185",C & above
+Highers (SCQF level 6),English,2018,31347,0.866,"36,185",D & above
+Highers (SCQF level 6),English,2018,4838,0.134,"36,185",U
+Highers (SCQF level 6),English for Speakers of Other Languages,2018,291,0.39799999999999996,732,A
+Highers (SCQF level 6),English for Speakers of Other Languages,2018,521,0.7120000000000001,732,B & above
+Highers (SCQF level 6),English for Speakers of Other Languages,2018,657,0.898,732,C & above
+Highers (SCQF level 6),English for Speakers of Other Languages,2018,685,0.9359999999999999,732,D & above
+Highers (SCQF level 6),English for Speakers of Other Languages,2018,47,0.064,732,U
+Highers (SCQF level 6),Environmental Science,2018,81,0.191,423,A
+Highers (SCQF level 6),Environmental Science,2018,184,0.435,423,B & above
+Highers (SCQF level 6),Environmental Science,2018,274,0.648,423,C & above
+Highers (SCQF level 6),Environmental Science,2018,317,0.7490000000000001,423,D & above
+Highers (SCQF level 6),Environmental Science,2018,106,0.251,423,U
+Highers (SCQF level 6),Fashion and Textile Technology,2018,90,0.243,370,A
+Highers (SCQF level 6),Fashion and Textile Technology,2018,209,0.565,370,B & above
+Highers (SCQF level 6),Fashion and Textile Technology,2018,302,0.816,370,C & above
+Highers (SCQF level 6),Fashion and Textile Technology,2018,331,0.895,370,D & above
+Highers (SCQF level 6),Fashion and Textile Technology,2018,39,0.105,370,U
+Highers (SCQF level 6),French,2018,1631,0.431,"3,780",A
+Highers (SCQF level 6),French,2018,2552,0.675,"3,780",B & above
+Highers (SCQF level 6),French,2018,3301,0.873,"3,780",C & above
+Highers (SCQF level 6),French,2018,3535,0.935,"3,780",D & above
+Highers (SCQF level 6),French,2018,245,0.065,"3,780",U
+Highers (SCQF level 6),Gaelic (Learners),2018,31,0.413,75,A
+Highers (SCQF level 6),Gaelic (Learners),2018,48,0.64,75,B & above
+Highers (SCQF level 6),Gaelic (Learners),2018,62,0.8270000000000001,75,C & above
+Highers (SCQF level 6),Gaelic (Learners),2018,65,0.867,75,D & above
+Highers (SCQF level 6),Gaelic (Learners),2018,10,0.133,75,U
+Highers (SCQF level 6),Gàidhlig,2018,61,0.469,130,A
+Highers (SCQF level 6),Gàidhlig,2018,99,0.762,130,B & above
+Highers (SCQF level 6),Gàidhlig,2018,118,0.9079999999999999,130,C & above
+Highers (SCQF level 6),Gàidhlig,2018,123,0.946,130,D & above
+Highers (SCQF level 6),Gàidhlig,2018,7,0.054000000000000006,130,U
+Highers (SCQF level 6),Geography,2018,1989,0.271,"7,329",A
+Highers (SCQF level 6),Geography,2018,3658,0.499,"7,329",B & above
+Highers (SCQF level 6),Geography,2018,5383,0.7340000000000001,"7,329",C & above
+Highers (SCQF level 6),Geography,2018,6017,0.821,"7,329",D & above
+Highers (SCQF level 6),Geography,2018,1312,0.179,"7,329",U
+Highers (SCQF level 6),German,2018,401,0.491,817,A
+Highers (SCQF level 6),German,2018,592,0.725,817,B & above
+Highers (SCQF level 6),German,2018,725,0.887,817,C & above
+Highers (SCQF level 6),German,2018,773,0.946,817,D & above
+Highers (SCQF level 6),German,2018,44,0.054000000000000006,817,U
+Highers (SCQF level 6),Graphic Communication,2018,826,0.2,"4,134",A
+Highers (SCQF level 6),Graphic Communication,2018,1970,0.47700000000000004,"4,134",B & above
+Highers (SCQF level 6),Graphic Communication,2018,3126,0.7559999999999999,"4,134",C & above
+Highers (SCQF level 6),Graphic Communication,2018,3521,0.852,"4,134",D & above
+Highers (SCQF level 6),Graphic Communication,2018,613,0.14800000000000002,"4,134",U
+Highers (SCQF level 6),Health and Food Technology,2018,163,0.11900000000000001,"1,375",A
+Highers (SCQF level 6),Health and Food Technology,2018,466,0.33899999999999997,"1,375",B & above
+Highers (SCQF level 6),Health and Food Technology,2018,866,0.63,"1,375",C & above
+Highers (SCQF level 6),Health and Food Technology,2018,1040,0.7559999999999999,"1,375",D & above
+Highers (SCQF level 6),Health and Food Technology,2018,335,0.244,"1,375",U
+Highers (SCQF level 6),History,2018,3177,0.309,"10,296",A
+Highers (SCQF level 6),History,2018,6235,0.606,"10,296",B & above
+Highers (SCQF level 6),History,2018,8506,0.826,"10,296",C & above
+Highers (SCQF level 6),History,2018,9223,0.8959999999999999,"10,296",D & above
+Highers (SCQF level 6),History,2018,1073,0.10400000000000001,"10,296",U
+Highers (SCQF level 6),Human Biology,2018,1387,0.23399999999999999,"5,937",A
+Highers (SCQF level 6),Human Biology,2018,2788,0.47,"5,937",B & above
+Highers (SCQF level 6),Human Biology,2018,4145,0.698,"5,937",C & above
+Highers (SCQF level 6),Human Biology,2018,4807,0.81,"5,937",D & above
+Highers (SCQF level 6),Human Biology,2018,1130,0.19,"5,937",U
+Highers (SCQF level 6),Italian,2018,162,0.643,252,A
+Highers (SCQF level 6),Italian,2018,206,0.8170000000000001,252,B & above
+Highers (SCQF level 6),Italian,2018,231,0.917,252,C & above
+Highers (SCQF level 6),Italian,2018,242,0.96,252,D & above
+Highers (SCQF level 6),Italian,2018,10,0.04,252,U
+Highers (SCQF level 6),Latin,2018,172,0.7609999999999999,226,A
+Highers (SCQF level 6),Latin,2018,198,0.8759999999999999,226,B & above
+Highers (SCQF level 6),Latin,2018,214,0.9470000000000001,226,C & above
+Highers (SCQF level 6),Latin,2018,219,0.9690000000000001,226,D & above
+Highers (SCQF level 6),Latin,2018,7,0.031,226,U
+Highers (SCQF level 6),Mathematics,2018,6282,0.335,"18,753",A
+Highers (SCQF level 6),Mathematics,2018,10344,0.552,"18,753",B & above
+Highers (SCQF level 6),Mathematics,2018,13973,0.745,"18,753",C & above
+Highers (SCQF level 6),Mathematics,2018,15415,0.8220000000000001,"18,753",D & above
+Highers (SCQF level 6),Mathematics,2018,3338,0.17800000000000002,"18,753",U
+Highers (SCQF level 6),Media,2018,176,0.166,"1,061",A
+Highers (SCQF level 6),Media,2018,437,0.41200000000000003,"1,061",B & above
+Highers (SCQF level 6),Media,2018,696,0.6559999999999999,"1,061",C & above
+Highers (SCQF level 6),Media,2018,830,0.782,"1,061",D & above
+Highers (SCQF level 6),Media,2018,231,0.218,"1,061",U
+Highers (SCQF level 6),Modern Studies,2018,2971,0.318,"9,334",A
+Highers (SCQF level 6),Modern Studies,2018,5118,0.5479999999999999,"9,334",B & above
+Highers (SCQF level 6),Modern Studies,2018,7083,0.759,"9,334",C & above
+Highers (SCQF level 6),Modern Studies,2018,7782,0.8340000000000001,"9,334",D & above
+Highers (SCQF level 6),Modern Studies,2018,1552,0.166,"9,334",U
+Highers (SCQF level 6),Music,2018,2756,0.545,"5,061",A
+Highers (SCQF level 6),Music,2018,4092,0.809,"5,061",B & above
+Highers (SCQF level 6),Music,2018,4789,0.946,"5,061",C & above
+Highers (SCQF level 6),Music,2018,4925,0.973,"5,061",D & above
+Highers (SCQF level 6),Music,2018,136,0.027000000000000003,"5,061",U
+Highers (SCQF level 6),Music Technology,2018,265,0.396,669,A
+Highers (SCQF level 6),Music Technology,2018,419,0.626,669,B & above
+Highers (SCQF level 6),Music Technology,2018,564,0.843,669,C & above
+Highers (SCQF level 6),Music Technology,2018,608,0.909,669,D & above
+Highers (SCQF level 6),Music Technology,2018,61,0.091,669,U
+Highers (SCQF level 6),Philosophy,2018,171,0.23,742,A
+Highers (SCQF level 6),Philosophy,2018,326,0.439,742,B & above
+Highers (SCQF level 6),Philosophy,2018,461,0.621,742,C & above
+Highers (SCQF level 6),Philosophy,2018,548,0.7390000000000001,742,D & above
+Highers (SCQF level 6),Philosophy,2018,194,0.261,742,U
+Highers (SCQF level 6),Photography,2018,657,0.284,"2,312",A
+Highers (SCQF level 6),Photography,2018,1325,0.573,"2,312",B & above
+Highers (SCQF level 6),Photography,2018,2002,0.866,"2,312",C & above
+Highers (SCQF level 6),Photography,2018,2149,0.929,"2,312",D & above
+Highers (SCQF level 6),Photography,2018,163,0.071,"2,312",U
+Highers (SCQF level 6),Physical Education,2018,2536,0.251,"10,090",A
+Highers (SCQF level 6),Physical Education,2018,5926,0.5870000000000001,"10,090",B & above
+Highers (SCQF level 6),Physical Education,2018,8767,0.8690000000000001,"10,090",C & above
+Highers (SCQF level 6),Physical Education,2018,9487,0.94,"10,090",D & above
+Highers (SCQF level 6),Physical Education,2018,603,0.06,"10,090",U
+Highers (SCQF level 6),Physics,2018,2320,0.28,"8,280",A
+Highers (SCQF level 6),Physics,2018,4352,0.526,"8,280",B & above
+Highers (SCQF level 6),Physics,2018,6271,0.757,"8,280",C & above
+Highers (SCQF level 6),Physics,2018,6988,0.8440000000000001,"8,280",D & above
+Highers (SCQF level 6),Physics,2018,1292,0.156,"8,280",U
+Highers (SCQF level 6),Politics,2018,364,0.3,"1,214",A
+Highers (SCQF level 6),Politics,2018,629,0.518,"1,214",B & above
+Highers (SCQF level 6),Politics,2018,872,0.718,"1,214",C & above
+Highers (SCQF level 6),Politics,2018,976,0.804,"1,214",D & above
+Highers (SCQF level 6),Politics,2018,238,0.196,"1,214",U
+Highers (SCQF level 6),Psychology,2018,470,0.134,"3,495",A
+Highers (SCQF level 6),Psychology,2018,1174,0.336,"3,495",B & above
+Highers (SCQF level 6),Psychology,2018,2012,0.5760000000000001,"3,495",C & above
+Highers (SCQF level 6),Psychology,2018,2479,0.7090000000000001,"3,495",D & above
+Highers (SCQF level 6),Psychology,2018,1016,0.29100000000000004,"3,495",U
+Highers (SCQF level 6),"Religious, Moral and Philosophical Studies",2018,1146,0.313,"3,658",A
+Highers (SCQF level 6),"Religious, Moral and Philosophical Studies",2018,1955,0.534,"3,658",B & above
+Highers (SCQF level 6),"Religious, Moral and Philosophical Studies",2018,2662,0.728,"3,658",C & above
+Highers (SCQF level 6),"Religious, Moral and Philosophical Studies",2018,2951,0.807,"3,658",D & above
+Highers (SCQF level 6),"Religious, Moral and Philosophical Studies",2018,707,0.193,"3,658",U
+Highers (SCQF level 6),Sociology,2018,176,0.165,"1,067",A
+Highers (SCQF level 6),Sociology,2018,394,0.369,"1,067",B & above
+Highers (SCQF level 6),Sociology,2018,649,0.608,"1,067",C & above
+Highers (SCQF level 6),Sociology,2018,790,0.74,"1,067",D & above
+Highers (SCQF level 6),Sociology,2018,277,0.26,"1,067",U
+Highers (SCQF level 6),Spanish,2018,1257,0.45,"2,795",A
+Highers (SCQF level 6),Spanish,2018,1878,0.672,"2,795",B & above
+Highers (SCQF level 6),Spanish,2018,2338,0.836,"2,795",C & above
+Highers (SCQF level 6),Spanish,2018,2519,0.9009999999999999,"2,795",D & above
+Highers (SCQF level 6),Spanish,2018,276,0.099,"2,795",U
+Highers (SCQF level 6),Urdu,2018,83,0.8059999999999999,103,A
+Highers (SCQF level 6),Urdu,2018,93,0.903,103,B & above
+Highers (SCQF level 6),Urdu,2018,99,0.961,103,C & above
+Highers (SCQF level 6),Urdu,2018,101,0.981,103,D & above
+Highers (SCQF level 6),Urdu,2018,2,0.019,103,U
+Highers (SCQF level 6),All subjects,2018,54576,0.284,"191,951",A
+Highers (SCQF level 6),All subjects,2018,103193,0.5379999999999999,"191,951",B & above
+Highers (SCQF level 6),All subjects,2018,147419,0.768,"191,951",C & above
+Highers (SCQF level 6),All subjects,2018,164244,0.856,"191,951",D & above
+Highers (SCQF level 6),All subjects,2018,27707,0.14400000000000002,"191,951",U
+Advanced highers (SCQF level 7),Accounting,2019,25,0.391,64,A
+Advanced highers (SCQF level 7),Accounting,2019,40,0.625,64,B & above
+Advanced highers (SCQF level 7),Accounting,2019,56,0.875,64,C & above
+Advanced highers (SCQF level 7),Accounting,2019,62,0.9690000000000001,64,D & above
+Advanced highers (SCQF level 7),Accounting,2019,2,0.031,64,U
+Advanced highers (SCQF level 7),Art and Design (Design),2019,186,0.36700000000000005,507,A
+Advanced highers (SCQF level 7),Art and Design (Design),2019,327,0.645,507,B & above
+Advanced highers (SCQF level 7),Art and Design (Design),2019,464,0.915,507,C & above
+Advanced highers (SCQF level 7),Art and Design (Design),2019,488,0.963,507,D & above
+Advanced highers (SCQF level 7),Art and Design (Design),2019,19,0.037000000000000005,507,U
+Advanced highers (SCQF level 7),Art and Design (Expressive),2019,280,0.299,937,A
+Advanced highers (SCQF level 7),Art and Design (Expressive),2019,570,0.608,937,B & above
+Advanced highers (SCQF level 7),Art and Design (Expressive),2019,850,0.907,937,C & above
+Advanced highers (SCQF level 7),Art and Design (Expressive),2019,910,0.971,937,D & above
+Advanced highers (SCQF level 7),Art and Design (Expressive),2019,27,0.028999999999999998,937,U
+Advanced highers (SCQF level 7),Biology,2019,569,0.24600000000000002,"2,314",A
+Advanced highers (SCQF level 7),Biology,2019,1140,0.493,"2,314",B & above
+Advanced highers (SCQF level 7),Biology,2019,1715,0.741,"2,314",C & above
+Advanced highers (SCQF level 7),Biology,2019,2000,0.8640000000000001,"2,314",D & above
+Advanced highers (SCQF level 7),Biology,2019,314,0.136,"2,314",U
+Advanced highers (SCQF level 7),Business Management,2019,115,0.254,453,A
+Advanced highers (SCQF level 7),Business Management,2019,229,0.506,453,B & above
+Advanced highers (SCQF level 7),Business Management,2019,346,0.764,453,C & above
+Advanced highers (SCQF level 7),Business Management,2019,387,0.8540000000000001,453,D & above
+Advanced highers (SCQF level 7),Business Management,2019,66,0.146,453,U
+Advanced highers (SCQF level 7),Chemistry,2019,828,0.33799999999999997,"2,452",A
+Advanced highers (SCQF level 7),Chemistry,2019,1472,0.6,"2,452",B & above
+Advanced highers (SCQF level 7),Chemistry,2019,2016,0.8220000000000001,"2,452",C & above
+Advanced highers (SCQF level 7),Chemistry,2019,2196,0.8959999999999999,"2,452",D & above
+Advanced highers (SCQF level 7),Chemistry,2019,256,0.10400000000000001,"2,452",U
+Advanced highers (SCQF level 7),Chinese Languages,2019,51,0.836,61,A
+Advanced highers (SCQF level 7),Chinese Languages,2019,57,0.934,61,B & above
+Advanced highers (SCQF level 7),Chinese Languages,2019,61,1,61,C & above
+Advanced highers (SCQF level 7),Chinese Languages,2019,61,1,61,D & above
+Advanced highers (SCQF level 7),Chinese Languages,2019,0,0,61,U
+Advanced highers (SCQF level 7),Classical Studies,2019,14,0.368,38,A
+Advanced highers (SCQF level 7),Classical Studies,2019,31,0.816,38,B & above
+Advanced highers (SCQF level 7),Classical Studies,2019,38,1,38,C & above
+Advanced highers (SCQF level 7),Classical Studies,2019,38,1,38,D & above
+Advanced highers (SCQF level 7),Classical Studies,2019,0,0,38,U
+Advanced highers (SCQF level 7),Computing Science,2019,148,0.24100000000000002,614,A
+Advanced highers (SCQF level 7),Computing Science,2019,275,0.44799999999999995,614,B & above
+Advanced highers (SCQF level 7),Computing Science,2019,402,0.655,614,C & above
+Advanced highers (SCQF level 7),Computing Science,2019,463,0.754,614,D & above
+Advanced highers (SCQF level 7),Computing Science,2019,151,0.24600000000000002,614,U
+Advanced highers (SCQF level 7),Design and Manufacture,2019,6,0.076,79,A
+Advanced highers (SCQF level 7),Design and Manufacture,2019,26,0.32899999999999996,79,B & above
+Advanced highers (SCQF level 7),Design and Manufacture,2019,51,0.6459999999999999,79,C & above
+Advanced highers (SCQF level 7),Design and Manufacture,2019,62,0.785,79,D & above
+Advanced highers (SCQF level 7),Design and Manufacture,2019,17,0.215,79,U
+Advanced highers (SCQF level 7),Drama,2019,125,0.221,566,A
+Advanced highers (SCQF level 7),Drama,2019,296,0.523,566,B & above
+Advanced highers (SCQF level 7),Drama,2019,461,0.8140000000000001,566,C & above
+Advanced highers (SCQF level 7),Drama,2019,511,0.903,566,D & above
+Advanced highers (SCQF level 7),Drama,2019,55,0.09699999999999999,566,U
+Advanced highers (SCQF level 7),Economics,2019,58,0.542,107,A
+Advanced highers (SCQF level 7),Economics,2019,81,0.757,107,B & above
+Advanced highers (SCQF level 7),Economics,2019,100,0.935,107,C & above
+Advanced highers (SCQF level 7),Economics,2019,103,0.963,107,D & above
+Advanced highers (SCQF level 7),Economics,2019,4,0.037000000000000005,107,U
+Advanced highers (SCQF level 7),Engineering Science,2019,9,0.25,36,A
+Advanced highers (SCQF level 7),Engineering Science,2019,16,0.444,36,B & above
+Advanced highers (SCQF level 7),Engineering Science,2019,30,0.833,36,C & above
+Advanced highers (SCQF level 7),Engineering Science,2019,34,0.9440000000000001,36,D & above
+Advanced highers (SCQF level 7),Engineering Science,2019,2,0.055999999999999994,36,U
+Advanced highers (SCQF level 7),English,2019,485,0.207,"2,347",A
+Advanced highers (SCQF level 7),English,2019,1114,0.475,"2,347",B & above
+Advanced highers (SCQF level 7),English,2019,1841,0.784,"2,347",C & above
+Advanced highers (SCQF level 7),English,2019,2119,0.903,"2,347",D & above
+Advanced highers (SCQF level 7),English,2019,228,0.09699999999999999,"2,347",U
+Advanced highers (SCQF level 7),French,2019,238,0.395,603,A
+Advanced highers (SCQF level 7),French,2019,348,0.5770000000000001,603,B & above
+Advanced highers (SCQF level 7),French,2019,467,0.774,603,C & above
+Advanced highers (SCQF level 7),French,2019,502,0.833,603,D & above
+Advanced highers (SCQF level 7),French,2019,101,0.16699999999999998,603,U
+Advanced highers (SCQF level 7),Gaelic (Learners),2019,5,0.25,20,A
+Advanced highers (SCQF level 7),Gaelic (Learners),2019,13,0.65,20,B & above
+Advanced highers (SCQF level 7),Gaelic (Learners),2019,17,0.85,20,C & above
+Advanced highers (SCQF level 7),Gaelic (Learners),2019,19,0.95,20,D & above
+Advanced highers (SCQF level 7),Gaelic (Learners),2019,1,0.05,20,U
+Advanced highers (SCQF level 7),Gàidhlig,2019,13,0.44799999999999995,29,A
+Advanced highers (SCQF level 7),Gàidhlig,2019,21,0.7240000000000001,29,B & above
+Advanced highers (SCQF level 7),Gàidhlig,2019,27,0.9309999999999999,29,C & above
+Advanced highers (SCQF level 7),Gàidhlig,2019,29,1,29,D & above
+Advanced highers (SCQF level 7),Gàidhlig,2019,0,0,29,U
+Advanced highers (SCQF level 7),Geography,2019,186,0.263,708,A
+Advanced highers (SCQF level 7),Geography,2019,422,0.596,708,B & above
+Advanced highers (SCQF level 7),Geography,2019,605,0.855,708,C & above
+Advanced highers (SCQF level 7),Geography,2019,664,0.938,708,D & above
+Advanced highers (SCQF level 7),Geography,2019,44,0.062,708,U
+Advanced highers (SCQF level 7),German,2019,77,0.606,127,A
+Advanced highers (SCQF level 7),German,2019,107,0.843,127,B & above
+Advanced highers (SCQF level 7),German,2019,122,0.961,127,C & above
+Advanced highers (SCQF level 7),German,2019,123,0.9690000000000001,127,D & above
+Advanced highers (SCQF level 7),German,2019,4,0.031,127,U
+Advanced highers (SCQF level 7),Graphic Communication,2019,52,0.10300000000000001,506,A
+Advanced highers (SCQF level 7),Graphic Communication,2019,178,0.35200000000000004,506,B & above
+Advanced highers (SCQF level 7),Graphic Communication,2019,319,0.63,506,C & above
+Advanced highers (SCQF level 7),Graphic Communication,2019,377,0.745,506,D & above
+Advanced highers (SCQF level 7),Graphic Communication,2019,129,0.255,506,U
+Advanced highers (SCQF level 7),Health and Food Technology,2019,1,0.045,22,A
+Advanced highers (SCQF level 7),Health and Food Technology,2019,5,0.22699999999999998,22,B & above
+Advanced highers (SCQF level 7),Health and Food Technology,2019,17,0.773,22,C & above
+Advanced highers (SCQF level 7),Health and Food Technology,2019,18,0.818,22,D & above
+Advanced highers (SCQF level 7),Health and Food Technology,2019,4,0.182,22,U
+Advanced highers (SCQF level 7),History,2019,361,0.284,"1,273",A
+Advanced highers (SCQF level 7),History,2019,710,0.5579999999999999,"1,273",B & above
+Advanced highers (SCQF level 7),History,2019,1013,0.7959999999999999,"1,273",C & above
+Advanced highers (SCQF level 7),History,2019,1124,0.883,"1,273",D & above
+Advanced highers (SCQF level 7),History,2019,149,0.11699999999999999,"1,273",U
+Advanced highers (SCQF level 7),Italian,2019,17,0.63,27,A
+Advanced highers (SCQF level 7),Italian,2019,21,0.778,27,B & above
+Advanced highers (SCQF level 7),Italian,2019,23,0.852,27,C & above
+Advanced highers (SCQF level 7),Italian,2019,25,0.9259999999999999,27,D & above
+Advanced highers (SCQF level 7),Italian,2019,2,0.07400000000000001,27,U
+Advanced highers (SCQF level 7),Latin,2019,20,0.33899999999999997,59,A
+Advanced highers (SCQF level 7),Latin,2019,30,0.508,59,B & above
+Advanced highers (SCQF level 7),Latin,2019,44,0.746,59,C & above
+Advanced highers (SCQF level 7),Latin,2019,47,0.797,59,D & above
+Advanced highers (SCQF level 7),Latin,2019,12,0.203,59,U
+Advanced highers (SCQF level 7),Mathematics,2019,1379,0.37200000000000005,"3,706",A
+Advanced highers (SCQF level 7),Mathematics,2019,2151,0.58,"3,706",B & above
+Advanced highers (SCQF level 7),Mathematics,2019,2795,0.754,"3,706",C & above
+Advanced highers (SCQF level 7),Mathematics,2019,3067,0.828,"3,706",D & above
+Advanced highers (SCQF level 7),Mathematics,2019,639,0.172,"3,706",U
+Advanced highers (SCQF level 7),Mathematics of Mechanics,2019,120,0.408,294,A
+Advanced highers (SCQF level 7),Mathematics of Mechanics,2019,163,0.5539999999999999,294,B & above
+Advanced highers (SCQF level 7),Mathematics of Mechanics,2019,226,0.769,294,C & above
+Advanced highers (SCQF level 7),Mathematics of Mechanics,2019,247,0.84,294,D & above
+Advanced highers (SCQF level 7),Mathematics of Mechanics,2019,47,0.16,294,U
+Advanced highers (SCQF level 7),Modern Studies,2019,231,0.28800000000000003,803,A
+Advanced highers (SCQF level 7),Modern Studies,2019,428,0.5329999999999999,803,B & above
+Advanced highers (SCQF level 7),Modern Studies,2019,611,0.7609999999999999,803,C & above
+Advanced highers (SCQF level 7),Modern Studies,2019,665,0.828,803,D & above
+Advanced highers (SCQF level 7),Modern Studies,2019,138,0.172,803,U
+Advanced highers (SCQF level 7),Music,2019,919,0.541,"1,698",A
+Advanced highers (SCQF level 7),Music,2019,1327,0.782,"1,698",B & above
+Advanced highers (SCQF level 7),Music,2019,1563,0.92,"1,698",C & above
+Advanced highers (SCQF level 7),Music,2019,1625,0.9570000000000001,"1,698",D & above
+Advanced highers (SCQF level 7),Music,2019,73,0.043,"1,698",U
+Advanced highers (SCQF level 7),Music: Portfolio,2019,4,0.444,9,A
+Advanced highers (SCQF level 7),Music: Portfolio,2019,5,0.556,9,B & above
+Advanced highers (SCQF level 7),Music: Portfolio,2019,6,0.667,9,C & above
+Advanced highers (SCQF level 7),Music: Portfolio,2019,8,0.889,9,D & above
+Advanced highers (SCQF level 7),Music: Portfolio,2019,1,0.111,9,U
+Advanced highers (SCQF level 7),Physical Education,2019,117,0.23399999999999999,499,A
+Advanced highers (SCQF level 7),Physical Education,2019,246,0.493,499,B & above
+Advanced highers (SCQF level 7),Physical Education,2019,382,0.7659999999999999,499,C & above
+Advanced highers (SCQF level 7),Physical Education,2019,445,0.892,499,D & above
+Advanced highers (SCQF level 7),Physical Education,2019,54,0.10800000000000001,499,U
+Advanced highers (SCQF level 7),Physics,2019,518,0.315,"1,646",A
+Advanced highers (SCQF level 7),Physics,2019,959,0.583,"1,646",B & above
+Advanced highers (SCQF level 7),Physics,2019,1293,0.7859999999999999,"1,646",C & above
+Advanced highers (SCQF level 7),Physics,2019,1445,0.878,"1,646",D & above
+Advanced highers (SCQF level 7),Physics,2019,201,0.122,"1,646",U
+Advanced highers (SCQF level 7),"Religious, Moral and Philosophical Studies",2019,57,0.326,175,A
+Advanced highers (SCQF level 7),"Religious, Moral and Philosophical Studies",2019,100,0.5710000000000001,175,B & above
+Advanced highers (SCQF level 7),"Religious, Moral and Philosophical Studies",2019,135,0.7709999999999999,175,C & above
+Advanced highers (SCQF level 7),"Religious, Moral and Philosophical Studies",2019,148,0.846,175,D & above
+Advanced highers (SCQF level 7),"Religious, Moral and Philosophical Studies",2019,27,0.154,175,U
+Advanced highers (SCQF level 7),Spanish,2019,174,0.371,469,A
+Advanced highers (SCQF level 7),Spanish,2019,266,0.5670000000000001,469,B & above
+Advanced highers (SCQF level 7),Spanish,2019,366,0.78,469,C & above
+Advanced highers (SCQF level 7),Spanish,2019,404,0.861,469,D & above
+Advanced highers (SCQF level 7),Spanish,2019,65,0.139,469,U
+Advanced highers (SCQF level 7),Statistics,2019,70,0.33,212,A
+Advanced highers (SCQF level 7),Statistics,2019,129,0.608,212,B & above
+Advanced highers (SCQF level 7),Statistics,2019,165,0.778,212,C & above
+Advanced highers (SCQF level 7),Statistics,2019,177,0.835,212,D & above
+Advanced highers (SCQF level 7),Statistics,2019,35,0.165,212,U
+Advanced highers (SCQF level 7),All subjects,2019,7458,0.318,"23,460",A
+Advanced highers (SCQF level 7),All subjects,2019,13303,0.5670000000000001,"23,460",B & above
+Advanced highers (SCQF level 7),All subjects,2019,18627,0.794,"23,460",C & above
+Advanced highers (SCQF level 7),All subjects,2019,20593,0.878,"23,460",D & above
+Advanced highers (SCQF level 7),All subjects,2019,2867,0.122,"23,460",U
+Advanced highers (SCQF level 7),Accounting,2018,31,0.544,57,A
+Advanced highers (SCQF level 7),Accounting,2018,46,0.807,57,B & above
+Advanced highers (SCQF level 7),Accounting,2018,53,0.93,57,C & above
+Advanced highers (SCQF level 7),Accounting,2018,55,0.965,57,D & above
+Advanced highers (SCQF level 7),Accounting,2018,2,0.035,57,U
+Advanced highers (SCQF level 7),Art and Design (Design),2018,151,0.28,540,A
+Advanced highers (SCQF level 7),Art and Design (Design),2018,302,0.5589999999999999,540,B & above
+Advanced highers (SCQF level 7),Art and Design (Design),2018,490,0.907,540,C & above
+Advanced highers (SCQF level 7),Art and Design (Design),2018,526,0.9740000000000001,540,D & above
+Advanced highers (SCQF level 7),Art and Design (Design),2018,14,0.026000000000000002,540,U
+Advanced highers (SCQF level 7),Art and Design (Expressive),2018,255,0.27699999999999997,920,A
+Advanced highers (SCQF level 7),Art and Design (Expressive),2018,531,0.5770000000000001,920,B & above
+Advanced highers (SCQF level 7),Art and Design (Expressive),2018,832,0.904,920,C & above
+Advanced highers (SCQF level 7),Art and Design (Expressive),2018,889,0.966,920,D & above
+Advanced highers (SCQF level 7),Art and Design (Expressive),2018,31,0.034,920,U
+Advanced highers (SCQF level 7),Biology,2018,546,0.235,"2,319",A
+Advanced highers (SCQF level 7),Biology,2018,1129,0.48700000000000004,"2,319",B & above
+Advanced highers (SCQF level 7),Biology,2018,1727,0.745,"2,319",C & above
+Advanced highers (SCQF level 7),Biology,2018,2003,0.8640000000000001,"2,319",D & above
+Advanced highers (SCQF level 7),Biology,2018,316,0.136,"2,319",U
+Advanced highers (SCQF level 7),Business Management,2018,125,0.264,474,A
+Advanced highers (SCQF level 7),Business Management,2018,261,0.551,474,B & above
+Advanced highers (SCQF level 7),Business Management,2018,373,0.787,474,C & above
+Advanced highers (SCQF level 7),Business Management,2018,419,0.884,474,D & above
+Advanced highers (SCQF level 7),Business Management,2018,55,0.11599999999999999,474,U
+Advanced highers (SCQF level 7),Chemistry,2018,815,0.315,"2,591",A
+Advanced highers (SCQF level 7),Chemistry,2018,1529,0.59,"2,591",B & above
+Advanced highers (SCQF level 7),Chemistry,2018,2131,0.8220000000000001,"2,591",C & above
+Advanced highers (SCQF level 7),Chemistry,2018,2341,0.904,"2,591",D & above
+Advanced highers (SCQF level 7),Chemistry,2018,250,0.096,"2,591",U
+Advanced highers (SCQF level 7),Chinese Languages,2018,40,0.741,54,A
+Advanced highers (SCQF level 7),Chinese Languages,2018,43,0.7959999999999999,54,B & above
+Advanced highers (SCQF level 7),Chinese Languages,2018,44,0.815,54,C & above
+Advanced highers (SCQF level 7),Chinese Languages,2018,44,0.815,54,D & above
+Advanced highers (SCQF level 7),Chinese Languages,2018,10,0.185,54,U
+Advanced highers (SCQF level 7),Classical Studies,2018,18,0.38299999999999995,47,A
+Advanced highers (SCQF level 7),Classical Studies,2018,34,0.723,47,B & above
+Advanced highers (SCQF level 7),Classical Studies,2018,43,0.915,47,C & above
+Advanced highers (SCQF level 7),Classical Studies,2018,46,0.9790000000000001,47,D & above
+Advanced highers (SCQF level 7),Classical Studies,2018,1,0.021,47,U
+Advanced highers (SCQF level 7),Computing Science,2018,141,0.222,636,A
+Advanced highers (SCQF level 7),Computing Science,2018,308,0.484,636,B & above
+Advanced highers (SCQF level 7),Computing Science,2018,454,0.7140000000000001,636,C & above
+Advanced highers (SCQF level 7),Computing Science,2018,524,0.8240000000000001,636,D & above
+Advanced highers (SCQF level 7),Computing Science,2018,112,0.17600000000000002,636,U
+Advanced highers (SCQF level 7),Design and Manufacture,2018,7,0.075,93,A
+Advanced highers (SCQF level 7),Design and Manufacture,2018,31,0.33299999999999996,93,B & above
+Advanced highers (SCQF level 7),Design and Manufacture,2018,50,0.5379999999999999,93,C & above
+Advanced highers (SCQF level 7),Design and Manufacture,2018,67,0.72,93,D & above
+Advanced highers (SCQF level 7),Design and Manufacture,2018,26,0.28,93,U
+Advanced highers (SCQF level 7),Drama,2018,159,0.312,509,A
+Advanced highers (SCQF level 7),Drama,2018,296,0.5820000000000001,509,B & above
+Advanced highers (SCQF level 7),Drama,2018,428,0.841,509,C & above
+Advanced highers (SCQF level 7),Drama,2018,472,0.927,509,D & above
+Advanced highers (SCQF level 7),Drama,2018,37,0.073,509,U
+Advanced highers (SCQF level 7),Economics,2018,42,0.43799999999999994,96,A
+Advanced highers (SCQF level 7),Economics,2018,66,0.688,96,B & above
+Advanced highers (SCQF level 7),Economics,2018,90,0.938,96,C & above
+Advanced highers (SCQF level 7),Economics,2018,92,0.958,96,D & above
+Advanced highers (SCQF level 7),Economics,2018,4,0.042,96,U
+Advanced highers (SCQF level 7),Engineering Science,2018,8,0.136,59,A
+Advanced highers (SCQF level 7),Engineering Science,2018,22,0.373,59,B & above
+Advanced highers (SCQF level 7),Engineering Science,2018,40,0.6779999999999999,59,C & above
+Advanced highers (SCQF level 7),Engineering Science,2018,47,0.797,59,D & above
+Advanced highers (SCQF level 7),Engineering Science,2018,12,0.203,59,U
+Advanced highers (SCQF level 7),English,2018,644,0.259,"2,485",A
+Advanced highers (SCQF level 7),English,2018,1350,0.5429999999999999,"2,485",B & above
+Advanced highers (SCQF level 7),English,2018,2019,0.812,"2,485",C & above
+Advanced highers (SCQF level 7),English,2018,2269,0.9129999999999999,"2,485",D & above
+Advanced highers (SCQF level 7),English,2018,216,0.087,"2,485",U
+Advanced highers (SCQF level 7),French,2018,276,0.433,638,A
+Advanced highers (SCQF level 7),French,2018,443,0.6940000000000001,638,B & above
+Advanced highers (SCQF level 7),French,2018,556,0.871,638,C & above
+Advanced highers (SCQF level 7),French,2018,592,0.9279999999999999,638,D & above
+Advanced highers (SCQF level 7),French,2018,46,0.07200000000000001,638,U
+Advanced highers (SCQF level 7),Gaelic (Learners),2018,5,0.455,11,A
+Advanced highers (SCQF level 7),Gaelic (Learners),2018,8,0.727,11,B & above
+Advanced highers (SCQF level 7),Gaelic (Learners),2018,11,1,11,C & above
+Advanced highers (SCQF level 7),Gaelic (Learners),2018,11,1,11,D & above
+Advanced highers (SCQF level 7),Gaelic (Learners),2018,0,0,11,U
+Advanced highers (SCQF level 7),Gàidhlig,2018,18,0.6,30,A
+Advanced highers (SCQF level 7),Gàidhlig,2018,22,0.733,30,B & above
+Advanced highers (SCQF level 7),Gàidhlig,2018,26,0.867,30,C & above
+Advanced highers (SCQF level 7),Gàidhlig,2018,28,0.9329999999999999,30,D & above
+Advanced highers (SCQF level 7),Gàidhlig,2018,2,0.067,30,U
+Advanced highers (SCQF level 7),Geography,2018,218,0.271,803,A
+Advanced highers (SCQF level 7),Geography,2018,501,0.624,803,B & above
+Advanced highers (SCQF level 7),Geography,2018,717,0.893,803,C & above
+Advanced highers (SCQF level 7),Geography,2018,761,0.948,803,D & above
+Advanced highers (SCQF level 7),Geography,2018,42,0.052000000000000005,803,U
+Advanced highers (SCQF level 7),German,2018,81,0.653,124,A
+Advanced highers (SCQF level 7),German,2018,98,0.79,124,B & above
+Advanced highers (SCQF level 7),German,2018,115,0.927,124,C & above
+Advanced highers (SCQF level 7),German,2018,119,0.96,124,D & above
+Advanced highers (SCQF level 7),German,2018,5,0.04,124,U
+Advanced highers (SCQF level 7),Graphic Communication,2018,57,0.109,525,A
+Advanced highers (SCQF level 7),Graphic Communication,2018,191,0.364,525,B & above
+Advanced highers (SCQF level 7),Graphic Communication,2018,348,0.6629999999999999,525,C & above
+Advanced highers (SCQF level 7),Graphic Communication,2018,408,0.777,525,D & above
+Advanced highers (SCQF level 7),Graphic Communication,2018,117,0.223,525,U
+Advanced highers (SCQF level 7),Health and Food Technology,2018,4,0.091,44,A
+Advanced highers (SCQF level 7),Health and Food Technology,2018,14,0.318,44,B & above
+Advanced highers (SCQF level 7),Health and Food Technology,2018,34,0.773,44,C & above
+Advanced highers (SCQF level 7),Health and Food Technology,2018,39,0.8859999999999999,44,D & above
+Advanced highers (SCQF level 7),Health and Food Technology,2018,5,0.114,44,U
+Advanced highers (SCQF level 7),History,2018,461,0.302,"1,525",A
+Advanced highers (SCQF level 7),History,2018,890,0.584,"1,525",B & above
+Advanced highers (SCQF level 7),History,2018,1250,0.82,"1,525",C & above
+Advanced highers (SCQF level 7),History,2018,1362,0.893,"1,525",D & above
+Advanced highers (SCQF level 7),History,2018,163,0.107,"1,525",U
+Advanced highers (SCQF level 7),Italian,2018,30,0.833,36,A
+Advanced highers (SCQF level 7),Italian,2018,34,0.9440000000000001,36,B & above
+Advanced highers (SCQF level 7),Italian,2018,34,0.9440000000000001,36,C & above
+Advanced highers (SCQF level 7),Italian,2018,35,0.972,36,D & above
+Advanced highers (SCQF level 7),Italian,2018,1,0.027999999999999997,36,U
+Advanced highers (SCQF level 7),Latin,2018,18,0.409,44,A
+Advanced highers (SCQF level 7),Latin,2018,32,0.727,44,B & above
+Advanced highers (SCQF level 7),Latin,2018,37,0.841,44,C & above
+Advanced highers (SCQF level 7),Latin,2018,40,0.909,44,D & above
+Advanced highers (SCQF level 7),Latin,2018,4,0.091,44,U
+Advanced highers (SCQF level 7),Mathematics,2018,1380,0.375,"3,683",A
+Advanced highers (SCQF level 7),Mathematics,2018,2175,0.591,"3,683",B & above
+Advanced highers (SCQF level 7),Mathematics,2018,2751,0.747,"3,683",C & above
+Advanced highers (SCQF level 7),Mathematics,2018,3006,0.816,"3,683",D & above
+Advanced highers (SCQF level 7),Mathematics,2018,677,0.184,"3,683",U
+Advanced highers (SCQF level 7),Mathematics of Mechanics,2018,152,0.5,304,A
+Advanced highers (SCQF level 7),Mathematics of Mechanics,2018,199,0.655,304,B & above
+Advanced highers (SCQF level 7),Mathematics of Mechanics,2018,243,0.799,304,C & above
+Advanced highers (SCQF level 7),Mathematics of Mechanics,2018,257,0.845,304,D & above
+Advanced highers (SCQF level 7),Mathematics of Mechanics,2018,47,0.155,304,U
+Advanced highers (SCQF level 7),Modern Studies,2018,209,0.249,841,A
+Advanced highers (SCQF level 7),Modern Studies,2018,448,0.5329999999999999,841,B & above
+Advanced highers (SCQF level 7),Modern Studies,2018,657,0.7809999999999999,841,C & above
+Advanced highers (SCQF level 7),Modern Studies,2018,739,0.879,841,D & above
+Advanced highers (SCQF level 7),Modern Studies,2018,102,0.121,841,U
+Advanced highers (SCQF level 7),Music,2018,1039,0.607,"1,712",A
+Advanced highers (SCQF level 7),Music,2018,1414,0.826,"1,712",B & above
+Advanced highers (SCQF level 7),Music,2018,1607,0.9390000000000001,"1,712",C & above
+Advanced highers (SCQF level 7),Music,2018,1650,0.9640000000000001,"1,712",D & above
+Advanced highers (SCQF level 7),Music,2018,62,0.036000000000000004,"1,712",U
+Advanced highers (SCQF level 7),Music: Portfolio,2018,6,0.545,11,A
+Advanced highers (SCQF level 7),Music: Portfolio,2018,8,0.727,11,B & above
+Advanced highers (SCQF level 7),Music: Portfolio,2018,8,0.727,11,C & above
+Advanced highers (SCQF level 7),Music: Portfolio,2018,10,0.909,11,D & above
+Advanced highers (SCQF level 7),Music: Portfolio,2018,1,0.091,11,U
+Advanced highers (SCQF level 7),Physical Education,2018,92,0.214,430,A
+Advanced highers (SCQF level 7),Physical Education,2018,214,0.498,430,B & above
+Advanced highers (SCQF level 7),Physical Education,2018,320,0.7440000000000001,430,C & above
+Advanced highers (SCQF level 7),Physical Education,2018,372,0.865,430,D & above
+Advanced highers (SCQF level 7),Physical Education,2018,58,0.135,430,U
+Advanced highers (SCQF level 7),Physics,2018,578,0.306,"1,891",A
+Advanced highers (SCQF level 7),Physics,2018,1086,0.574,"1,891",B & above
+Advanced highers (SCQF level 7),Physics,2018,1505,0.7959999999999999,"1,891",C & above
+Advanced highers (SCQF level 7),Physics,2018,1661,0.878,"1,891",D & above
+Advanced highers (SCQF level 7),Physics,2018,230,0.122,"1,891",U
+Advanced highers (SCQF level 7),"Religious, Moral and Philosophical Studies",2018,35,0.223,157,A
+Advanced highers (SCQF level 7),"Religious, Moral and Philosophical Studies",2018,70,0.446,157,B & above
+Advanced highers (SCQF level 7),"Religious, Moral and Philosophical Studies",2018,106,0.675,157,C & above
+Advanced highers (SCQF level 7),"Religious, Moral and Philosophical Studies",2018,119,0.758,157,D & above
+Advanced highers (SCQF level 7),"Religious, Moral and Philosophical Studies",2018,38,0.242,157,U
+Advanced highers (SCQF level 7),Spanish,2018,155,0.34,456,A
+Advanced highers (SCQF level 7),Spanish,2018,254,0.557,456,B & above
+Advanced highers (SCQF level 7),Spanish,2018,342,0.75,456,C & above
+Advanced highers (SCQF level 7),Spanish,2018,381,0.836,456,D & above
+Advanced highers (SCQF level 7),Spanish,2018,75,0.16399999999999998,456,U
+Advanced highers (SCQF level 7),Statistics,2018,69,0.371,186,A
+Advanced highers (SCQF level 7),Statistics,2018,107,0.575,186,B & above
+Advanced highers (SCQF level 7),Statistics,2018,144,0.774,186,C & above
+Advanced highers (SCQF level 7),Statistics,2018,158,0.8490000000000001,186,D & above
+Advanced highers (SCQF level 7),Statistics,2018,28,0.151,186,U
+Advanced highers (SCQF level 7),All subjects,2018,7865,0.32299999999999995,"24,331",A
+Advanced highers (SCQF level 7),All subjects,2018,14156,0.5820000000000001,"24,331",B & above
+Advanced highers (SCQF level 7),All subjects,2018,19585,0.805,"24,331",C & above
+Advanced highers (SCQF level 7),All subjects,2018,21542,0.885,"24,331",D & above
+Advanced highers (SCQF level 7),All subjects,2018,2789,0.115,"24,331",U

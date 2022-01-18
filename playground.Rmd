@@ -1,0 +1,98 @@
+---
+title: "playground"
+author: "Stephen J. Price"
+date: "14/01/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readr)
+library(dplyr)
+
+```
+
+```{r data}
+dat <- read_csv("data/scottish_results.csv", na = c("***", "", "NA")) %>% 
+  mutate(across(starts_with("pc"), parse_number)) %>% 
+  filter(if_all(starts_with("n_"), ~!is.na(.))) %>% 
+  relocate(entries, .after = "year") %>% 
+  # select(level, subject, year, entries, starts_with("pc_")) %>% 
+  tidyr::pivot_longer(
+    names_to = c("measure", "grade"), 
+    values_to = "value", 
+    names_sep = "_",
+    cols = -c(level:entries)
+    ) %>% 
+  tidyr::pivot_wider(names_from = measure, values_from = value) %>% 
+  mutate(
+    subject = ifelse(subject == "Totals", "All subjects", subject)
+    ) %>% 
+  dplyr::rename(Year = year, Subject = subject, Qualification = level) %>%
+  dplyr::mutate(
+    pc = pc / 100,
+    `Number of entries` = prettyNum(entries, big.mark = ","),
+    `Grade threshold` = dplyr::if_else(grade %in% c("A", "U"), grade, paste(grade, "& above")),
+    Qualification = dplyr::case_when(
+      Qualification == "scqf7" ~ "Advanced highers (SCQF level 7)",
+      Qualification == "scqf6" ~ "Highers (SCQF level 6)",
+      Qualification == "scqf5" ~ "National 5 (SCQF level 5)",
+      TRUE ~ NA_character_
+    )
+    ) %>% 
+  select(-grade, -entries)
+
+write_csv(dat, "app/data.csv")
+```
+
+```{r time-series}
+subj <- "All subjects"
+threshold <- "All"
+
+datf <- dat %>% 
+  filter_summary(qlevel = "scqf7", subj = subj, threshold = threshold)
+
+ts_plot(datf, threshold)
+ts_table(datf, threshold = "All")
+
+```
+
+```{r distribution}
+ddist <- calculate_grade_dist(datf, subj)
+dist_plot(ddist)
+dist_table(ddist)
+
+```
+
+```{r interrogate}
+dat_int <- calculate_grade_dist(dat) %>% 
+  select(Qualification:Year, Grade, pc) %>% 
+  tidyr::pivot_wider(names_from = Year, values_from = pc)
+
+# Percentage of {A} grades was {lower} in {2020} than {2019}
+grade <- "A"
+direction <- "lower"
+year1 <- as.character(2020)
+year2 <- as.character(2019)
+
+if(direction == "lower") {
+  dat_int %>% 
+    filter(
+      Grade == grade,
+      .data[[year1]] < .data[[year2]]
+      )
+} else {
+  dat_int %>% 
+    filter(
+      Grade == grade,
+      .data[[year1]] > .data[[year2]]
+      )
+}
+
+# then send out to datatable
+
+```
+
