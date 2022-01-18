@@ -92,7 +92,10 @@ ts_plot <- function(data, threshold) {
       ggplot2::aes(colour = `Grade threshold`, 
                    group = `Grade threshold`)
     ) +
-    ggplot2::scale_y_continuous(labels = scales::percent) +
+    ggplot2::scale_y_continuous(
+      labels = scales::percent, 
+      limits = c(0, 1) # max(data$pc)
+      ) +
     ggplot2::scale_color_manual(values = cols_sqa) +
     ggplot2::theme_bw() +
     ggplot2::labs(
