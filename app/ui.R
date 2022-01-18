@@ -92,6 +92,11 @@ ui <- shiny::fluidPage(
         tabPanel("How should I use this app?", includeMarkdown("www/howto.md")),
         tabPanel("What do the graphs and tables show?", includeMarkdown("www/graphs.md")),
         tabPanel("Where do the data come from?", includeMarkdown("www/data.md")),
+        tabPanel("Are all subjects included?", 
+                 includeMarkdown("www/missing.md"),
+                 tableOutput("excluded"),
+                 br()
+                 ),
         tabPanel("Why are there generally more high grades in 2020 and 2021?", includeMarkdown("www/covid.md")),
         tabPanel("I have a query. Who can help?", includeMarkdown("www/query.md"))
       )

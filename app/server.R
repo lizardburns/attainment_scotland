@@ -151,6 +151,10 @@ server <- function(input, output, session) {
         ) # end of button list
       ) # end of options
     )
-    
   })
+  
+  # Q&A tab ----
+  output$excluded <- renderTable(
+    exc
+  )
 }

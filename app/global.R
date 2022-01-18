@@ -6,6 +6,7 @@ library(markdown)
 source("functions.R")
 
 dat <- readr::read_csv("data.csv")
+exc <- readr::read_csv("small_entry.csv")
 
 init_subjects <- dat %>% 
   dplyr::filter(Subject != "All subjects") %>% 
